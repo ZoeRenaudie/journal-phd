@@ -7,12 +7,13 @@ Je suis conservatrice-restauratrice d’art contemporain, responsable du laborat
 
 ## Compétences
 
-•	Langues : français, anglais et connaissances de base en chinois
-•	Gestion	de	collection
-•	Conservation et restauration d’art contemporain
-•	Régie d’œuvre
-•	Gestion	de	projet	et	production	événementielle
-•	Création et gestion de bases de données
+•	Langues : français, anglais et connaissances de base en chinois  
+•	Recherche académique  
+•	Gestion	de	collection  
+•	Conservation et restauration d’art contemporain  
+•	Régie d’œuvre  
+•	Gestion	de	projet	et	production	événementielle  
+•	Création et gestion de bases de données  
 •	Maîtrise : Bases de données et gestion de collection, Filemaker Pro, Suite Adobe Créative,  	Open	Office,	Microsoft,	Zotero,	Asana,	Zetler, Vscode, Oxygene XML Editor, Github
 
 ## Activité de recherche
