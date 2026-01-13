@@ -1,5 +1,6 @@
 <script>
 	let { posts = [] } = $props();
+	import { base } from '$app/paths';
 </script>
 
 
@@ -7,7 +8,7 @@
 	{#each posts as post}
 		<li>
 			<article>
-				<a href="/blog/{post.slug}">
+				<a href="{base}/blog/{post.slug}">
 					<img
 					src={post.coverImage}
 					alt=""

@@ -26,5 +26,5 @@
 {:else}
 	<p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "{category}".</p>
 
-	<p><a href="/blog">Back to blog</a></p>
+	<p><a href="{base}/blog">Back to blog</a></p>
 {/if}

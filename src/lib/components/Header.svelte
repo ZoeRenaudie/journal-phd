@@ -1,6 +1,6 @@
 <script>
 	import { preventDefault } from 'svelte/legacy';
-
+ 	import { base } from '$app/paths';
 	import MainNav from './MainNav.svelte'
 	import HamburgerMenuButton from './HamburgerMenuButton.svelte'
 	import { siteTitle } from '$lib/config'
@@ -17,7 +17,7 @@
 		Skip to main content
 	</a>
 	
-	<a href="/" class="site-title">
+	<a href="{base}/" class="site-title">
 		{siteTitle}
 	</a>
 	
