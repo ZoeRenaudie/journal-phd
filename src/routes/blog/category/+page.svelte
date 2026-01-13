@@ -1,4 +1,6 @@
 <script>
+	 import { base } from '$app/paths';
+	 
 	let { data } = $props();
   const { uniqueCategories } = data
 </script>

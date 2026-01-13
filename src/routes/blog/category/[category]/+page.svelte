@@ -1,6 +1,7 @@
 <!-- Renders any page at /blog/category/* -->
 <script>
-	import PostsList from '$lib/components/PostsList.svelte'
+	 import { base } from '$app/paths';
+	 import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
   import { postsPerPage } from '$lib/config'
 
