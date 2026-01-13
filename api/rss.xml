@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>ZOË RENAUDIE</title>
+<description>Carnet de recherche de Zoë Renaudie, doctorante en histoire de l'art à l'Université de Montréal.</description>
+<link>https://github.com/ZoeRenaudie/fluffy-system</link>
+<atom:link href="https://zoe.renaudie.com/api/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<guid isPermaLink="true">https://zoe.renaudie.com/blog/Faire ce site web</guid>
+<title>Créer ce blog</title>
+<link>https://zoe.renaudie.com/blog/Faire ce site web</link>
+<description>This post explains how I created this blog using SvelteKit, Markdown, and Tailwind CSS.</description>
+<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

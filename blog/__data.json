@@ -1,0 +1,1 @@
+{"type":"data","nodes":[null,{"type":"data","data":[{"posts":1,"total":12},[2],{"title":3,"slug":4,"excerpt":5,"date":6,"categories":7},"Créer ce blog","Faire ce site web","This post explains how I created this blog using SvelteKit, Markdown, and Tailwind CSS.","2026-01-13",[8,9,10,11],"sveltekit","web","css","markdown",1],"uses":{}}]}
