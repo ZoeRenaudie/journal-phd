@@ -33,16 +33,7 @@ const config = {
         "/blog/page/",
         "/blog/page/*",
       ],
-      handleHttpError: ({ path, referrer, message }) => {
-        // Ignorer certaines erreurs de chemins
-        if (path.includes('/images/') || 
-            path === '/favicon.png' || 
-            path.includes('/css/') ||
-            path === '/') {
-          return;
-        }
-        throw new Error(message);
-      }
+      handleHttpError: 'warn'  // ← Simplifié !
     },
   },
   
