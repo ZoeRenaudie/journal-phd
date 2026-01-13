@@ -14,12 +14,12 @@
 </script>
 
 <li>
-  
+    <a
     href={fullHref}
     onclick={maybeCloseMenu}
     class:active={isCurrentPage}
     aria-current={isCurrentPage ? 'page' : false}
-  <a>
+>
     {@render children?.()}
   </a>
 </li>
