@@ -1,7 +1,7 @@
 import { p as postsPerPage } from "./config.js";
 const fetchPosts = async ({ offset = 0, limit = postsPerPage, category = "" } = {}) => {
   const posts = await Promise.all(
-    Object.entries(/* @__PURE__ */ Object.assign({ "/src/lib/posts/exemple.md": () => import("./exemple.js"), "/src/lib/posts/heading-links-example.md": () => import("./heading-links-example.js"), "/src/lib/posts/mdsvex-component-example.md": () => import("./mdsvex-component-example.js"), "/src/lib/posts/syntax-highlighting-example.md": () => import("./syntax-highlighting-example.js") })).map(async ([path, resolver]) => {
+    Object.entries(/* @__PURE__ */ Object.assign({ "/src/lib/posts/heading-links-example.md": () => import("./heading-links-example.js"), "/src/lib/posts/mdsvex-component-example.md": () => import("./mdsvex-component-example.js"), "/src/lib/posts/syntax-highlighting-example.md": () => import("./syntax-highlighting-example.js") })).map(async ([path, resolver]) => {
       const { metadata } = await resolver();
       const slug = path.split("/").pop().slice(0, -3);
       return { ...metadata, slug };

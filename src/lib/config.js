@@ -5,7 +5,7 @@
  * PLEASE BE SURE TO UPDATE THEM ALL! Thank you!
  **/ 
 
-export const siteTitle = 'Journal de thèse - Zoë Renaudie'
+export const siteTitle = 'ZOË RENAUDIE'
 export const siteDescription = 'Carnet de recherche de Zoë Renaudie, doctorante en histoire de l\'art à l\'Université de Montréal.'
 export const siteURL = 'zoe.renaudie.com'
 export const siteLink = 'https://github.com/ZoeRenaudie/fluffy-system'
@@ -20,7 +20,7 @@ export const navItems = [
 		title: 'Blog',
 		route: '/blog'
 	}, {
-		title: 'About',
+		title: 'À propos',
 		route: '/about'
 	}, {
 		title: 'Contact',

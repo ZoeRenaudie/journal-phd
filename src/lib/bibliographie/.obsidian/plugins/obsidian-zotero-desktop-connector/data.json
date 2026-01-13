@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "biblio",
+      "format": "formatted-bibliography",
+      "cslStyle": "chicago-author-date"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "livre",
+      "outputPathTemplate": "Zotero/{{title}}.md",
+      "imageOutputPathTemplate": "Zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "Templates/zotemplate.md",
+      "cslStyle": "chicago-author-date"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

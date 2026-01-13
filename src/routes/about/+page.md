@@ -1,21 +1,23 @@
 <svelte:head>
-	<title>About</title>
+	<title>À propos</title>
 </svelte:head>
 
-# About
+## Biographie
+Je suis conservatrice-restauratrice d’art contemporain, responsable du laboratoire L’Ouvroir d’histoire de l’art et muséologie numérique et chargée de cours. Forte de plus d’une décennie d’expérience au sein d’institutions culturelles, je me suis spécialisée dans la documentation des expositions et la conservation d’œuvres d’art complexes. Cette expertise pratique a inspiré son retour à la recherche. Doctorante en histoire de l’art, option muséologie, sous la direction d’Emmanuel Château-Dutier à l’Université de Montréal, je mène une thèse intitulée _Conserver l’éphémère : pour la documentation de l’exposition_, dans le cadre du partenariat Nouveaux usages des collections dans les musées d’art (CIÉCO).
 
-This is an example of how you can have _markdown_ in page content!
+## Compétences
 
-- How
-- **Cool**
-- Is _that_!?
+## Activité de recherche
+### Publications
 
-If you like, you can also import markdown into any Svelte page.
+### Conférences
 
-Anyway, you can find this file here:
+### Enseignement
 
-```
-src/routes/about/+page.md
-```
+## Formation
 
-Here's the [home link](/) if you wanna go back.
+## Expériences professionnelles
+
+## Distinctions
+
+## Implication associative

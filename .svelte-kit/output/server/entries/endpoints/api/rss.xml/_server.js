@@ -2,7 +2,7 @@ import { s as siteTitle, a as siteDescription, b as siteLink, c as siteURL } fro
 const prerender = true;
 const GET = async () => {
   const data = await Promise.all(
-    Object.entries(/* @__PURE__ */ Object.assign({ "/src/lib/posts/exemple.md": () => import("../../../../chunks/exemple.js"), "/src/lib/posts/heading-links-example.md": () => import("../../../../chunks/heading-links-example.js"), "/src/lib/posts/mdsvex-component-example.md": () => import("../../../../chunks/mdsvex-component-example.js"), "/src/lib/posts/syntax-highlighting-example.md": () => import("../../../../chunks/syntax-highlighting-example.js") })).map(async ([path, page]) => {
+    Object.entries(/* @__PURE__ */ Object.assign({ "/src/lib/posts/heading-links-example.md": () => import("../../../../chunks/heading-links-example.js"), "/src/lib/posts/mdsvex-component-example.md": () => import("../../../../chunks/mdsvex-component-example.js"), "/src/lib/posts/syntax-highlighting-example.md": () => import("../../../../chunks/syntax-highlighting-example.js") })).map(async ([path, page]) => {
       const { metadata } = await page();
       const slug = path.split("/").pop().split(".").shift();
       return { ...metadata, slug };

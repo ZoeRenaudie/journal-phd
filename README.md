@@ -1,2 +1,7 @@
-Journal de blog fait en partie avec [SvelteKit](https://kit.svelte.dev/) 
-avec l'aide de [GitHub repo here](https://github.com/josh-collinsworth/sveltekit-blog-starter).
+# ZOË RENAUDIE
+
+Responsable de L'Ouvroir d'histoire de l'art et muséologie numériques
+
+Conservatrice-restauratrice d'art contemporain
+
+Candidate au doctorat en histoire de l’art à l'Université de Montréal, option muséologie (dir. Emmanuel Château-Dutier)

@@ -1,1 +1,0 @@
-const t="Journal de thèse - Zoë Renaudie",e="Carnet de recherche de Zoë Renaudie, doctorante en histoire de l'art à l'Université de Montréal.",o="Zoë Renaudie",i=10,a=[{title:"Blog",route:"/blog"},{title:"About",route:"/about"},{title:"Contact",route:"/contact"},{title:"Bibliographie",route:"/bibliographie"}];export{t as a,o as b,a as n,i as p,e as s};

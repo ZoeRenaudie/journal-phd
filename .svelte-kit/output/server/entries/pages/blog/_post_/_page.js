@@ -17,7 +17,7 @@ const __variableDynamicImportRuntimeHelper = (glob, path, segs) => {
 };
 const load = async ({ params }) => {
   try {
-    const post = await __variableDynamicImportRuntimeHelper(/* @__PURE__ */ Object.assign({ "../../../lib/posts/exemple.md": () => import("../../../../chunks/exemple.js"), "../../../lib/posts/heading-links-example.md": () => import("../../../../chunks/heading-links-example.js"), "../../../lib/posts/mdsvex-component-example.md": () => import("../../../../chunks/mdsvex-component-example.js"), "../../../lib/posts/syntax-highlighting-example.md": () => import("../../../../chunks/syntax-highlighting-example.js") }), `../../../lib/posts/${params.post}.md`, 6);
+    const post = await __variableDynamicImportRuntimeHelper(/* @__PURE__ */ Object.assign({ "../../../lib/posts/heading-links-example.md": () => import("../../../../chunks/heading-links-example.js"), "../../../lib/posts/mdsvex-component-example.md": () => import("../../../../chunks/mdsvex-component-example.js"), "../../../lib/posts/syntax-highlighting-example.md": () => import("../../../../chunks/syntax-highlighting-example.js") }), `../../../lib/posts/${params.post}.md`, 6);
     return {
       PostContent: post.default,
       meta: { ...post.metadata, slug: params.post }

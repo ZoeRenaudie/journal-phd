@@ -1,11 +1,16 @@
 import "clsx";
-import { C as Callout } from "./Callout.js";
+function Callout($$renderer, $$props) {
+  let { children } = $$props;
+  $$renderer.push(`<div class="callout">`);
+  children?.($$renderer);
+  $$renderer.push(`<!----></div>`);
+}
 const metadata = {
   "title": "A Markdown post with a Svelte component",
   "date": "2023-04-28",
   "updated": "2023-04-28",
   "categories": ["sveltekit", "markdown", "svelte"],
-  "coverImage": "${base}/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg",
+  "coverImage": "/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg",
   "coverWidth": 16,
   "coverHeight": 9,
   "excerpt": "This post demonstrates how to include a Svelte component in a Markdown post."

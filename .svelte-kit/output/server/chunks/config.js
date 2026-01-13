@@ -1,4 +1,4 @@
-const siteTitle = "Journal de thèse - Zoë Renaudie";
+const siteTitle = "ZOË RENAUDIE";
 const siteDescription = "Carnet de recherche de Zoë Renaudie, doctorante en histoire de l'art à l'Université de Montréal.";
 const siteURL = "zoe.renaudie.com";
 const siteLink = "https://github.com/ZoeRenaudie/fluffy-system";
@@ -10,7 +10,7 @@ const navItems = [
     route: "/blog"
   },
   {
-    title: "About",
+    title: "À propos",
     route: "/about"
   },
   {
