@@ -37,18 +37,18 @@
 </script>
 
 <svelte:head>
-	<link rel="stylesheet" href="/css/vars.css" />
-	<link rel="stylesheet" href="/css/root.css" />
-	<link rel="stylesheet" href="/css/fonts.css" />
-	<link rel="stylesheet" href="/css/typography.css" />
-	<link rel="stylesheet" href="/css/layout.css" />
-	<link rel="stylesheet" href="/css/components.css" />
-	<link rel="stylesheet" href="/css/header-and-footer.css" />
-	<link rel="stylesheet" href="/css/forms.css" />
-	<link rel="stylesheet" href="/css/animation.css" />
-	<link rel="stylesheet" href="/css/utilities.css" />
-	<link rel="stylesheet" href="/css/code.css" />
-	<link rel="stylesheet" href="/css/prism.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/vars.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/root.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/fonts.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/typography.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/layout.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/components.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/header-and-footer.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/forms.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/animation.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/utilities.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/code.css" />
+	<link rel="stylesheet" href="%sveltekit.assets%/css/prism.css" />
 	<link
 		rel="alternate"
 		type="application/rss+xml"

@@ -35,7 +35,9 @@ const config = {
       ],
       handleHttpError: ({ path, referrer, message }) => {
         // Ignorer certaines erreurs
-        if (path.includes('/images/') || path === '/favicon.png') {
+        if (path.includes('/images/') || 
+            path === '/favicon.png' || 
+            path.includes('/css/')) {
           return;
         }
         throw new Error(message);
