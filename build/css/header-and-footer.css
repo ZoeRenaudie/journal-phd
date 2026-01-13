@@ -190,7 +190,7 @@ header {
 }
 
 footer {
-	background: var(--darker);
+	background: var(--dark);
 	color: var(--paper);
 	display: grid;
 	grid-template-columns: 100%;

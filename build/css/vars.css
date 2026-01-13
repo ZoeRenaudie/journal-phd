@@ -1,12 +1,12 @@
 :root {
 	/* Colors */
-	--accent: #eeb2ec;
-	--background: #f1e9f1;
-	--lightAccent: #f4c4e5;
-	--lighterAccent: #eaaef9;
-	--dark: hsl(297, 43%, 16%);
-	--darker: #1e0b1d;
-	--slate: #2a1128;
+	--accent: #3d3dfc;
+	--background: #bebef8;
+	--lightAccent: #9898f5; /** header*/
+	--lighterAccent: #afaff9;  /** backgroud ?*/
+	--dark: #3d3dfc; /** lignes*/
+	--darker: #ffff8b; /** polices titres*/ 
+	--slate: #005a6d; /** polices normales*/
 
 	--white: #fff;
 	--black: #152030;
