@@ -35,7 +35,8 @@ const config = {
       ],
         handleHttpError: () => {},  // Ignorer TOUTES les erreurs
   handleMissingId: () => {},
-  handleEntryGeneratorMismatch: () => {}
+  handleEntryGeneratorMismatch: () => {},
+    strict: false 
     },
   },
   
