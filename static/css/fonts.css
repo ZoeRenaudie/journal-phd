@@ -3,7 +3,7 @@
 /* ----------------------------- */
 @font-face {
   font-family: "DM Sans";
-  src: url('/journal-phd/fonts/BBBDMSans-Regular.woff2') format('woff2');
+  src: url('../fonts/BBBDMSans-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: "DM Sans";
-  src: url('/journal-phd/fonts/BBBDMSans-Bold.woff2') format('woff2');
+  src: url('../fonts/BBBDMSans-Bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -20,7 +20,7 @@
 /* Italique simulé */
 @font-face {
   font-family: "DM Sans";
-  src: url('/journal-phd/fonts/BBBDMSans-Regular.woff2') format('woff2');
+  src: url('../fonts/BBBDMSans-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: italic 07deg;
   font-display: swap;
@@ -29,7 +29,7 @@
 /* DM Sans - Bold Italic simulé */
 @font-face {
   font-family: "DM Sans";
-  src: url('/journal-phd/fonts/BBBDMSans-Bold.woff2') format('woff2');
+  src: url('../fonts/BBBDMSans-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: bold italic 07deg;
   font-display: swap;
@@ -40,7 +40,7 @@
 /* ----------------------------- */
 @font-face {
   font-family: "BBB Manifont Grotesk";
-  src: url('/journal-phd/fonts/BBBManifontGrotesk-Book.woff') format('woff');
+  src: url('../fonts/BBBManifontGrotesk-Book.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
   font-family: "BBB Manifont Grotesk";
-  src: url('/journal-phd/fonts/BBBManifontGrotesk-BookItalic.woff') format('woff');
+  src: url('../fonts/BBBManifontGrotesk-BookItalic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -59,7 +59,7 @@
 /* ----------------------------- */	
 @font-face {
 	font-family: "Fira Code";
-	src: url('/journal-phd/fonts/FiraCode-Regular.woff2'), format('woff2');
+	src: url('../fonts/FiraCode-Regular.woff2'), format('woff2');
 	font-display: swap;
 	font-style: normal;
 	font-weight: normal;
