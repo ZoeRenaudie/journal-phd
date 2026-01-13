@@ -35,26 +35,29 @@
 		preloadCode(...navRoutes);
 	});
 </script>
+<script>
+  import { base } from '$app/paths';
+</script>
 
 <svelte:head>
-	<link rel="stylesheet" href="%sveltekit.assets%/css/vars.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/root.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/fonts.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/typography.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/layout.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/components.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/header-and-footer.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/forms.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/animation.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/utilities.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/code.css" />
-	<link rel="stylesheet" href="%sveltekit.assets%/css/prism.css" />
-	<link
-		rel="alternate"
-		type="application/rss+xml"
-		title={siteTitle}
-		href="http://{siteURL}/api/rss.xml"
-	/>
+    <link rel="stylesheet" href="{base}/css/vars.css" />
+    <link rel="stylesheet" href="{base}/css/root.css" />
+    <link rel="stylesheet" href="{base}/css/fonts.css" />
+    <link rel="stylesheet" href="{base}/css/typography.css" />
+    <link rel="stylesheet" href="{base}/css/layout.css" />
+    <link rel="stylesheet" href="{base}/css/components.css" />
+    <link rel="stylesheet" href="{base}/css/header-and-footer.css" />
+    <link rel="stylesheet" href="{base}/css/forms.css" />
+    <link rel="stylesheet" href="{base}/css/animation.css" />
+    <link rel="stylesheet" href="{base}/css/utilities.css" />
+    <link rel="stylesheet" href="{base}/css/code.css" />
+    <link rel="stylesheet" href="{base}/css/prism.css" />
+    <link
+        rel="alternate"
+        type="application/rss+xml"
+        title={siteTitle}
+        href="{base}/api/rss.xml"
+    />
 </svelte:head>
 
 <!--
