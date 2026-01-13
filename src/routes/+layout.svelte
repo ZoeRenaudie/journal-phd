@@ -34,8 +34,6 @@
 		const navRoutes = navItems.map((item) => item.route);
 		preloadCode(...navRoutes);
 	});
-</script>
-<script>
   import { base } from '$app/paths';
 </script>
 
