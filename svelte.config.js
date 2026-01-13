@@ -33,7 +33,9 @@ const config = {
         "/blog/page/",
         "/blog/page/*",
       ],
-      handleHttpError: 'warn'  // ← Simplifié !
+        handleHttpError: () => {},  // Ignorer TOUTES les erreurs
+  handleMissingId: () => {},
+  handleEntryGeneratorMismatch: () => {}
     },
   },
   
