@@ -1,1 +1,0 @@
-import"./CWj6FrbW.js";import{b as t,H as i,r as p}from"./CKWCygOj.js";import{f as m,a as l}from"./DEqlx5Hf.js";import{s as d}from"./DgAoW_6Q.js";var e=m('<div class="callout"><!></div>');function h(r,a){var o=e(),s=t(o);d(s,()=>a.children??i),p(o),l(r,o)}export{h as C};

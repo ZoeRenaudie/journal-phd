@@ -1,6 +1,8 @@
 import { _ as __vite_glob_0_15, a as __vite_glob_0_14, b as __vite_glob_0_13, c as __vite_glob_0_12, d as __vite_glob_0_11, e as __vite_glob_0_10, f as __vite_glob_0_9, g as __vite_glob_0_8, h as __vite_glob_0_7, i as __vite_glob_0_6, j as __vite_glob_0_5, k as __vite_glob_0_4, l as __vite_glob_0_3, m as __vite_glob_0_2, n as __vite_glob_0_1, o as __vite_glob_0_0 } from "../../../chunks/Thinking About Exhibitions.js";
 import { b as store_get, e as ensure_array_like, d as escape_html, a as attr, u as unsubscribe_stores } from "../../../chunks/index2.js";
 import { w as writable } from "../../../chunks/index.js";
+import { b as base } from "../../../chunks/server.js";
+import "@sveltejs/kit/internal/server";
 import { h as html } from "../../../chunks/html.js";
 function _page($$renderer, $$props) {
   $$renderer.component(($$renderer2) => {
@@ -10,17 +12,10 @@ function _page($$renderer, $$props) {
     const entries = Object.entries(modules).map(([path, mod]) => {
       const filename = path.split("/").pop().replace(".md", "");
       const slug = normalizeSlug(filename);
-      const metadata = mod.metadata ?? {};
-      return { slug, ...metadata, content: mod.default };
+      return { slug, ...mod.metadata, content: mod.default };
     }).sort((a, b) => (b.date || 0) - (a.date || 0));
-    const entriesByTheme = {};
-    for (const entry of entries) {
-      const theme = entry.theme || "Autres";
-      if (!entriesByTheme[theme]) entriesByTheme[theme] = [];
-      entriesByTheme[theme].push(entry);
-    }
-    const themes = Object.keys(entriesByTheme).sort();
     const selectedTheme = writable("Tous");
+    const themes = [...new Set(entries.map((e) => e.theme || "Autres"))];
     $$renderer2.push(`<h1>Bibliographie commentée</h1> <div class="theme-selector"><label for="theme-select">Filtrer par thème :</label> `);
     $$renderer2.select(
       {
@@ -49,10 +44,10 @@ function _page($$renderer, $$props) {
     for (let $$index_2 = 0, $$length = each_array_1.length; $$index_2 < $$length; $$index_2++) {
       let theme = each_array_1[$$index_2];
       $$renderer2.push(`<section><h2>${escape_html(theme)}</h2> <ul><!--[-->`);
-      const each_array_2 = ensure_array_like(entriesByTheme[theme]);
+      const each_array_2 = ensure_array_like(entries.filter((e) => (e.theme || "Autres") === theme));
       for (let $$index_1 = 0, $$length2 = each_array_2.length; $$index_1 < $$length2; $$index_1++) {
         let entry = each_array_2[$$index_1];
-        $$renderer2.push(`<li class="research-note"><p class="citation"><a${attr("href", `/bibliographie/${entry.slug}`)}>${html(entry.citation)}</a></p></li>`);
+        $$renderer2.push(`<li class="research-note"><p class="citation"><a${attr("href", `${base}/bibliographie/${entry.slug}`)}>${html(entry.citation)}</a></p></li>`);
       }
       $$renderer2.push(`<!--]--></ul></section>`);
     }

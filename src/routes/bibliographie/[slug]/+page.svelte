@@ -14,7 +14,6 @@
 
 <article class="research-note">
   <header>
-
     <div class="yaml-box">
       {#each displayFields as key}
         {#if metadata[key] !== undefined}

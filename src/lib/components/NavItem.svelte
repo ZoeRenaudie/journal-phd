@@ -3,7 +3,7 @@
   import { currentPage, isMenuOpen } from '../assets/js/store';
   
   let { href, children } = $props();
-  let fullHref = $derived(`${base}${href}`);  // ← Ajoute base ici
+  let fullHref = $derived(`${base}${href}`);  
   let isCurrentPage = $derived($currentPage.startsWith(fullHref));
   
   const maybeCloseMenu = () => {
