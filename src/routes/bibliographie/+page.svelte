@@ -50,7 +50,7 @@
       {#each entriesByTheme[theme] as entry}
         <li class="research-note">
           <p class="citation">
-            <a href={`/journal-phd/bibliographie/${entry.slug}`}>
+            <a href={`/bibliographie/${entry.slug}`}>
               {@html entry.citation}
             </a>
           </p>
