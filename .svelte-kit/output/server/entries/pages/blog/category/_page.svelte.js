@@ -1,4 +1,6 @@
 import { h as head, e as ensure_array_like, a as attr, d as escape_html, f as stringify } from "../../../../chunks/index2.js";
+import { b as base } from "../../../../chunks/server.js";
+import "@sveltejs/kit/internal/server";
 function _page($$renderer, $$props) {
   let { data } = $$props;
   const { uniqueCategories } = data;
@@ -11,7 +13,7 @@ function _page($$renderer, $$props) {
   const each_array = ensure_array_like(uniqueCategories);
   for (let $$index = 0, $$length = each_array.length; $$index < $$length; $$index++) {
     let category = each_array[$$index];
-    $$renderer.push(`<li><a${attr("href", `/blog/category/${stringify(category.title)}`)}>${escape_html(category.title)}</a> (${escape_html(category.count)})</li>`);
+    $$renderer.push(`<li><a${attr("href", `${stringify(base)}/blog/category/${stringify(category.title)}`)}>${escape_html(category.title)}</a> (${escape_html(category.count)})</li>`);
   }
   $$renderer.push(`<!--]--></ul></div>`);
 }

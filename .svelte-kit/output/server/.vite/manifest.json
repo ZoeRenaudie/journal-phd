@@ -6,7 +6,8 @@
     "isEntry": true,
     "imports": [
       "_internal.js",
-      "_environment.js"
+      "_environment.js",
+      "_server.js"
     ]
   },
   "README.md": {
@@ -24,6 +25,7 @@
     "name": "Pagination",
     "imports": [
       "_index2.js",
+      "_server.js",
       "_config.js"
     ]
   },
@@ -84,7 +86,8 @@
     "imports": [
       "_legacy-server.js",
       "_index2.js",
-      "_environment.js"
+      "_environment.js",
+      "_server.js"
     ]
   },
   "_legacy-server.js": {
@@ -93,6 +96,10 @@
     "imports": [
       "_index2.js"
     ]
+  },
+  "_server.js": {
+    "file": "chunks/server.js",
+    "name": "server"
   },
   "_shared.js": {
     "file": "chunks/shared.js",
@@ -120,6 +127,7 @@
     "imports": [
       "_shared.js",
       "_false.js",
+      "_server.js",
       "_environment.js"
     ]
   },
@@ -130,7 +138,7 @@
     "isEntry": true,
     "imports": [
       "_false.js",
-      "_environment.js",
+      "_server.js",
       "_shared.js",
       "_exports.js",
       "_utils.js",
@@ -175,6 +183,7 @@
     "isEntry": true,
     "imports": [
       "_index2.js",
+      "_server.js",
       "_exports.js",
       "_utils.js",
       "_state.svelte.js"
@@ -194,6 +203,7 @@
     "imports": [
       "_index2.js",
       "_legacy-server.js",
+      "_server.js",
       "_index.js",
       "_config.js",
       "_exports.js",
@@ -351,7 +361,8 @@
     "src": "src/routes/blog/[post]/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index2.js"
+      "_index2.js",
+      "_server.js"
     ]
   },
   "src/routes/blog/category/+page.server.js": {
@@ -366,7 +377,8 @@
     "src": "src/routes/blog/category/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index2.js"
+      "_index2.js",
+      "_server.js"
     ]
   },
   "src/routes/blog/category/[category]/+page.server.js": {
@@ -385,6 +397,7 @@
     "isEntry": true,
     "imports": [
       "_index2.js",
+      "_server.js",
       "_Pagination.js"
     ]
   },

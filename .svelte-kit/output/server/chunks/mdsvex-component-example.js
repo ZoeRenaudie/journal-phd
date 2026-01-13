@@ -5,7 +5,7 @@ const metadata = {
   "date": "2023-04-28",
   "updated": "2023-04-28",
   "categories": ["sveltekit", "markdown", "svelte"],
-  "coverImage": "/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg",
+  "coverImage": "${base}/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg",
   "coverWidth": 16,
   "coverHeight": 9,
   "excerpt": "This post demonstrates how to include a Svelte component in a Markdown post."

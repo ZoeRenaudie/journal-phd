@@ -1,4 +1,6 @@
 import { h as head, a as attr, ac as attr_style, d as escape_html, e as ensure_array_like, f as stringify } from "../../../../chunks/index2.js";
+import { b as base } from "../../../../chunks/server.js";
+import "@sveltejs/kit/internal/server";
 function _page($$renderer, $$props) {
   $$renderer.component(($$renderer2) => {
     let { data } = $$props;
@@ -28,7 +30,7 @@ function _page($$renderer, $$props) {
       const each_array = ensure_array_like(categories);
       for (let $$index = 0, $$length = each_array.length; $$index < $$length; $$index++) {
         let category = each_array[$$index];
-        $$renderer2.push(`<li><a${attr("href", `/blog/category/${stringify(category)}/`)}>${escape_html(category)}</a></li>`);
+        $$renderer2.push(`<li><a${attr("href", `${stringify(base)}/blog/category/${stringify(category)}/`)}>${escape_html(category)}</a></li>`);
       }
       $$renderer2.push(`<!--]--></ul></aside>`);
     } else {

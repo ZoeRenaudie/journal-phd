@@ -1,6 +1,6 @@
 <script>
   import { writable } from "svelte/store";
-
+  import { base } from '$app/paths';
   const modules = import.meta.glob("/src/lib/bibliographie/*.md", { eager: true });
 
   // Normalisation du slug pour URLs
@@ -50,7 +50,7 @@
       {#each entriesByTheme[theme] as entry}
         <li class="research-note">
           <p class="citation">
-            <a href={`/bibliographie/${entry.slug}`}>
+            <a href={`${base}/bibliographie/${entry.slug}`}>
               {@html entry.citation}
             </a>
           </p>

@@ -1,4 +1,4 @@
-import { h as head, d as escape_html, a as attr } from "../../../../../../chunks/index2.js";
+import { h as head, d as escape_html, a as attr, f as stringify } from "../../../../../../chunks/index2.js";
 import { a as Pagination, P as PostsList } from "../../../../../../chunks/Pagination.js";
 import { a as siteDescription } from "../../../../../../chunks/config.js";
 function _page($$renderer, $$props) {
@@ -23,7 +23,7 @@ function _page($$renderer, $$props) {
     $$renderer.push(`<!---->`);
   } else {
     $$renderer.push("<!--[!-->");
-    $$renderer.push(`<h1>Oops!</h1> <p>Sorry, no posts to show here.</p> <a href="/blog">Back to blog</a>`);
+    $$renderer.push(`<h1>Oops!</h1> <p>Sorry, no posts to show here.</p> <a${attr("href", `${stringify(base)}/blog`)}>Back to blog</a>`);
   }
   $$renderer.push(`<!--]-->`);
 }

@@ -1,4 +1,6 @@
 import { e as ensure_array_like, a as attr, ac as attr_style, d as escape_html, f as stringify } from "./index2.js";
+import { b as base } from "./server.js";
+import "@sveltejs/kit/internal/server";
 import { p as postsPerPage } from "./config.js";
 function PostsList($$renderer, $$props) {
   let { posts = [] } = $$props;
@@ -6,7 +8,7 @@ function PostsList($$renderer, $$props) {
   const each_array = ensure_array_like(posts);
   for (let $$index = 0, $$length = each_array.length; $$index < $$length; $$index++) {
     let post = each_array[$$index];
-    $$renderer.push(`<li><article><a${attr("href", `/blog/${stringify(post.slug)}`)}><img${attr("src", post.coverImage)} alt=""${attr("width", post.coverWidth)}${attr("height", post.coverHeight)}${attr_style(`ratio: ${stringify(post.coverWidth)} / ${stringify(post.coverHeight)}`)}/> <h2>${escape_html(post.title)}</h2></a></article> <p>${escape_html(post.excerpt)}</p></li>`);
+    $$renderer.push(`<li><article><a${attr("href", `${stringify(base)}/blog/${stringify(post.slug)}`)}><img${attr("src", post.coverImage)} alt=""${attr("width", post.coverWidth)}${attr("height", post.coverHeight)}${attr_style(`ratio: ${stringify(post.coverWidth)} / ${stringify(post.coverHeight)}`)}/> <h2>${escape_html(post.title)}</h2></a></article> <p>${escape_html(post.excerpt)}</p></li>`);
   }
   $$renderer.push(`<!--]--></ul>`);
 }

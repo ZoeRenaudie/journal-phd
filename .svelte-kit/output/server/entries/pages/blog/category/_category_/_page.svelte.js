@@ -1,4 +1,6 @@
-import { h as head, d as escape_html, f as stringify } from "../../../../../chunks/index2.js";
+import { h as head, d as escape_html, a as attr, f as stringify } from "../../../../../chunks/index2.js";
+import { b as base } from "../../../../../chunks/server.js";
+import "@sveltejs/kit/internal/server";
 import { P as PostsList, a as Pagination } from "../../../../../chunks/Pagination.js";
 function _page($$renderer, $$props) {
   let { data } = $$props;
@@ -21,7 +23,7 @@ function _page($$renderer, $$props) {
     $$renderer.push(`<!---->`);
   } else {
     $$renderer.push("<!--[!-->");
-    $$renderer.push(`<p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "${escape_html(category)}".</p> <p><a href="/blog">Back to blog</a></p>`);
+    $$renderer.push(`<p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "${escape_html(category)}".</p> <p><a${attr("href", `${stringify(base)}/blog`)}>Back to blog</a></p>`);
   }
   $$renderer.push(`<!--]-->`);
 }

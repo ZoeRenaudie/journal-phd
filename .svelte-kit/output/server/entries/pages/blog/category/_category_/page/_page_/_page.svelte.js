@@ -31,7 +31,7 @@ function _page($$renderer, $$props) {
     $$renderer.push(`<!---->`);
   } else {
     $$renderer.push("<!--[!-->");
-    $$renderer.push(`<h1>Oops!</h1> <p>Sorry, no posts to show here.</p> <a href="/blog">Back to blog</a>`);
+    $$renderer.push(`<h1>Oops!</h1> <p>Sorry, no posts to show here.</p> <a${attr("href", `${stringify(base)}/blog`)}>Back to blog</a>`);
   }
   $$renderer.push(`<!--]-->`);
 }
