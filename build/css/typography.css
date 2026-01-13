@@ -14,14 +14,13 @@ body {
 	}
 }
 
-:where(h1, h2, h3, h4, h5, h6) {
-	margin: 4.5rem 0 1rem;
-	line-height: 1.1;
-	font-family: var(--accentFont);
-	font-weight: bold;
-	color: var(--slate);
-	text-wrap: balance;
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--accentFont) !important;
+  font-weight: normal !important;
+  line-height: 1.1;
+  color: var(--slate);
 }
+
 
 h1 {
 	font-size: clamp(2.5rem, calc(2.5rem + 1vw), 3.5rem);

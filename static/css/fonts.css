@@ -1,35 +1,62 @@
+/* ----------------------------- */
+/* DM Sans - texte courant */
+/* ----------------------------- */
 @font-face {
-	font-family: "Atkinson Hyperlegible";
-	src: url('/fonts/Atkinson-Hyperlegible-Regular-102a.woff2'), format('woff2');
-	font-display: swap;
-	font-weight: normal;
-	font-style: normal;
+  font-family: "DM Sans";
+  src: url('/fonts/BBBDMSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-	font-family: "Atkinson Hyperlegible";
-	src: url('/fonts/Atkinson-Hyperlegible-Italic-102a.woff2'), format('woff2');
-	font-display: swap;
-	font-weight: normal;
-	font-style: italic;
+  font-family: "DM Sans";
+  src: url('/fonts/BBBDMSans-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Italique simulé */
+@font-face {
+  font-family: "DM Sans";
+  src: url('/fonts/BBBDMSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic 07deg;
+  font-display: swap;
+}
+
+/* DM Sans - Bold Italic simulé */
+@font-face {
+  font-family: "DM Sans";
+  src: url('/fonts/BBBDMSans-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: bold italic 07deg;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* BBB Manifont Grotesk - titres */
+/* ----------------------------- */
+@font-face {
+  font-family: "BBB Manifont Grotesk";
+  src: url('/fonts/BBBManifontGrotesk-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-	font-family: "Atkinson Hyperlegible";
-	src: url('/fonts/Atkinson-Hyperlegible-Bold-102a.woff2'), format('woff2');
-	font-display: swap;
-	font-weight: bold;
-	font-style: normal;
+  font-family: "BBB Manifont Grotesk";
+  src: url('/fonts/BBBManifontGrotesk-BookItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
 }
 
-@font-face {
-	font-family: "Atkinson Hyperlegible";
-	src: url('/fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff2'), format('woff2');
-	font-display: swap;
-	font-weight: bold;
-	font-style: italic;
-}
-
+/* ----------------------------- */
+/* Fira Code - code */
+/* ----------------------------- */	
 @font-face {
 	font-family: "Fira Code";
 	src: url('/fonts/FiraCode-Regular.woff2'), format('woff2');
