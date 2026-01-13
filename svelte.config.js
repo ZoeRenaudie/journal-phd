@@ -36,7 +36,7 @@ const config = {
         handleHttpError: () => {},  // Ignorer TOUTES les erreurs
   handleMissingId: () => {},
   handleEntryGeneratorMismatch: () => {},
-    strict: false 
+    handleUnseenRoutes: 'ignore' 
     },
   },
   
