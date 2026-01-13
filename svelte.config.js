@@ -34,8 +34,8 @@ const config = {
         "/blog/page/*",
       ],
       handleHttpError: ({ path, referrer, message }) => {
-        // Ignorer les erreurs 404 pour /images/
-        if (path === '/images/') {
+        // Ignorer certaines erreurs
+        if (path.includes('/images/') || path === '/favicon.png') {
           return;
         }
         throw new Error(message);
