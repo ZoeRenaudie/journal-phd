@@ -19,7 +19,7 @@ const config = {
     }),
     
     paths: {
-      base: dev ? '' : '/journal-phd'
+      base: process.env.NODE_ENV === 'production' ? '/nom-du-repo' : ''
     },
     
     prerender: {
