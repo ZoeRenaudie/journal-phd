@@ -18,16 +18,16 @@ export const postsPerPage = 10
 export const navItems = [
 	{
 		title: 'Blog',
-		route: '/blog'
+		route: '/journal-phd/blog'
 	}, {
 		title: 'About',
-		route: '/about'
+		route: '/journal-phd/about'
 	}, {
 		title: 'Contact',
-		route: '/contact' 
+		route: '/journal-phd/contact' 
 	},{
 		title: 'Bibliographie',
-		route: '/bibliographie' 
+		route: '/journal-phd/bibliographie' 
 	},
 
 ]
