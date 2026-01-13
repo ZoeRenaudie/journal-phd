@@ -13,13 +13,9 @@ tags:
   - crip
   - care
 theme: Curation
+citation: "Cooley, Jessica A., et Ann M. Fox. 2022. « Crip Curation as Care ». _Theater_ 52 (2): 5‑19. [https://doi.org/10.1215/01610775-9662179](https://doi.org/10.1215/01610775-9662179)."
 ---
-Cooley, Jessica A., et Ann M. Fox. 2022. « Crip Curation as Care ». _Theater_ 52 (2): 5‑19. [https://doi.org/10.1215/01610775-9662179](https://doi.org/10.1215/01610775-9662179).
 
-[online](http://zotero.org/groups/5157753/items/4HL5BC82) [local](zotero://select/groups/5157753/items/4HL5BC82)
-[pdf](file:///home/lenamk/Zotero/storage/DYV8GUSA/Cooley%20et%20Fox%20-%202022%20-%20Crip%20Curation%20as%20Care.pdf)
-
----
 ### Présentation auteur.e.s
 
 [[Cooley, Jessica A.]]
@@ -147,3 +143,8 @@ Finally, we call on readers, regardless of field, to consider how they can curat
 - Sandahl, Carrie. “Using Our Words: Exploring Representational Conundrums in Disability Drama and Performance.” _Journal of Literary and Cultural Disability Studies_ 12, no. 2 (2018): 129–44.
 
 %% Import Date: 2025-04-12T18:00:02.192-04:00 %%
+
+---
+
+[online](http://zotero.org/groups/5157753/items/4HL5BC82) [local](zotero://select/groups/5157753/items/4HL5BC82)
+[pdf](file:///home/lenamk/Zotero/storage/DYV8GUSA/Cooley%20et%20Fox%20-%202022%20-%20Crip%20Curation%20as%20Care.pdf)

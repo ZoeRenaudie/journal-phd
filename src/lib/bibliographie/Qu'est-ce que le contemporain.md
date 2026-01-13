@@ -13,11 +13,6 @@ theme: Histoire de l'art
 citation: "Agamben, Giorgio, et Maxime Rovere. 2008. _Qu’est-ce que le contemporain ?_ Rivages poche. Paris: Éd. Payot & Rivages."
 ---
 
-[online](http://zotero.org/groups/5157753/items/ANBQ2NPT) [local](zotero://select/groups/5157753/items/ANBQ2NPT)
-[pdf](file:///home/lenamk/Zotero/storage/UQVL3S7Z/Agamben%20et%20Rovere%20-%202008%20-%20Qu'est-ce%20que%20le%20contemporain%20.pdf)
-
-
----
 ### Présentation auteur.e.s
 
 ### Résumé
@@ -60,3 +55,10 @@ Walter Benjamin, [(p. 19)](zotero://open-pdf/library/items/UQVL3S7Z?page=19&anno
 ### Bibliographie
 
 %% Import Date: 2025-04-18T21:40:26.967-04:00 %%
+
+
+[online](http://zotero.org/groups/5157753/items/ANBQ2NPT) [local](zotero://select/groups/5157753/items/ANBQ2NPT)
+[pdf](file:///home/lenamk/Zotero/storage/UQVL3S7Z/Agamben%20et%20Rovere%20-%202008%20-%20Qu'est-ce%20que%20le%20contemporain%20.pdf)
+
+
+---

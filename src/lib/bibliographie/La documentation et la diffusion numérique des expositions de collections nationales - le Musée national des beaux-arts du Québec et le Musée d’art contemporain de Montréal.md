@@ -16,10 +16,6 @@ theme: Documentation
 citation: "Longtin, Marianne. 2023. « La Documentation et La Diffusion Numérique Des Expositions de Collections Nationales : Le Musée National Des Beaux-Arts Du Québec et Le Musée d’art Contemporain de Montréal ». Travail dirigé (document diplômant), Montréal: UQAM. [https://archipel.uqam.ca/17684/](https://archipel.uqam.ca/17684/)."
 ---
 
-[online](http://zotero.org/groups/5157753/items/95V8IKUZ) [local](zotero://select/groups/5157753/items/95V8IKUZ)
-[pdf](file:///home/lenamk/Zotero/storage/CFSWHK35/Longtin%20-%202023%20-%20La%20documentation%20et%20la%20diffusion%20numérique%20des%20exp.pdf)
-
----
 ### Présentation auteur.e.s
 [[Longtin, Marianne*]]
 encadrée par [[Fraser, Marie*]]
@@ -500,3 +496,8 @@ l’archiviste du MNBAQ, la prolifération des open data et open  source devrait
 **Vincent, Suzanne.** "Gestion, traitement, conservation et diffusion des documents dans les musées : la place de l’archiviste." *Archives* 27, no. 3 (1996): 53-77.
 
 %% Import Date: 2025-04-12T19:47:14.321-04:00 %%
+
+---
+
+[online](http://zotero.org/groups/5157753/items/95V8IKUZ) [local](zotero://select/groups/5157753/items/95V8IKUZ)
+[pdf](file:///home/lenamk/Zotero/storage/CFSWHK35/Longtin%20-%202023%20-%20La%20documentation%20et%20la%20diffusion%20numérique%20des%20exp.pdf)

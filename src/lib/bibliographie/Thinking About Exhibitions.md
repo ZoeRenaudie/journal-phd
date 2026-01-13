@@ -14,11 +14,7 @@ theme: Exhibition Studies
 citation: "Greenberg, Reesa, Bruce W. Ferguson, et Sandy Nairne. 2005. _Thinking About Exhibitions_. Routledge."
 ---
 
-[online](http://zotero.org/groups/5157753/items/TYP9HY86) [local](zotero://select/groups/5157753/items/TYP9HY86)
-[pdf](file:///home/lenamk/Zotero/storage/EKUI6VBB/Ferguson%20et%20al.%20-%202005%20-%20Thinking%20About%20Exhibitions.pdf)
 
-
----
 ### Présentation auteur.e.s
 
 ### Résumé
@@ -33,3 +29,9 @@ citation: "Greenberg, Reesa, Bruce W. Ferguson, et Sandy Nairne. 2005. _Thinking
 ### Bibliographie
 
 %% Import Date: 2025-08-21T18:00:52.738-04:00 %%
+
+[online](http://zotero.org/groups/5157753/items/TYP9HY86) [local](zotero://select/groups/5157753/items/TYP9HY86)
+[pdf](file:///home/lenamk/Zotero/storage/EKUI6VBB/Ferguson%20et%20al.%20-%202005%20-%20Thinking%20About%20Exhibitions.pdf)
+
+
+---

@@ -13,10 +13,6 @@ theme: Archives
 citation: "Wielocha, Agnieszka B. 2021. « Collecting Archives of Objects and Stories: On the Lives and Futures of Contemporary Art at the Museum ». Thèse de doctorat, Netherlands: University of Amsterdam. [https://pure.uva.nl/ws/files/54945759/Thesis_complete_.pdf](https://pure.uva.nl/ws/files/54945759/Thesis_complete_.pdf)."
 ---
 
-[online](http://zotero.org/groups/5157753/items/FZV9MIYV) [local](zotero://select/groups/5157753/items/FZV9MIYV)
-[pdf](file:///home/lenamk/Zotero/storage/ISSMJJSI/Collecting_archives_of_objects_and_stori.pdf)[pdf](file:///home/lenamk/Zotero/storage/KJEY4CJ3/Thesis_complete_.pdf)
-
----
 ### Présentation auteur.e.s
 
 [[Wielocha, Aga*]]
@@ -633,3 +629,9 @@ Zielinski, S. (2015). AnArcheology for AnArchives: Why do we need—especially f
 Zielinski, S., Giannetti, C., & Fürlus, E. (Eds.). (2014). _AnArchive(s): A Minimal Encyclopaedia on Archaeology and Variantology of the Arts and Media_. Oldenburg: Edith Russ Haus für Medienkunst.
 
 Zolberg, V. L. (1992). Art Museums and Living Artists: Contentious Communities. In I. Karp, C. Mullen Kreamer, & S. D. Lavine (Eds.), _Museums and Communities_ (pp. 105–163). Washington and London: Smithsonian Institution Press.
+
+
+[online](http://zotero.org/groups/5157753/items/FZV9MIYV) [local](zotero://select/groups/5157753/items/FZV9MIYV)
+[pdf](file:///home/lenamk/Zotero/storage/ISSMJJSI/Collecting_archives_of_objects_and_stori.pdf)[pdf](file:///home/lenamk/Zotero/storage/KJEY4CJ3/Thesis_complete_.pdf)
+
+---

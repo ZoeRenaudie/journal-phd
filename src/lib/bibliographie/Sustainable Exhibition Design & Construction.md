@@ -14,10 +14,6 @@ theme: Curation
 citation: "Flandro, Douglas. 2022. « Sustainable Exhibition Design & Construction ». Toolkit."
 ---
 
-[online](http://zotero.org/groups/5157753/items/SXP4KMYJ) [local](zotero://select/groups/5157753/items/SXP4KMYJ)
-[pdf](file:///home/lenamk/Zotero/storage/ENCDJNI3/Flandro%20-%20About%20the%20Sustainable%20Exhibition%20&%20Design%20Toolkit.pdf)
-
----
 ### Présentation auteur.e.s
 
 ### Résumé
@@ -41,3 +37,9 @@ This will make the exhibition richer and more accessible to all diverse groups i
 ### Bibliographie
 
 %% Import Date: 2025-04-18T21:36:42.935-04:00 %%
+
+
+[online](http://zotero.org/groups/5157753/items/SXP4KMYJ) [local](zotero://select/groups/5157753/items/SXP4KMYJ)
+[pdf](file:///home/lenamk/Zotero/storage/ENCDJNI3/Flandro%20-%20About%20the%20Sustainable%20Exhibition%20&%20Design%20Toolkit.pdf)
+
+---

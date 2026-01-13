@@ -20,10 +20,7 @@ theme: Conservation-restauration
 citation: "Cometti, Jean-Pierre. 2016. _Conserver/Restaurer : l’oeuvre d’art à l’époque de sa préservation technique_. NRF essais. Paris: Gallimard. [https://doi.org/10.14375/NP.9782070115327](https://doi.org/10.14375/NP.9782070115327)."
 ---
 
-[online](http://zotero.org/groups/5157753/items/TKZW9I2Z) [local](zotero://select/groups/5157753/items/TKZW9I2Z)
-[pdf](file:///home/lenamk/Zotero/storage/64EEZPA2/Cometti%20-%202016%20-%20ConserverRestaurer%20%20l'oeuvre%20d'art%20à%20l'époque%20de.pdf)
 
----
 ### Présentation auteur.e.s
 
 [[Cometti, Jean-Pierre]]
@@ -805,3 +802,8 @@ Les philosophes, qui ont plus d'un tour dans leur sac, ont inventé diverses str
 - Salque, Caroline. « Richesse et ambivalence du costume de scène. Étude de conservation-restauration sur le "costume de Bertram", création pour l'opéra Robert le Diable (Palais Garnier, 1985). Enjeux et perspectives ». Travail de recherche mené au sein de l'ESAA, 2014.
 - Sellars, Wilfrid. _Empirisme et philosophie de l'esprit._ Traduit par F. Cayla. Paris : L'Éclat, coll. Tiré à part, 1992.
 - Zilsel, Edgar. _Le Génie. Histoire d'une notion, de l'Antiquité à la Renaissance._ Traduit par M. Thévenaz. Paris : Minuit, coll. Paradoxes, 1999.
+
+[online](http://zotero.org/groups/5157753/items/TKZW9I2Z) [local](zotero://select/groups/5157753/items/TKZW9I2Z)
+[pdf](file:///home/lenamk/Zotero/storage/64EEZPA2/Cometti%20-%202016%20-%20ConserverRestaurer%20%20l'oeuvre%20d'art%20à%20l'époque%20de.pdf)
+
+---

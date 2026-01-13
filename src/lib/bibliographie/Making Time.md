@@ -16,10 +16,6 @@ theme: Conservation-restauration
 citation: "Laurenson, Pip. 2024. « Making Time ». In _Conservation of Contemporary Art_, édité par Renée Van De Vall et Vivian Van Saaze, 9:385‑401. Studies in Art, Heritage, Law and the Market. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-031-42357-4_19](https://doi.org/10.1007/978-3-031-42357-4_19)."
 ---
 
-[online](http://zotero.org/groups/5157753/items/AQD47N99) [local](zotero://select/groups/5157753/items/AQD47N99)
-[pdf](file:///home/lenamk/Zotero/storage/9TXBD8LY/Laurenson%20-%202023%20-%20Making%20Time.pdf)
-
----
 ### Présentation auteur.e.s
 
 [[Laurenson, Pip*]]
@@ -263,3 +259,9 @@ Tate. 2019. _Reshaping the Collectible: When Artworks Live in the Museum_. Londo
 Tronto, Joan C. 1993. _Moral Boundaries: A Political Argument for an Ethics of Care_. New York: Routledge.
 
 Williams, Bernard. 1985. _Ethics and the Limits of Philosophy_. Cambridge, MA: Harvard University Press.
+
+
+[online](http://zotero.org/groups/5157753/items/AQD47N99) [local](zotero://select/groups/5157753/items/AQD47N99)
+[pdf](file:///home/lenamk/Zotero/storage/9TXBD8LY/Laurenson%20-%202023%20-%20Making%20Time.pdf)
+
+---
