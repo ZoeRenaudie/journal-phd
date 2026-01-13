@@ -1,1 +1,0 @@
-import{an as o,am as t,H as c}from"./BpB-t60W.js";import{l as a}from"./DIeogL5L.js";function l(n){throw new Error("https://svelte.dev/e/lifecycle_outside_component")}function f(n){t===null&&l(),a&&t.l!==null?u(t).m.push(n):o(()=>{const e=c(n);if(typeof e=="function")return e})}function u(n){var e=n.l;return e.u??(e.u={a:[],b:[],m:[]})}export{f as o};
