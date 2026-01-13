@@ -3,14 +3,13 @@
 *:after {
 	box-sizing: border-box;
 	font-family: inherit;
-	max-width: 100%;
 }
 
 main {
 	width: 100%;
-	max-width: 42rem;
-	margin: 6rem auto;
-	padding: 0 1rem;
+	max-width: clamp(42rem, 68vw, 68rem);
+	margin: clamp(2.5rem, 6vh, 4rem) auto;
+	padding: 0 clamp(1rem, 3vw, 1.5rem);
 }
 
 .layout {
@@ -21,14 +20,15 @@ main {
 }
 
 img {
-	width: 100%;
 	max-width: 100%;
 	height: auto;
+	display: block;
 }
 
 .post {
 	h1 {
-		margin-bottom: 1rem;
+		margin-bottom: 1.5rem;
+		max-width: 65ch;
 	}
 
 	.meta {
