@@ -1,1 +1,0 @@
-import"./CWj6FrbW.js";import"./69_IOA4Y.js";const e={title:"Title",date:"2023-01-05",updated:"2023-01-05",categories:["sveltekit","web","css","markdown"],coverImage:"/images/",coverWidth:16,coverHeight:9,excerpt:"."},{title:c,date:r,updated:i,categories:d,coverImage:m,coverWidth:s,coverHeight:p,excerpt:g}=e;function v(t){}export{v as default,e as metadata};

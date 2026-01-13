@@ -7,7 +7,7 @@ categories:
   - "web"
   - "css"
   - "markdown"
-coverImage: "/images/"
+coverImage: ""
 coverWidth: 16
 coverHeight: 9
 excerpt: .
