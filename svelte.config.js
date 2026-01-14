@@ -1,7 +1,8 @@
 import adapter from "@sveltejs/adapter-static";
-import { mdsvex } from "mdsvex";
+import { mdsvex } from 'mdsvex';
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
+
 
 const dev = process.argv.includes('dev');
 
@@ -33,10 +34,10 @@ const config = {
         "/blog/page/",
         "/blog/page/*",
       ],
-        handleHttpError: () => {},  // Ignorer TOUTES les erreurs
-  handleMissingId: () => {},
-  handleEntryGeneratorMismatch: () => {},
-    handleUnseenRoutes: 'ignore' 
+      handleHttpError: () => {},  // Ignorer TOUTES les erreurs
+      handleMissingId: () => {},
+      handleEntryGeneratorMismatch: () => {},
+      handleUnseenRoutes: 'ignore' 
     },
   },
   
@@ -47,6 +48,9 @@ const config = {
         rehypeSlug,
         rehypeAutolinkHeadings,
       ],
+      remarkPlugins: [
+        [await import('remark-gfm').then(mod => mod.default)]
+      ], // essaye de forcer le lancement de remark-gfm pour les footnotes mais ne fonctionne pas. Le html prend pas l'indication. 
     }),
   ],
 };

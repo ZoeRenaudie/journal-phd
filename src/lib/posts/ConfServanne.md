@@ -21,7 +21,7 @@ La problématique centrale de Monjour porte sur l’impact de l’obsolescence d
 
 Monjour observe que son corpus de recherche (profils sur les réseaux sociaux, récits collaboratifs, œuvres hypermédiatiques) tend à disparaître « à une vitesse grand V ». Ses recherches semblent alors devenir rapidement caduques ou « vides ». Elle rappelle cependant que les chercheurs en littérature numérique sont confrontés à une expérience radicale de non-lecture, qu’elle rapproche de la provocation de Pierre Bayard dans Comment parler des livres que l’on n’a pas lus ?. Cette non-lecture, si elle stimule la réflexion théorique, pose de redoutables problèmes méthodologiques et didactiques. Cette situation déplace le regard des chercheurs : l’analyse ne porte plus sur le contenu diégétique ou stylistique des œuvres, mais sur leurs dispositifs médiatiques et sur l’expérience de lecture qu’ils proposent. L’attention se focalise sur le mode d’emploi de l’œuvre plutôt que sur sa poétique interne. Monjour interroge ainsi la valeur patrimoniale de la littérature numérique : sera-t-elle retenue pour ses qualités littéraires ou pour son rôle d’expérimentation médiatique ? 
 
-Ces problématiques sont exactement celles que nous rencontrons en conservation-restauration depuis que nous tentons de conserver les œuvres dont la temporalité physique est éphémère. Certains mediums contemporains imposent de travailler à partir de la mémoire résiduelle de l’œuvre plutôt que de son expérience immédiate. Comment conserver une performance que l’on n’a pas vu ? Est-ce que la photo de l’événement est suffisante pour en faire œuvre ? Garde-t-on des objets “reliques” utilisés pendant la performance ?[1] 
+Ces problématiques sont exactement celles que nous rencontrons en conservation-restauration depuis que nous tentons de conserver les œuvres dont la temporalité physique est éphémère. Certains mediums contemporains imposent de travailler à partir de la mémoire résiduelle de l’œuvre plutôt que de son expérience immédiate. Comment conserver une performance que l’on n’a pas vu ? Est-ce que la photo de l’événement est suffisante pour en faire œuvre ? Garde-t-on des objets “reliques” utilisés pendant la performance ?[^1] 
 
 ## Réinventer l’archivage 
 
@@ -51,7 +51,7 @@ Le projet Corpuces repose sur la constitution de petits corpus situés (small ca
 
 Monjour admet que ce travail entrepris est cependant « voué à l’échec » : il se heurte à la nature évolutive des œuvres, à la fermeture des plateformes, voire à la résistance des auteurs. Pourtant, cet échec est porteur de sens. L’archivage devient un geste de lecture, mais aussi un acte de résistance, de bricolage et de débogage. Le scraping ou la collecte automatisée sont des formes d’interprétation, qui réinventent la tension entre lecture distante et lecture rapprochée. 
 
-Les deux domaines souffrent du même biais : muséifier le flux, stabiliser l’éphémère. Monjour plaide pour un passage du « texte clos » au « projet en cours » démarche analogue à celle du modèle de conservation axé sur le processus (ou process-oriented conservation) développé pour les œuvres médiatiques.  Je n’ai jamais entendu ou lu sur la qualification des œuvres comme des “projets”, je serais curieuse d’avoir la référence. Cependant l’idée est bien celle que certains d’entre-nous essaye de montrer[2]. Pour les conserver, les œuvres sont bien plus complexes qu’un support et une surface, qu’un assemblage matériel vs immatériel[3].  
+Les deux domaines souffrent du même biais : muséifier le flux, stabiliser l’éphémère. Monjour plaide pour un passage du « texte clos » au « projet en cours » démarche analogue à celle du modèle de conservation axé sur le processus (ou process-oriented conservation) développé pour les œuvres médiatiques.  Je n’ai jamais entendu ou lu sur la qualification des œuvres comme des “projets”, je serais curieuse d’avoir la référence. Cependant l’idée est bien celle que certains d’entre-nous essaye de montrer[^2]. Pour les conserver, les œuvres sont bien plus complexes qu’un support et une surface, qu’un assemblage matériel vs immatériel[^3].  
 
 ## Archiver l’éphémère 
 
@@ -59,13 +59,14 @@ Si les corpus originaux sont voués à disparaître, il en subsiste toujours des
 
 Elle rejette ainsi l’idéal du lecteur parfait, symbolisé par les navigateurs « sans tête » (headless browsers) employés dans certains protocoles d’archivage. Contre cette illusion d’objectivité, elle revendique des lectures imparfaites, partielles et partiales, où le chercheur assume son implication dans l’acte de lecture. Archiver la littérature numérique revient dès lors à archiver ses lectures, ses parcours et ses actualisations ces « regards signés » dont parlait Bernard Stiegler. Monjour en appelle à la constitution d’une édition critique de la littérature numérique, capable d’articuler le web vivant, les archives institutionnelles et les corpus de chercheurs pour écrire les histoires du web littéraire à venir. Cette conception rejoint mes réflexions considérant l’œuvre comme un réseau d’activation et de traces mémorielles. Pour concevoir la conservation il faut accepter que ces traces soient tout aussi importantes que leur « état initial ».  Accepter la mort de l’oeuvre, ne veut pas dire qu’on l’oublie.  
 
-Walter Benjamin avait annoncé un changement de paradigme avec la reproductibilité des œuvres[4], mais en littérature, l’œuvre a toujours été reproductible. La question se pose aujourd’hui : la distinction que Lessing établissait entre littérature, musique et arts plastiques est-elle en train de se fondre ? 
+Walter Benjamin avait annoncé un changement de paradigme avec la reproductibilité des œuvres[^4], mais en littérature, l’œuvre a toujours été reproductible. La question se pose aujourd’hui : la distinction que Lessing établissait entre littérature, musique et arts plastiques est-elle en train de se fondre ? 
 
 ---
-[1] Thèse en cours de Camille Delattre à l’Université de Montréal qui crée un modèle documentaire pour la conservation de la performance.  
-[2] voir :  
+Notes :
+[^1] Thèse en cours de Camille Delattre à l’Université de Montréal qui crée un modèle documentaire pour la conservation de la performance.  
+[^2] voir :  
 Muñoz-Viñas, Salvador. 2024. The End of Conservation. http://smunozvinas.blogs.upv.es/files/2024/04/SMunozVinas-2024-The-End-of-Conservation-Authors-version.pdf 
 Renaudie, Zoë. En cours. “Conserver l’éphémère : documentation de l’exposition.” Thèse de doctorat. Université de Montréal. 
 Vall, Renée van de, et Vivian van Saaze. 2024. Conservation of Contemporary Art: Bridging the Gap Between Theory and Practice. 9 vols. Studies in Art, Heritage, Law and the Market. Springer. https://doi.org/10.1007/978-3-031-42357-4  
-[3] Discussions existantes en conservation-restauration sur les nouveaux matérialistes, essentiellement dans les travaux de Brian Castriota et de Hélia Marçal. 
-[4] L'Œuvre d'art à l'époque de sa reproductibilité technique (en allemand : Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit), publié en 1936 (en revue), 1955 (livre, 4e version).  
+[^3] Discussions existantes en conservation-restauration sur les nouveaux matérialistes, essentiellement dans les travaux de Brian Castriota et de Hélia Marçal.  
+[^4] L'Œuvre d'art à l'époque de sa reproductibilité technique (en allemand : Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit), publié en 1936 (en revue), 1955 (livre, 4e version).  
