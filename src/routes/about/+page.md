@@ -66,7 +66,11 @@ Valentine, D., **Renaudie, Z.**, Krause, L., & Château-Dutier, E. (2024, janvie
 
 **Communications orales - Sans comité de sélection** 
 
-**Renaudie, Z.**, Valentine, D., &  Fraser M. (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
+Delattre, Camille, **Renaudie, Z.** (2025, november 13th). Parcours histoire de l'art et humanités numérique. *Cours HAR 3345 Atelier de synthèse*, Université de Montréal.
+
+**Renaudie, Z.**, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
+
+**Renaudie, Z.**, Valentine, D., Fraser M., Château-Dutier Emmanuel, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
 
 **Renaudie, Z** (2025, octobre 16). La documentation dans la vie de l'œuvre. *Cours de maîtrise Art et Sociologie*, Université de Montréal.
 
@@ -97,6 +101,44 @@ Bertin, M., & **Renaudie, Z.** (2023, janvier 26 et février 2). Création du s�
 **Renaudie, Z.** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France. 
 
 ## Formation
+
+### Universitaire
+2023 - présent
+Université de Montréal, QC
+Doctorat Histoire de l’art - option muséologie
+
+2024 - 2025
+Université de Montréal, QC
+Micro-programme en Humanités digitales
+
+2015 - 2017
+Ecole Supérieure d’Art d’Avignon, FR
+Maitrise - Félicitations du jury
+Diplôme National Supérieur d’Expression Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’exposition Feux pâles ©les ready-made appartiennent à tout le monde (CAPC) 
+
+2011 - 2014	
+Ecole Supérieure d’Art d’Avignon, FR
+Bachelor - Félicitations du jury
+Diplôme National d’Art Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’oeuvre Projections de Richard Baquié (Les Abattoirs) 
+
+2008 - 2011	
+Bachelor 
+Licence en Langue et Civilisation Étrangère - spécialité chinois
+Université de Paris 07 et Université Bordeaux 03, FR
+
+2008 - 2009	
+Certificat en informatique et internet,
+Université de Paris 07, FR
+
+### Professionnelle
+2024	Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.
+2024 	Ecole d’hiver HSS
+2024 	Web sémantique de Harald Sax
+2023	Certificat	en anglais - Niveau	C2	
+2021	Certificat	d’aptitude à	la	conduite	d’engins	catégorie	CACES	Nacelle	1B-3B
+2020	Filemaker Pro Niveau développement avancé
+2019	Inventaire et récolement dans les collections publiques, INP
+2018	L’oeuvre en mouvement, Odile Michel, Cipac
 
 ## Expériences professionnelles
 
