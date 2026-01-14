@@ -9,7 +9,7 @@ export const siteTitle = 'ZOË RENAUDIE'
 export const siteDescription = 'Carnet de recherche de Zoë Renaudie, doctorante en histoire de l\'art à l\'Université de Montréal.'
 export const siteURL = 'zoe.renaudie.com'
 export const siteLink = 'https://github.com/ZoeRenaudie/fluffy-system'
-export const siteAuthor = 'Zoë Renaudie avec l\'aide d\'Evan Renaudie. Les polices utilisées sont BBB Manifont Grotesk (c) CUTE Sophie Vela, Max Lillo et al. et BBB DM Sans (c) OFL Camille Circlude, Eugénie Bidaut, Mariel Nils, Bérénice Bouin'
+export const siteAuthor = 'Zoë Renaudie avec l\'aide d\'Evan Renaudie. Les polices utilisées sont Manifont Grotesk (c) CUTE Sophie Vela, Max Lillo et al. et DM Sans (c) OFL Camille Circlude, Eugénie Bidaut, Mariel Nils, Bérénice Bouin, merci au travail de Bye-Bye Binary'
 
 // Controls how many posts are shown per page on the main blog index pages
 export const postsPerPage = 10
