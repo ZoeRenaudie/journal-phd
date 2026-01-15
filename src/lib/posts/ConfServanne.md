@@ -61,8 +61,7 @@ Elle rejette ainsi l’idéal du lecteur parfait, symbolisé par les navigateurs
 
 Walter Benjamin avait annoncé un changement de paradigme avec la reproductibilité des œuvres[^4], mais en littérature, l’œuvre a toujours été reproductible. La question se pose aujourd’hui : la distinction que Lessing établissait entre littérature, musique et arts plastiques est-elle en train de se fondre ? 
 
----
-Notes :
+
 [^1] Thèse en cours de Camille Delattre à l’Université de Montréal qui crée un modèle documentaire pour la conservation de la performance.  
 [^2] voir :  
 Muñoz-Viñas, Salvador. 2024. The End of Conservation. http://smunozvinas.blogs.upv.es/files/2024/04/SMunozVinas-2024-The-End-of-Conservation-Authors-version.pdf 

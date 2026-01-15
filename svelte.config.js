@@ -48,7 +48,7 @@ const config = {
       extensions: [".md"],
       remarkPlugins: [
         remarkGfm,
-        [remarkFootnotes, { inlineNotes: true }], // notes de bas de page
+        [remarkFootnotes, { inlineNotes: false }], // notes de bas de page
         ],
       rehypePlugins: [
         rehypeSlug,

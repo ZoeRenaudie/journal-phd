@@ -28,5 +28,5 @@ Les typographies sont non-binaires distibué par le collectif Bye-Bye Binary. Le
 
 Plus qu'à rassembler le contenu ! 
 
-Notes :
+
 [^1]: Ingold, Tim, Hervé (Traducteur) Gosselin, et Hicham-Stéphane Afeissa. 2017. Faire: anthropologie, archéologie, art et architecture. Éditions Dehors.
