@@ -2,6 +2,8 @@ import adapter from "@sveltejs/adapter-static";
 import { mdsvex } from 'mdsvex';
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
+import remarkGfm from "remark-gfm";
+import remarkFootnotes from "remark-footnotes";
 
 
 const dev = process.argv.includes('dev');
@@ -9,7 +11,7 @@ const dev = process.argv.includes('dev');
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   extensions: [".svelte", ".md"],
-  
+
   kit: {
     adapter: adapter({
       pages: 'build',
@@ -34,23 +36,24 @@ const config = {
         "/blog/page/",
         "/blog/page/*",
       ],
-      handleHttpError: () => {},  // Ignorer TOUTES les erreurs
+      handleHttpError: () => {},
       handleMissingId: () => {},
       handleEntryGeneratorMismatch: () => {},
       handleUnseenRoutes: 'ignore' 
     },
   },
-  
+
   preprocess: [
     mdsvex({
       extensions: [".md"],
+      remarkPlugins: [
+        remarkGfm,
+        [remarkFootnotes, { inlineNotes: true }], // notes de bas de page
+        ],
       rehypePlugins: [
         rehypeSlug,
         rehypeAutolinkHeadings,
       ],
-      remarkPlugins: [
-        [await import('remark-gfm').then(mod => mod.default)]
-      ], // essaye de forcer le lancement de remark-gfm pour les footnotes mais ne fonctionne pas. Le html prend pas l'indication. 
     }),
   ],
 };
