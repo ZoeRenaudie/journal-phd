@@ -6,33 +6,46 @@ const fetchPosts = async ({ offset = 0, limit = postsPerPage, category = '' } = 
 		Object.entries(import.meta.glob('/src/lib/posts/*.md')).map(async ([path, resolver]) => {
 			const { metadata } = await resolver()
 			const slug = path.split('/').pop().slice(0, -3)
-			return { ...metadata, slug }
+
+			return {
+				...metadata,
+				slug,
+
+				//  normalisation unique
+				date: metadata.created ?? metadata.date
+			}
 		})
 	)
 
-	let sortedPosts = posts.sort((a, b) => new Date(b.date) - new Date(a.date))
-	
+	//  tri robuste
+	let sortedPosts = posts.sort(
+		(a, b) => new Date(b.date) - new Date(a.date)
+	)
+
 	if (category) {
-    sortedPosts = sortedPosts.filter(post => post.categories.includes(category))
+		sortedPosts = sortedPosts.filter(
+			post => post.categories?.includes(category)
+		)
 	}
-  
+
 	if (offset) {
 		sortedPosts = sortedPosts.slice(offset)
 	}
-	
-	if (limit && limit < sortedPosts.length && limit != -1) {
+
+	if (limit && limit < sortedPosts.length && limit !== -1) {
 		sortedPosts = sortedPosts.slice(0, limit)
 	}
 
+	//  shape public final
 	sortedPosts = sortedPosts.map(post => ({
 		title: post.title,
 		slug: post.slug,
 		excerpt: post.excerpt,
 		coverImage: post.coverImage,
-		coverWidth: post.coverWidth, 
+		coverWidth: post.coverWidth,
 		coverHeight: post.coverHeight,
 		date: post.date,
-		categories: post.categories,
+		categories: post.categories
 	}))
 
 	return {

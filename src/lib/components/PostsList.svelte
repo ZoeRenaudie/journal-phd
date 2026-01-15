@@ -9,18 +9,19 @@
 		<li>
 			<article>
 				<a href="{base}/blog/{post.slug}">
-					<img
-					src={post.coverImage}
-					alt=""
-					width={post.coverWidth}
-					height={post.coverHeight}
-					style="ratio: {post.coverWidth} / {post.coverHeight}"
-					/>
+
 					<h2>
 						{post.title}
 					</h2>
+					
 				</a>
+
+				
+
 			</article>
+			<p class="post-date">
+				{new Date(post.date).toLocaleDateString('fr-CA')}
+			</p>
 
 			<p>{post.excerpt}</p>
 		</li>
