@@ -50,6 +50,8 @@ Miclo, A.-S., **Renaudie, Z.**, & Saulnier, G. (soumis). Acceptation de l’usur
 ### Communications
 **Communications orales - Avec comité de sélection** 
 
+**Renaudie, Z.** (2025, septembre 12). Modéliser l’exposition : de la documentation à la visualisation de l’accrochage. *Colloque CRIHN 2025*, Montréal. 
+
 **Renaudie, Z.** (2025, juin 5). Les humanités numériques pour conserver l’exposition : quelles perspectives ? *DHSI 2025 Conference and Colloquium*, Montréal. 
 
 **Renaudie, Z.** (2025, mai 2). Table-ronde « Nouvelles parutions des doctorant·es/New Publications by PhD Students ». *Journées d’étude Trois décennies d’histoire de l’art à Montréal. Doc-Inter (1994–2024)*, Montréal. 
@@ -73,8 +75,6 @@ Delattre, Camille, **Renaudie, Z.** (2025, november 13th). Parcours histoire de 
 **Renaudie, Z.**, Valentine, D., Fraser M., Château-Dutier Emmanuel, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
 
 **Renaudie, Z** (2025, octobre 16). La documentation dans la vie de l'œuvre. *Cours de maîtrise Art et Sociologie*, Université de Montréal.
-
-**Renaudie, Z.** (2025, septembre 12). Modéliser l’exposition : de la documentation à la visualisation de l’accrochage. *Colloque CRIHN 2025*, Montréal. 
 
 **Renaudie, Z.** (2025, avril 9). Déjouer le temps de l’exposition : expérimentations et résistances. *Colloque Indiscipliner la discipline : nouvelles approches théoriques et critiques en histoire de l’art et muséologie*, Montréal. 
 
@@ -281,3 +281,11 @@ Athlète - Roller Derby. Ligue de Nîmes, France puis de Montréal, QC.
 ## Projets annexes
 
 Journal du séminaire sur la [Documentation citoyenne](https://zoerenaudie.github.io/documentationCitoyenne/hello.html) de Johanne Lamoureux.
+
+
+## Communauté et ami.e.x
+
+[Alexia Schneider](https://alexiaschn.github.io/ateliers_ia/)
+[Alix Chagué]()
+[Lena Krause]()
+[Anne-Sophie Miclo]()
