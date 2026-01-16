@@ -284,9 +284,9 @@ Athlète - Roller Derby. Ligue de Nîmes, France puis de Montréal, QC.
 Journal du séminaire sur la [Documentation citoyenne](https://zoerenaudie.github.io/documentationCitoyenne/hello.html) de Johanne Lamoureux.
 
 
-## Communauté et ami.e.x
+## Ami.e.x
 
-[Alexia Schneider](https://alexiaschn.github.io/ateliers_ia/)
-[Alix Chagué]()
-[Lena Krause]()
-[Anne-Sophie Miclo]()
+[Alexia Schneider](https://alexiaschn.github.io/ateliers_ia/)  
+[Alix Chagué](https://alix-tz.github.io/)  
+[Lena Krause](https://lenamk.site/)  
+[Anne-Sophie Miclo](https://www.annesophiemiclo.com/)  
