@@ -17,7 +17,7 @@ citation: "Wielocha, Agnieszka B. 2021. « Collecting Archives of Objects and S
 
 [[Wielocha, Aga*]]
 ### Résumé
-Ce document de thèse explore les défis posés par l'art contemporain aux pratiques muséales traditionnelles en matière de collecte, de documentation et de conservation. L'auteur se concentre sur la relation triangulaire entre l'artiste, le musée et l'œuvre d'art contemporaine en tant qu'objet de collection. La thèse examine comment les musées adoptent de nouvelles méthodes développées dans le domaine de la conservation de l'art contemporain, en mettant un accent particulier sur l'entretien avec l'artiste. L'objectif principal est d'identifier les facteurs qui favorisent ou entravent l'efficacité de ces nouvelles approches et de proposer un modèle théorique capable de combler le fossé entre la nature changeante de l'art contemporain et les structures muséales établies.
+Cette thèse explore les défis posés par l'art contemporain aux pratiques muséales traditionnelles en matière de collecte, de documentation et de conservation. L'auteur se concentre sur la relation triangulaire entre l'artiste, le musée et l'œuvre d'art contemporaine en tant qu'objet de collection. La thèse examine comment les musées adoptent de nouvelles méthodes développées dans le domaine de la conservation de l'art contemporain, en mettant un accent particulier sur l'entretien avec l'artiste. L'objectif principal est d'identifier les facteurs qui favorisent ou entravent l'efficacité de ces nouvelles approches et de proposer un modèle théorique capable de combler le fossé entre la nature changeante de l'art contemporain et les structures muséales établies.
 ### Idées principales
 
 Le texte explore les enjeux liés à la conservation et à la documentation de l’art contemporain dans les musées, en mettant en évidence les défis que posent des œuvres souvent éphémères, conceptuelles, processuelles et variables aux pratiques muséales traditionnelles, historiquement conçues pour des objets matériels et stables.
@@ -34,10 +34,9 @@ Le texte met en lumière les tensions existantes entre l’évolution des théor
 
 L’étude appelle ainsi à une approche plus holistique et intégrée, prenant en compte l’œuvre dans sa globalité, à la fois physique et narrative. Elle plaide pour la collecte et la préservation active des récits des artistes et des parties prenantes, au même titre que les objets eux-mêmes.
 
-À travers l’analyse de cas concrets — notamment des œuvres de Mirosław Bałka et le _Chandeliers Project_ de Danh Vo — le texte illustre les diverses stratégies adoptées par les institutions pour documenter, conserver et collaborer avec les artistes, tout en soulignant les défis rencontrés sur le terrain.
+À travers l’analyse de cas concrets, notamment des œuvres de Mirosław Bałka et le _Chandeliers Project_ de Danh Vo, le texte illustre les diverses stratégies adoptées par les institutions pour documenter, conserver et collaborer avec les artistes, tout en soulignant les défis rencontrés sur le terrain.
 
 Enfin, le texte propose un modèle théorique visant à combler le fossé entre la nature évolutive de l’art contemporain et les structures muséales traditionnelles, en accordant une place centrale aux récits et à la subjectivité dans les pratiques documentaires et conservatoires. Le rôle de l’archive institutionnelle y est également analysé, en tant qu’élément structurant de l’identité des œuvres et révélateur des dynamiques internes propres à chaque institution.
-
 ### Lien avec la thèse
 
 La documentation comme outil de conservation : La documentation est considérée comme un outil fondamental pour la conservation, en particulier pour l'art contemporain. p.31 Étant donné que l'art contemporain peut être éphémère, processuel ou variable dans ses supports, la documentation devient un moyen de préserver son identité et de permettre sa continuation. p.15

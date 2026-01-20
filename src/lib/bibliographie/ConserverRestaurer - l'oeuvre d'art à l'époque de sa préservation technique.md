@@ -19,8 +19,6 @@ tags:
 theme: Conservation-restauration
 citation: "Cometti, Jean-Pierre. 2016. _Conserver/Restaurer : l’oeuvre d’art à l’époque de sa préservation technique_. NRF essais. Paris: Gallimard. [https://doi.org/10.14375/NP.9782070115327](https://doi.org/10.14375/NP.9782070115327)."
 ---
-
-
 ### Présentation auteur.e.s
 
 [[Cometti, Jean-Pierre]]
