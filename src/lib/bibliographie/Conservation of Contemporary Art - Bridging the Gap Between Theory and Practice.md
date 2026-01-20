@@ -1,35 +1,24 @@
 ---
 cssclass: research-note
-type: "book"
-
-
-author: "van de Vall, Renée; Saaze, Vivian van"
-
+type: book
+author: van de Vall, Renée; Saaze, Vivian van
 title: "Conservation of Contemporary Art: Bridging the Gap Between Theory and Practice"
-
-
 date: 2024
-
-
 citekey: vandevallConservationContemporaryArt2024
-abstract: 
-tags: #subject/contemporary-art
-#subject/urgent
-#subject/théorie
-#subject/notice-à-faire
-#subject//comment
-#subject/_biblio
-
-
-theme:
-citation:Vall, Renée van de, et Vivian van Saaze. 2024. _Conservation of Contemporary Art: Bridging the Gap Between Theory and Practice_. 9 vols. Studies in Art, Heritage, Law and the Market. Springer. [https://doi.org/10.1007/978-3-031-42357-4](https://doi.org/10.1007/978-3-031-42357-4).
+abstract:
+tags:
+  - subject/conservation
+  - archive
+  - documentation
+theme: Conservation-restauration
+citation: "van de Vall, Renée et Vivian van Saaze. 2024. *Conservation of Contemporary Art : Bridging the Gap Between Theory and Practice*. 9 vols. Studies in Art, Heritage, Law and the Market. Springer. [https://doi.org/10.1007/978-3-031-42357-4](https://doi.org/10.1007/978-3-031-42357-4)."
 ---
 
 ---
 ### Présentation auteur.e.s
 
-[[van de Vall]]
-
+[[van de Vall, Renée]]
+[[Saaze, Vivian van de]]
 ### Résumé
 
 
@@ -42,8 +31,6 @@ citation:Vall, Renée van de, et Vivian van Saaze. 2024. _Conservation of Conte
 Cette publication en libre accès rassemble les dernières recherches sur la dynamique complexe de la conservation de l’art contemporain. L’ouvrage vise à relier la recherche théorique aux pratiques quotidiennes des conservateur·rices et, inversement, à permettre aux défis pratiques d’éclairer la recherche académique. Le livre se positionne comme un dialogue interdisciplinaire entre les professionnel·le·s de la conservation et les chercheur·se·s universitaires. L’identité et l’authenticité de l’œuvre d’art contemporain constituent un axe majeur de réflexion. Le livre examine les défis posés par la nature souvent éphémère, conceptuelle ou technologique de l’art contemporain, qui remet en question les notions traditionnelles de pérennité et d’authenticité. Cette problématique s’accompagne d’une redéfinition des rôles professionnels, notamment celui du conservateur·rice qui doit adapter ses compétences face à des œuvres non-traditionnelles, tout en naviguant dans un écosystème complexe impliquant artistes, commissaires d’exposition et successions d’artistes. Enfin, l’ouvrage souligne l’importance cruciale de la documentation et de la prise de décision collaborative dans ce contexte évolutif. Les stratégies d’enregistrement et de préservation doivent parfois impliquer le public dans l’interprétation des œuvres, tandis que le partage des connaissances devient essentiel. Le caractère open access du livre témoigne de cette volonté de démocratiser l’accès aux réflexions sur la conservation de l’art contemporain, reconnaissant ainsi la nécessité d’une approche collective pour assurer la pérennité de l’art du XXIe siècle.
 
 Cet ouvrage collectif offre un cadre théorique particulièrement pertinent pour ma thèse en abordant directement les défis posés par les formes d’art éphémères et conceptuelles. L’exposition conçue comme medium artistique s’inscrit pleinement dans cette catégorie d’œuvres contemporaines qui remettent en question les paradigmes traditionnels de conservation, soulevant des interrogations fondamentales sur l’identité et l’authenticité de l’objet artistique. Aussi, l’approche interdisciplinaire prônée par l’ouvrage et sa réflexion sur l’évolution des rôles professionnels, et leurs rapports à la recherche, font écho à ma façon de concevoir mon travail. Cet ouvrage constitue une solide base pour appuyer mes arguments mais aussi les questionner.
-
-%% begin annotations %%
 
 ### Citations importées le 2026-01-19 7:54 pm
 
@@ -189,9 +176,6 @@ reformulate the existing protocols of exhibition against theconstraints of fixed
 
 >[!quote|#5fb236] Very Important or Critical
 Museums should safeguard not only objects but also change, instead of safeguarding objects from change. [(p. 142)](zotero://open-pdf/library/items/TM8QMKL8?page=142&annotation=UKAE2RL2)
-
-
-%% end annotations %%
 
 ### Bibliographie
 

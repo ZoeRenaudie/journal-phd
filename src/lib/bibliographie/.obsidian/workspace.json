@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "695d9688828a3ce4",
+        "id": "eda71ecf2be4d92a",
         "type": "tabs",
         "children": [
           {
-            "id": "f511c70c4fef9925",
+            "id": "64108ef6371aca60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
+                "file": "Person/van de Vall, Renée.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal"
+              "title": "van de Vall, Renée"
             }
           },
           {
-            "id": "9e78242ced44f34f",
+            "id": "48d976cc206c849a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
+                "file": "Templates/zotemplate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal"
+              "title": "zotemplate"
             }
           }
         ],
@@ -198,23 +198,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e78242ced44f34f",
+  "active": "48d976cc206c849a",
   "lastOpenFiles": [
     "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
-    "Zotero/Qu'est-ce que le contemporain.md",
-    "Person/Wielocha, Aga*.md",
-    "Person/van de Vall.md",
-    "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
-    "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
-    "Zotero/Contemporary Art Conservation.md",
     "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
-    "Zotero/Sustainable Exhibition Design & Construction.md",
-    "Crip Curation as Care.md",
-    "Zotero/Thinking About Exhibitions.md",
+    "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
+    "Person/Saaze, Vivian van de.md",
+    "Vivian van Saaze.md",
+    "Person/Tate Exchange.md",
+    "Person/Velios, Athanasios.md",
+    "Person/Wielocha, Aga*.md",
+    "Person/van de Vall, Renée.md",
+    "Templates/biotemplate.md",
+    "Zotero/*La conservation-restauration du patrimoine au regard des humanités numériques - enjeux techniques, sociocognitifs et politiques.md",
+    "Zotero/*Introduction in Conservation of Contemporary Art.md",
+    "Zotero/*From Collection Management to Content Management in Art Documentation - The Conservator as an Editor.md",
+    "Zotero/Qu'est-ce que le contemporain.md",
     "Zotero/*Archiving complex digital artworks.md",
-    "Templates/zotemplate.md",
+    "Zotero/*Publishing as a conservation strategy - Platforms, care and contemporary art.md",
+    "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
     "Zotero/*The Materiality of the Archive - Creative Practice in Context.md",
-    "Zotero/Making Time.md",
-    "Zotero/*From Collection Management to Content Management in Art Documentation - The Conservator as an Editor.md"
+    "Zotero/*The Display Ontology.md",
+    "Templates/zotemplate.md",
+    "Crip Curation as Care.md",
+    "Making Time.md",
+    "Zotero/Sustainable Exhibition Design & Construction.md",
+    "Zotero/Thinking About Exhibitions.md",
+    "Zotero/Contemporary Art Conservation.md"
   ]
 }

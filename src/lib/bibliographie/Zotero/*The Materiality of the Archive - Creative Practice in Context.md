@@ -59,15 +59,15 @@ PART IV Beyond the archive: expanding the frame 217
 ### Résumé
 ---
 
-**La matérialité des archives** est le premier ouvrage à rassembler une diversité d’approches méthodologiques sur la matérialité des archives, en tant que cadre pour leur engagement, leur analyse et leur interprétation. Se concentrant sur les archives des pratiques créatives, ce livre établit des ponts entre différents champs de savoir dans ce domaine — incluant la culture matérielle, l’histoire de l’art et les études littéraires — unifiés par un intérêt commun pour les archives en tant que dépôts et agrégats matériels, sous formes analogiques et numériques, ainsi que pour l’expérience matérielle qu’elles suscitent.
+C'est le premier ouvrage à rassembler une diversité d’approches méthodologiques sur la matérialité des archives, en tant que cadre pour leur engagement, leur analyse et leur interprétation. Se concentrant sur les archives des pratiques créatives, ce livre établit des ponts entre différents champs de savoir dans ce domaine, incluant la culture matérielle, l’histoire de l’art et les études littéraires, unifiés par un intérêt commun pour les archives en tant que dépôts et agrégats matériels, sous formes analogiques et numériques, ainsi que pour l’expérience matérielle qu’elles suscitent.
 
 Connectant une large palette d'intérêts disciplinaires liés aux archives avec les discours croissants sur la matérialité, les contributeurs explorent le potentiel d’un engagement matériel pour animer le contenu archivistique. Le livre analyse les systèmes, processus et actions qui façonnent les formes, structures et agencements dans lesquels les objets d’archives individuels s'accumulent, ainsi que les principes qui peuvent les maintenir en tant que corpus archivistique. Il interroge également la manière dont l'inévitable transition vers le numérique affecte les théories traditionnelles de l'objet archivistique physique, et comment les pratiques de gestion, telles que la description ou la création de métadonnées, peuvent s’adapter à ces évolutions.
 
-**La matérialité des archives** unit théorie et pratique et rassemble des perspectives professionnelles et académiques. Cet ouvrage est une lecture essentielle pour les universitaires, chercheurs et étudiants de troisième cycle travaillant dans les domaines des études archivistiques, de la muséologie, de l’histoire de l’art et de la culture matérielle.
-### Idées principales
-
 ### Lien avec la thèse
 La lecture de _The Materiality of the Archive_ éclaire directement ma réflexion doctorale. Cet ouvrage collectif, en articulant différentes approches méthodologiques autour de la matérialité des archives, confirme l'importance d'aborder les expositions non seulement comme des événements à documenter, mais comme des agrégats matériels et immatériels à analyser dans leur forme, leur structure et leur processus d'accumulation. En travaillant sur la documentation numérique des composantes éphémères des expositions, je m'inscris dans cette perspective qui interroge à la fois les mutations induites par la transition numérique et les adaptations nécessaires des pratiques de description et de création de métadonnées. Comme les auteur·e·s de cet ouvrage, je cherche à conjuguer théorie et pratique, en proposant un modèle de documentation qui prenne en compte l'expérience matérielle et l'évolution des supports archivistiques.
+### Idées principales
+
+
 
 %% begin annotations %%
 

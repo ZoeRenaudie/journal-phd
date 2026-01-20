@@ -51,13 +51,7 @@ Intégration de la documentation dans la "constituante de l'œuvre" : Certains t
 
 Malgré cette importance, les sources soulignent que la documentation liée aux expositions est parfois dispersée dans différents services du musée (conservation, archives, service des expositions) et n'est pas toujours considérée comme une priorité au même titre que la conservation de l'objet lui-même. p.212 Il existe un plaidoyer pour une meilleure intégration et accessibilité de cette documentation. p.15
 
-%% begin annotations %%
-
-%% end annotations %%
-
 ### Bibliographie
-
-%% Import Date: 2025-04-25T18:05:37.921-04:00 %%
 
 **Aben, K. H.** 1995. “Conservation of Modern Sculpture at the Stedelijk Museum, Amsterdam.” In _From Marble to Chocolate: The Conservation of Modern Sculpture_, edited by J. Heuman, 107. London: Archetype Publications.
 

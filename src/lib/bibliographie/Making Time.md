@@ -22,6 +22,11 @@ citation: "Laurenson, Pip. 2024. « Making Time ». In _Conservation of Contem
 ### Résumé
 
 Ce chapitre explore les différentes temporalités au sein du musée d'art contemporain et analyse comment le financement externe de la recherche permet un "temps de soin plus épais" ("thicker care time"). Ce temps enrichi favorise un engagement plus profond avec des œuvres qui remettent en question les structures, les systèmes et les temporalités du musée. L'auteure s'appuie sur le concept de "timescape" développé par la sociologue Barbara Adam pour examiner les "timescapes" de la pratique et de la pensée de la conservation, du musée lui-même et des œuvres d'art, et comment ces temporalités différentes, voire conflictuelles, impactent nos pratiques de soin.
+### Lien avec la thèse
+
+Je vais mobiliser ce texte dans ma thèse pour plusieurs raisons. Premièrement, il offre une réflexion précieuse sur le rapport au temps dans les pratiques de conservation-restauration au sein des institutions muséales. L’auteure souligne notamment que la conservation ne s’adresse pas uniquement aux générations futures, mais qu’elle répond avant tout aux besoins de la génération présente (p. 389). Ensuite, ce texte constitue une première entrée pertinente pour penser le care en conservation-restauration. Laurenson propose en effet des exemples concrets de soin apporté à des œuvres complexes, notamment des installations multimédias, illustrant ainsi une approche sensible et contextualisée de la conservation.
+
+J’émets toutefois une réserve quant au cadre institutionnel dans lequel s’inscrit cette recherche, qui laisse peu de place aux œuvres et aux espaces marginalisés. La notion de care, bien qu’esquissée dans le traitement des œuvres complexes, n’est pas mobilisée ici pour interroger les exclusions ou pour introduire des perspectives issues de pratiques périphériques ou non institutionnelles.
 ### Idées principales
 
 - **Le Projet "Reshaping the Collectible" :** Le chapitre prend son point de départ dans le projet de recherche triennal "Reshaping the Collectible: When Artworks Live in the Museum" (2019-2022), financé par la Mellon Foundation. Ce projet, coordonné par Pip Laurenson, alors responsable de la recherche en conservation à la Tate, a permis d'explorer la valeur de la recherche pour le musée, les participants et le domaine de la conservation, notamment en termes de temps accordé au soin.
@@ -47,15 +52,6 @@ Ce chapitre explore les différentes temporalités au sein du musée d'art conte
 - **Conclusion :** Laurenson plaide pour le développement et la valorisation de différentes relations de soin au sein du musée, reconnaissant leur valeur sociale, esthétique et spirituelle. Il est possible de modifier les "timescapes" du travail muséal et de permettre à différentes temporalités de coexister. Bien que cela puisse sembler subversif dans une culture dominée par la productivité, c'est une attente du public.
 - "Care time suspends the future and distends the present, thickening it with myriad multilateral demands" (Puig de la Bellacasa, 2017, p. 207).
 - L'auteure insiste sur la nécessité de remarquer et de valoriser les différentes temporalités à l'œuvre dans le musée et autour des œuvres d'art, ouvrant ainsi la voie à des modes de soin recalibrés et à la création de "timescapes" alternatifs. Il y a une demande éthique à reconnaître, valoriser et laisser de l'espace à ces temporalités dans un monde risquant d'être uniquement validé par des idées productivistes du temps.
-
-### Lien avec la thèse
-
-Je vais mobiliser ce texte dans ma thèse pour plusieurs raisons. Premièrement, il offre une réflexion précieuse sur le rapport au temps dans les pratiques de conservation-restauration au sein des institutions muséales. L’auteure souligne notamment que la conservation ne s’adresse pas uniquement aux générations futures, mais qu’elle répond avant tout aux besoins de la génération présente (p. 389). Ensuite, ce texte constitue une première entrée pertinente pour penser le care en conservation-restauration. Laurenson propose en effet des exemples concrets de soin apporté à des œuvres complexes, notamment des installations multimédias, illustrant ainsi une approche sensible et contextualisée de la conservation.
-
-J’émets toutefois une réserve quant au cadre institutionnel dans lequel s’inscrit cette recherche, qui laisse peu de place aux œuvres et aux espaces marginalisés. La notion de care, bien qu’esquissée dans le traitement des œuvres complexes, n’est pas mobilisée ici pour interroger les exclusions ou pour introduire des perspectives issues de pratiques périphériques ou non institutionnelles.
-### Notes
-
-%% begin annotations %%
 
 ### Citations importées le 2025-04-12 5:08 pm
 
@@ -196,11 +192,7 @@ It suggests that there is an ethical demand to acknowledge, value, champion and 
 involved in the research for the quality of their response and their attentive, responsible and capable evolving practices of care. [(p. 399)](zotero://open-pdf/library/items/9TXBD8LY?page=399&annotation=PSH27Z62)
 
 
-%% end annotations %%
-
 ### Bibliographie
-
-%% Import Date: 2025-04-12T17:08:27.727-04:00 %%
 
 Adam, Barbara. 1998. _Timescapes of Modernity: The Environment and Invisible Hazards_. London: Routledge.
 

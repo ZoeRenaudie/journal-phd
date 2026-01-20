@@ -36,8 +36,9 @@ citation:{{bibliography}}
 
 ### Résumé
 
-### Idées principales
 ### Lien avec la thèse
+
+### Idées principales
 
 {% macro calloutHeader(color) -%}
 {%- if color == "general.orange" or color == "#f19837" -%}
