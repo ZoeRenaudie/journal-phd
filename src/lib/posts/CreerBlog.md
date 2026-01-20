@@ -7,7 +7,7 @@ categories:
 excerpt: Présentation des outils et du processus de création de ce blog.
 ---
 
-J’ai créé mon blog pour partager mes recherches et mes réflexions de thèse, et... me forcer à écrire. Mais aussi pour comprendre comment fonctionne la création d’un site web de A à Z, en partant de zéro, en utilisant des outils open-source et gratuits. J'ai besoin de *Faire* pour réfléchir[^1].
+J’ai créé mon blog pour partager mes recherches et mes réflexions de thèse, et... me forcer à écrire. Mais aussi pour comprendre comment fonctionne la création d’un site web de A à Z, en partant de zéro, en utilisant des outils open-source et gratuits. Tout est là : https://github.com/ZoeRenaudie/journal-phd, si ça peut aider quelqu'un. Ce qui est certain, c'est que j'ai besoin de *Faire* pour réfléchir[^1].
 
 ## Outils utilisés
 J’ai commencé par choisir une structure simple et efficace, en optant pour SvelteKit, qui me permet de travailler rapidement avec du JavaScript moderne et de personnaliser facilement le design. Je suis partie du modèle de [Josh Collinsworth](github.com/josh-collinsworth/sveltekit-blog-starter)
