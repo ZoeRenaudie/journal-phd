@@ -18,6 +18,8 @@ Je suis conservatrice-restauratrice d’art contemporain, responsable du laborat
 •	Maîtrise : Bases de données et gestion de collection, Filemaker Pro, Suite Adobe Créative,  	Open	Office,	Microsoft,	Zotero,	Asana,	Zetler, Vscode, Oxygene XML Editor, Github
 
 ## Activité de recherche
+ORCID : 0009-0001-5825-8624
+
 ### Publications
 
 **Articles avec comité de lecture** 

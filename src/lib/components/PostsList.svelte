@@ -23,7 +23,7 @@
 				{new Date(post.date).toLocaleDateString('fr-CA')}
 			</p>
 
-			<p>{post.excerpt}</p>
+			<p>résumé : {post.excerpt}</p>
 		</li>
 	{/each}
 </ul>
