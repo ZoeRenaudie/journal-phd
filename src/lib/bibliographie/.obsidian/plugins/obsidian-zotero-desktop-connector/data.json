@@ -13,6 +13,14 @@
   ],
   "exportFormats": [
     {
+      "name": "Conférences",
+      "outputPathTemplate": "Zotero/{{title}}.md",
+      "imageOutputPathTemplate": "Zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "Templates/zotemplateConf.md",
+      "cslStyle": "chicago-author-date"
+    },
+    {
       "name": "livre",
       "outputPathTemplate": "Zotero/{{title}}.md",
       "imageOutputPathTemplate": "Zotero/{{citekey}}/",

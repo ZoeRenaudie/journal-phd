@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eda71ecf2be4d92a",
+        "id": "5cc470031ee0ea73",
         "type": "tabs",
         "children": [
           {
-            "id": "64108ef6371aca60",
+            "id": "c58c88b34d824aa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Person/van de Vall, Renée.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "van de Vall, Renée"
-            }
-          },
-          {
-            "id": "48d976cc206c849a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/zotemplate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zotemplate"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +179,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "48d976cc206c849a",
+  "active": "c58c88b34d824aa1",
   "lastOpenFiles": [
+    "Templates/zotemplateConf.md",
+    "Nourrir la relationnalité avec les appartenances de nos ancêtres.md",
+    "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
+    "Zotero/*From Collection Management to Content Management in Art Documentation - The Conservator as an Editor.md",
+    "Zotero/The End of Conservation.md",
+    "Zotero/Sustainable Exhibition Design & Construction.md",
+    "Zotero/L'esprit et la matérialité des eaux dans les arts actuels autochtones.md",
+    "Making Time.md",
+    "Templates/zotemplate.md",
     "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
     "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
     "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
@@ -212,18 +202,10 @@
     "Templates/biotemplate.md",
     "Zotero/*La conservation-restauration du patrimoine au regard des humanités numériques - enjeux techniques, sociocognitifs et politiques.md",
     "Zotero/*Introduction in Conservation of Contemporary Art.md",
-    "Zotero/*From Collection Management to Content Management in Art Documentation - The Conservator as an Editor.md",
     "Zotero/Qu'est-ce que le contemporain.md",
     "Zotero/*Archiving complex digital artworks.md",
     "Zotero/*Publishing as a conservation strategy - Platforms, care and contemporary art.md",
-    "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
     "Zotero/*The Materiality of the Archive - Creative Practice in Context.md",
-    "Zotero/*The Display Ontology.md",
-    "Templates/zotemplate.md",
-    "Crip Curation as Care.md",
-    "Making Time.md",
-    "Zotero/Sustainable Exhibition Design & Construction.md",
-    "Zotero/Thinking About Exhibitions.md",
-    "Zotero/Contemporary Art Conservation.md"
+    "Zotero/*The Display Ontology.md"
   ]
 }
