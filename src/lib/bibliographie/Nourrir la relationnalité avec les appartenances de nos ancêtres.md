@@ -1,13 +1,19 @@
 ---
 cssclass: research-note
-type: "presentation"
-author: "Nepton Hotte, Caroline; Ganivet, Mililani; Genest, Isabelle; Lainey, Jonathan"
+type: presentation
+author: Nepton Hotte, Caroline; Ganivet, Mililani; Genest, Isabelle; Lainey, Jonathan
 contributor: "CIECO, "
-title: "Nourrir la relationnalité avec les appartenances de nos ancêtres"
+title: Nourrir la relationnalité avec les appartenances de nos ancêtres
 citekey: neptonhotteNourrirRelationnaliteAvec2026
 abstract: " Prenant appui sur les expositions d’art autochtone actuellement à l’affiche au MBAM, le rassemblement Entre nos archipels : Dialogues autochtones en contextes francophones a pour objectif de mettre en relation des personnalités autochtones du monde de la culture issues d’horizons géographiques et culturels différents (Kanien’kehá:ka, Anishinaabe, Wendat, Ilnu, Eeyou, Inuit, Ininiwak, Atakapa-Ishak, Kalin’a Tilewuyu, Jola, Malagasy, Mā’ohi, Tagata Sāmoa…). Une particularité cependant les unit : les peuples auxquels ils et elles appartiennent ont été colonisés, à un moment de leur histoire, par la France. Si leurs situations politiques sont aujourd’hui très différentes les unes des autres, la langue française demeure pour ces peuples une langue véhiculaire qui marque certes le lien colonial, mais qui peut également leur servir de levier pour affirmer leurs cultures et revitaliser leurs langues ancestrales. C’est pour évoquer cette communauté de destin, et la situation des arts dans un contexte où le français reste une langue qui à la fois unit et éloigne, que nous souhaitons rassembler ces artistes et ces professionnel·les des musées pour établir entre eux un dialogue et leur offrir la possibilité de créer de nouvelles alliances. Et puisqu’en kanien’kéha, Tiohtià:ke signifie à la fois « là où les eaux se séparent » et « là où les eaux se rencontrent », l’eau qui sépare et unit les îles, les archipels et les continents sera le flux directeur des échanges et donnera sa thématique aux quatre séances du rassemblement."
-tags: 
-theme: Muséologie
+tags:
+  - artcontemporain
+  - documentation
+  - relationnalité
+  - rapatriement
+  - savoirsAutochtone
+  - muséesAutochtone
+theme: Savoirs Autochtone
 citation: "Nepton Hotte, Caroline, Mililani Ganivet, Isabelle Genest, et Jonathan Lainey. 2026. « Nourrir la relationnalité avec les appartenances de nos ancêtres ». Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 22. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
 ---
 ### Présentation intervenant.e.s

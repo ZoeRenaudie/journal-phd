@@ -24,8 +24,6 @@ ORCID : 0009-0001-5825-8624
 
 **Articles avec comité de lecture** 
 
-Proulx, C., **Renaudie, Z.**. (en rédaction). AI Practices as shared becomings. *Journal of Curatorial Studies*, 16, 1.
-
 Miclo, A.-S., **Renaudie, Z.**, & Saulnier, G. (soumis). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique]. 
 
 **Renaudie, Z.** (2020). The world of *Pale Fires*, an exhibition put to the test of conservation. *ICAR*, 4, 204–217. https://icarthejournal.asp.waw.pl/index.php/resources/ 
@@ -134,14 +132,14 @@ Certificat en informatique et internet,
 Université de Paris 07, FR
 
 ### Professionnelle
-2024	Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.
-2024 	Ecole d’hiver HSS
-2024 	Web sémantique de Harald Sax
-2023	Certificat	en anglais - Niveau	C2	
-2021	Certificat	d’aptitude à	la	conduite	d’engins	catégorie	CACES	Nacelle	1B-3B
-2020	Filemaker Pro Niveau développement avancé
-2019	Inventaire et récolement dans les collections publiques, INP
-2018	L’oeuvre en mouvement, Odile Michel, Cipac
+2024	Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.  
+2024 	Ecole d’hiver HSS  
+2024 	Web sémantique de Harald Sax  
+2023	Certificat	en anglais - Niveau	C2	  
+2021	Certificat	d’aptitude à	la	conduite	d’engins	catégorie	CACES	Nacelle	1B-3B  
+2020	Filemaker Pro Niveau développement avancé  
+2019	Inventaire et récolement dans les collections publiques, INP  
+2018	L’oeuvre en mouvement, Odile Michel, Cipac  
 
 ## Expériences professionnelles
 
@@ -211,53 +209,43 @@ Stage au département de la restauration de sculpture, sous la direction de Seba
 
 ## Distinctions
 
-**Bourse J. A. DeSève**
-Obtention : Décembre 2025
-Bourse d'excellence
+**Bourse J. A. DeSève**  
+Obtention : Décembre 2025  
+Bourse d'excellence  
 
-**Bourse de rédaction**
-Obtention : Décembre 2025
-Bourse d'excellence
+**Bourse de rédaction**  
+Obtention : Décembre 2025  
+Bourse d'excellence  
 
-**Bourse de fond de recherche - Université de Montréal (CA)** 
-Obtention : Novembre 2025
-Mon directeur de recherche offre des bourses. Elle est attribuée en fonction des besoins et de ses fonds. 
+**Bourse de fond de recherche - Université de Montréal (CA)**   
+Obtention : Novembre 2025    
 
-**Bourse de fond de recherche CRIHN- Université de Montréal (CA)** 
-Obtention : Décembre 2024 - Février 2025 
-Le Centre de Recherche International en Humanité Numérique offre des bourses aux meilleurs étudiants engagés dans les humanités numériques pour financer leurs études.  
+**Bourse de fond de recherche CRIHN- Université de Montréal (CA)**  
+Obtention : Décembre 2024 - Février 2025  
 
-**Bourse mobilité et rayonnement - Université de Montréal (CA)** 
-Obtention : Mai 2024 
-Mon directeur de recherche offre des bourses de mobilité pour soutenir ses meilleurs étudiants à communiquer à l’international. Le candidat doit lui communiquer son projet et en fonction recevra une bourse pour couvrir ses frais de mobilité. 
+**Bourse mobilité et rayonnement - Université de Montréal (CA)**   
+Obtention : Mai 2024   
 
-**Prix des Saisons des ESP pour le développement professionnel** **– Université de Montréal (CA)** 
-Obtention : Décembre 2023
-Bourse d'excellence
-Les ESP offrent des bourses à montant unique (environ 75) visant à récompenser l’engagement étudiant dans le développement professionnel. Les candidats doivent envoyer leur dossier de candidature. Leur dossier est ensuite examiné par la commission des ESP. Les gagnants du concours remportent le prix. 
+**Prix des Saisons des ESP pour le développement professionnel** **– Université de Montréal (CA)**   
+Obtention : Décembre 2023  
+Bourse d'excellence   
 
-**Concours des bourses doctorales du CIÉCO - Partenariat Des nouveaux usages des collections dans les musées d'art (CA)** 
-Obtention : Novembre 2023 
-Bourse d'excellence
-Les candidats à la bourse doctorale du CIÉCO envoient leur dossier de candidature au Partenariat. Leur dossier est ensuite examiné par la commission, les meilleurs obtiennent la bourse. 
+**Concours des bourses doctorales du CIÉCO - Partenariat Des nouveaux usages des collections dans les musées d'art (CA)**  
+Obtention : Novembre 2023  
+Bourse d'excellence  
 
-**Bourse d’admission – Université de Montréal (CA)** 
-Obtention : Octobre 2023 
-Bourse d'excellence
-Les candidats envoient leur dossier de candidature au département d’histoire de l’art et d’études cinématographiques de la FAS de l’UdeM. Leur dossier est ensuite examiné par la commission du département. S’il est sélectionné, le candidat obtient la bourse. 
+**Bourse d’admission – Université de Montréal (CA)**  
+Obtention : Octobre 2023   
+Bourse d'excellence  
 
-**Bourse de fond de recherche - Université de Montréal (CA)** 
-Obtention : Novembre 2023 
-Mon directeur de recherche offre des bourses à l’admission. Elle est attribuée en fonction des besoins et de ses fonds. 
+**Bourse de fond de recherche - Université de Montréal (CA)**  
+Obtention : Novembre 2023  
 
-**Distinction Félicitations du jury pour la Licence - École Supérieure d'Art d'Avignon (FR)** 
-Obtention : Juin 2014 
-Distinction attribuée par le jury aux meilleurs travaux lors de la soutenance du diplôme de troisième année de Licence. 
+**Distinction Félicitations du jury pour la Licence - École Supérieure d'Art d'Avignon (FR)**  
+Obtention : Juin 2014  
 
-**Distinction** **Félicitations du jury pour la Maîtrise - École Supérieure d'Art d'Avignon (FR)** 
-Obtention : Juin 2017 
-Distinction attribuée par le jury aux meilleurs travaux lors de la soutenance du diplôme de Maîtrise. 
-
+**Distinction** **Félicitations du jury pour la Maîtrise - École Supérieure d'Art d'Avignon (FR)**  
+Obtention : Juin 2017  
 
 ## Autres Implications 
 

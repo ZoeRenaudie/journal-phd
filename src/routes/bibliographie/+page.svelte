@@ -21,7 +21,7 @@
   const themes = [...new Set(entries.map(e => e.theme || "Autres"))];
 </script>
 
-<h1>Bibliographie commentée</h1>
+<h1>Bibliographie et ressources commentées</h1>
 
 <div class="theme-selector">
   <label for="theme-select">Filtrer par thème : </label>
