@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5cc470031ee0ea73",
+        "id": "67b2a50719589ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "c58c88b34d824aa1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "173032ddad4eb2ce",
+            "id": "2fbda6215ae2ad88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
+                "file": "Zotero/Feminist in a software lab - difference + design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Futurités autochtones - dépasser les solitudes des mondes franco-américains"
-            }
-          },
-          {
-            "id": "3dc83988e046b19f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Penser par cas. Raisonner à partir de singularités.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Penser par cas. Raisonner à partir de singularités"
+              "title": "Feminist in a software lab - difference + design"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +185,15 @@
   },
   "active": "31ed63f7e7edddbe",
   "lastOpenFiles": [
+    "Zotero/Feminist in a software lab - difference + design.md",
+    "2026-02-02.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
     "Penser par cas. Raisonner à partir de singularités.md",
+    "Zotero/Le processus interprétatif - introduction à la sémiotique de Ch. S. Peirce.md",
     "Nourrir la relationnalité avec les appartenances de nos ancêtres.md",
     "Imaginer de nouvelles géographies au-delà des arts actuels autochtones.md",
     "Making Time.md",
@@ -234,9 +214,6 @@
     "Person/Wielocha, Aga*.md",
     "Person/van de Vall, Renée.md",
     "Templates/biotemplate.md",
-    "Zotero/*La conservation-restauration du patrimoine au regard des humanités numériques - enjeux techniques, sociocognitifs et politiques.md",
-    "Zotero/*Introduction in Conservation of Contemporary Art.md",
-    "Zotero/Qu'est-ce que le contemporain.md",
-    "Zotero/*Archiving complex digital artworks.md"
+    "Zotero/*La conservation-restauration du patrimoine au regard des humanités numériques - enjeux techniques, sociocognitifs et politiques.md"
   ]
 }
