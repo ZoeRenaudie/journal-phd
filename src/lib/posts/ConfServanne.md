@@ -39,11 +39,11 @@ La reconstitution est une thématique largement abordée en histoire de l’art 
 
 Dès le début du XXᵉ siècle, Alois Riegl a proposé un système de valeurs pour penser la conservation des monuments, dans Le culte moderne des monuments (1903). Il distingue les valeurs intentionnelles, liées à la volonté commémorative ou artistique du créateur, et les valeurs non intentionnelles, attribuées plus tard par la société telles que la valeur d’usage, d’ancienneté ou artistique. Cette typologie révèle que les décisions de conservation reposent toujours sur un arbitrage entre plusieurs régimes de valeurs, parfois complémentaires, souvent contradictoires (préserver les traces du temps ou restaurer la lisibilité, conserver la fonction ou la forme, etc.). 
 
-En conservation-restauration de l’art contemporain, cette réflexion s’est prolongée sous une forme plus pragmatique : plutôt que de viser une doctrine universelle, les praticiens ont développé des arbres décisionnels. Ces outils ne cherchent pas à imposer une méthode unique, mais à rendre explicites les choix effectués lors de la restauration. Dans cet esprit, la décision devient un acte réflexif et éthique, ancré dans un système de valeurs qui, depuis Riegl, reconnaît la pluralité des regards portés sur le patrimoine. 
+En conservation-restauration de l’art contemporain, cette réflexion s’est prolongée sous une forme plus pragmatique : plutôt que de viser une doctrine universelle, les praticiens ont développé des arbres décisionnels. Ces outils ne cherchent pas à imposer une méthode unique, mais à rendre explicites les choix effectués lors de la restauration. Dans cet esprit, la décision devient un acte réflexif et éthique qui reconnaît la pluralité des regards portés sur le patrimoine. 
 
 ## De l’œuvre au projet 
 
-Pour dépasser ces impasses, Servanne Monjour propose un changement de paradigme dans la définition même de l’objet littéraire numérique et dans les méthodes de constitution du corpus, notamment à travers le projet Corpuces, mené avec Nicolas Sor. 
+Pour dépasser ces impasses, Servanne Monjour propose un changement de paradigme dans la définition même de l’objet littéraire numérique et dans les méthodes de constitution du corpus, notamment à travers le projet Corpuces, mené avec Nicolas Sauret. 
 
 Monjour choisit désormais de parler de « projet littéraire numérique » plutôt que d’« œuvre », notion qu’elle emprunte au vocabulaire de l’art contemporain. Ce déplacement valorise le processus créatif en devenir, plutôt que la clôture d’un produit fini, et ouvre la voie à une approche dynamique de la création numérique. Je vois l’idée, qui en effet déplace le concept de temps linéaire de l’œuvre mais je ne connais pas de références utilisant le terme « projet ». Je serais curieuse d’en savoir plus.  
 
@@ -51,7 +51,7 @@ Le projet Corpuces repose sur la constitution de petits corpus situés (small ca
 
 Monjour admet que ce travail entrepris est cependant « voué à l’échec » : il se heurte à la nature évolutive des œuvres, à la fermeture des plateformes, voire à la résistance des auteurs. Pourtant, cet échec est porteur de sens. L’archivage devient un geste de lecture, mais aussi un acte de résistance, de bricolage et de débogage. Le scraping ou la collecte automatisée sont des formes d’interprétation, qui réinventent la tension entre lecture distante et lecture rapprochée. 
 
-Les deux domaines souffrent du même biais : muséifier le flux, stabiliser l’éphémère. Monjour plaide pour un passage du « texte clos » au « projet en cours » démarche analogue à celle du modèle de conservation axé sur le processus (ou process-oriented conservation) développé pour les œuvres médiatiques.  Je n’ai jamais entendu ou lu sur la qualification des œuvres comme des “projets”, je serais curieuse d’avoir la référence. Cependant l’idée est bien celle que certains d’entre-nous essaye de montrer[^2]. Pour les conserver, les œuvres sont bien plus complexes qu’un support et une surface, qu’un assemblage matériel vs immatériel[^3].  
+Les deux domaines souffrent du même biais : muséifier le flux, stabiliser l’éphémère. Monjour plaide pour un passage du « texte clos » au « projet en cours » démarche analogue à celle du modèle de conservation axé sur le processus (ou process-oriented conservation) développé pour les œuvres médiatiques[^2]. Pour les conserver, les œuvres sont bien plus complexes qu’un support et une surface, qu’un assemblage matériel vs immatériel[^3].  
 
 ## Archiver l’éphémère 
 
