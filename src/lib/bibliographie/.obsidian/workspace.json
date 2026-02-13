@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero/Feminist in a software lab - difference + design.md",
+                "file": "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feminist in a software lab - difference + design"
+              "title": "Critical Cataloguing - Reperative Approaches to Heritage Documentation"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "31ed63f7e7edddbe",
   "lastOpenFiles": [
+    "Zotero/*The Materiality of the Archive - Creative Practice in Context.md",
     "Zotero/Feminist in a software lab - difference + design.md",
     "2026-02-02.md",
     "Untitled.base",
@@ -213,7 +214,6 @@
     "Person/Velios, Athanasios.md",
     "Person/Wielocha, Aga*.md",
     "Person/van de Vall, Renée.md",
-    "Templates/biotemplate.md",
-    "Zotero/*La conservation-restauration du patrimoine au regard des humanités numériques - enjeux techniques, sociocognitifs et politiques.md"
+    "Templates/biotemplate.md"
   ]
 }
