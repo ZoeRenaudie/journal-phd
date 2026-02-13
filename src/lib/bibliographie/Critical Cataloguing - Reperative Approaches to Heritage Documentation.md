@@ -26,7 +26,7 @@ tags: #subject/database
 
 
 theme:
-citation:Krmpotich, Cara. 2026. « Critical Cataloguing: Reperative Approaches to Heritage Documentation ». Conférence. Causeries d’AS2, UdeM, février 4.
+citation: "Krmpotich, Cara. 2026. « Critical Cataloguing: Reperative Approaches to Heritage Documentation ». Conférence. Causeries d’AS2, UdeM, février 4."
 ---
 ### Présentation intervenant.e.s
 

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Critical Cataloguing - Reperative Approaches to Heritage Documentation"
             }
+          },
+          {
+            "id": "712cf19b0d7f68b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Critical Cataloguing - Reperative Approaches to Heritage Documentation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "31ed63f7e7edddbe",
+  "active": "712cf19b0d7f68b1",
   "lastOpenFiles": [
+    "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
+    "Penser par cas. Raisonner à partir de singularités.md",
+    "Nourrir la relationnalité avec les appartenances de nos ancêtres.md",
+    "Making Time.md",
+    "Imaginer de nouvelles géographies au-delà des arts actuels autochtones.md",
+    "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
+    "Feminist in a software lab - difference + design.md",
+    "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
+    "Crip Curation as Care.md",
+    "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
+    "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
+    "Zotero/The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context.md",
     "Zotero/*The Materiality of the Archive - Creative Practice in Context.md",
     "Zotero/Feminist in a software lab - difference + design.md",
     "2026-02-02.md",
@@ -192,12 +219,7 @@
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
-    "Penser par cas. Raisonner à partir de singularités.md",
     "Zotero/Le processus interprétatif - introduction à la sémiotique de Ch. S. Peirce.md",
-    "Nourrir la relationnalité avec les appartenances de nos ancêtres.md",
-    "Imaginer de nouvelles géographies au-delà des arts actuels autochtones.md",
-    "Making Time.md",
     "Templates/zotemplateConf.md",
     "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
     "Zotero/*From Collection Management to Content Management in Art Documentation - The Conservator as an Editor.md",
@@ -205,15 +227,8 @@
     "Zotero/Sustainable Exhibition Design & Construction.md",
     "Zotero/L'esprit et la matérialité des eaux dans les arts actuels autochtones.md",
     "Templates/zotemplate.md",
-    "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
-    "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
-    "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
     "Person/Saaze, Vivian van de.md",
     "Vivian van Saaze.md",
-    "Person/Tate Exchange.md",
-    "Person/Velios, Athanasios.md",
-    "Person/Wielocha, Aga*.md",
-    "Person/van de Vall, Renée.md",
-    "Templates/biotemplate.md"
+    "Person/Tate Exchange.md"
   ]
 }
