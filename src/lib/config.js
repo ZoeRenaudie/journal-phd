@@ -17,17 +17,17 @@ export const postsPerPage = 10
 // Edit this to alter the main nav menu. (Also used by the footer and mobile nav.)
 export const navItems = [
 	{
-		title: 'À propos',
+		title: 'Recherche & CV',
 		route: '/about'
-	}, {
-		title: 'Contact',
-		route: '/contact' 
 	},{
 		title: 'Journal Ph.D.',
 		route: '/blog'
 	},{
 		title: 'Ressources commentées',
 		route: '/bibliographie' 
+	},{
+		title: 'Contact',
+		route: '/contact' 
 	},
 
 ]

@@ -1,8 +1,3 @@
-<svelte:head>
-	<title>À propos</title>
-</svelte:head>
-
-
 ## Biographie
 Je suis conservatrice-restauratrice d’art contemporain, responsable du laboratoire L’Ouvroir d’histoire de l’art et muséologie numérique et chargée de cours. Forte de plus d’une décennie d’expérience au sein d’institutions culturelles, je me suis spécialisée dans la documentation des expositions et la conservation d’œuvres d’art complexes. Cette expertise pratique a inspiré mon retour à la recherche. Doctorante en histoire de l’art, option muséologie, sous la direction d’Emmanuel Château-Dutier à l’Université de Montréal, je mène une thèse intitulée _Conserver l’éphémère : pour la documentation de l’exposition_, dans le cadre du partenariat Nouveaux usages des collections dans les musées d’art (CIÉCO).
 
@@ -24,82 +19,96 @@ ORCID : 0009-0001-5825-8624
 
 **Articles avec comité de lecture** 
 
-Miclo, A.-S., **Renaudie, Z.**, & Saulnier, G. (soumis). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique]. 
+Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique]. 
 
-**Renaudie, Z.** (2020). The world of *Pale Fires*, an exhibition put to the test of conservation. *ICAR*, 4, 204–217. https://icarthejournal.asp.waw.pl/index.php/resources/ 
+**Renaudie, Zoë** (2020). The world of *Pale Fires*, an exhibition put to the test of conservation. *ICAR*, 4, 204–217. https://icarthejournal.asp.waw.pl/index.php/resources/ 
 
-**Renaudie, Z.** (2018). Conservation du concept, restauration contre l’oubli. *Marges*, 27(2), 110–121. https://doi.org/10.4000/marges.1559 
+**Renaudie, Zoë** (2018). Conservation du concept, restauration contre l’oubli. *Marges*, 27(2), 110–121. https://doi.org/10.4000/marges.1559 
 
 **Articles sans comité de lecture** 
 
-**Renaudie, Z.** (2024). La documentation d’exposition : retour d’expérience. *museonum*. https://medium.com/museonum 
+**Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. https://medium.com/museonum 
 
-**Renaudie, Z.** (2017). Le monde de *Feux pâles* : l’exposition à l’épreuve de la conservation-restauration (Mémoire de recherche, École Supérieure d’Art d’Avignon). http://hdl.handle.net/1866/40417 
+**Renaudie, Zoë** (2017). Le monde de *Feux pâles* : l’exposition à l’épreuve de la conservation-restauration (Mémoire de recherche, École Supérieure d’Art d’Avignon). http://hdl.handle.net/1866/40417 
 
-**Renaudie, Z.** (2015). L’exposition artistique peut-elle devenir une œuvre d’esprit ? *Semin’R, Investigations in and on conservation*. https://seminesaa.hypotheses.org/4144 
+**Renaudie, Zoë** (2015). L’exposition artistique peut-elle devenir une œuvre d’esprit ? *Semin’R, Investigations in and on conservation*. https://seminesaa.hypotheses.org/4144 
 
-**Renaudie, Z.** (2015). Exposition d’une exposition de Daniel Buren ou l’exposition comme œuvre d’art. *Semin’R, Investigations in and on conservation*. https://seminesaa.hypotheses.org/3129 
+**Renaudie, Zoë** (2015). Exposition d’une exposition de Daniel Buren ou l’exposition comme œuvre d’art. *Semin’R, Investigations in and on conservation*. https://seminesaa.hypotheses.org/3129 
 
 **Chapitres de livre** 
 
-**Renaudie, Z.** (sous presse). Le monde de *Feux pâles*, exposition ou œuvre-réseau. Dans G. Salatko et al. (dir.), *Objet en crise : la conservation à la croisée des mondes*. Villeneuve-d’Ascq, France : Presses Universitaires du Septentrion. 
+**Renaudie, Zoë** (sous presse). Le monde de *Feux pâles*, exposition ou œuvre-réseau. Dans G. Salatko et al. (dir.), *Objet en crise : la conservation à la croisée des mondes*. Villeneuve-d’Ascq, France : Presses Universitaires du Septentrion. 
 
 **Actes de colloque (avec comité de lecture)** 
 
-**Renaudie, Z.** (2024). Not following the book: A journey from museum conservator to digital humanities researcher through the creation of a contemporary art management database. In *Proceedings of the DHNB 2024 Conference* (Reykjavik, Islande). 
+**Renaudie, Zoë** (2024). Not following the book: A journey from museum conservator to digital humanities researcher through the creation of a contemporary art management database. In *Proceedings of the DHNB 2024 Conference* (Reykjavik, Islande). 
 
 ### Communications
 **Communications orales - Avec comité de sélection** 
 
-**Renaudie, Z.** (2025, septembre 12). Modéliser l’exposition : de la documentation à la visualisation de l’accrochage. *Colloque CRIHN 2025*, Montréal. 
+**Renaudie, Zoë** (2026, juillet 27-31). Exhibitions as Data : Mapping the Invisible Threads of Cultural Memory *Digital Humanities 2026* DH. Corea.
 
-**Renaudie, Z.** (2025, juin 5). Les humanités numériques pour conserver l’exposition : quelles perspectives ? *DHSI 2025 Conference and Colloquium*, Montréal. 
+**Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, juillet 27-31). Documenting Exhibition’s Display *Digital Humanities 2026* DH. Corea.
 
-**Renaudie, Z.** (2025, mai 2). Table-ronde « Nouvelles parutions des doctorant·es/New Publications by PhD Students ». *Journées d’étude Trois décennies d’histoire de l’art à Montréal. Doc-Inter (1994–2024)*, Montréal. 
+**Renaudie, Zoë** (2026 juin 05-06)
+Documentation des objets désobéissants. *Journées d’étude « Œuvres variables: ce qui reste au musée quand tout change »* organisées à l’Université Sorbonne Nouvelle par le Partenariat Des nouveaux usages des collections dans les musées d’art du Groupe de recherche et de réflexion CIÉCO, en partenariat avec l’Université du Québec en Outaouais et en collaboration avec l’Équipe Art et musée. Paris
 
-**Renaudie, Z.** (2024, mai 27–31). Not following the book: A journey from museum conservator to digital humanities researcher through the creation of a contemporary art management database. *DHNB 2024 Conference – From collections as data experiments to sustainable data services: Experiences at the intersection of cultural heritage and digital humanities*, Reykjavik, Islande. 
+Miclo, Anne-Sophie, **Renaudie, Zoë** (2026 juin 01)
+Quand la dégradation fait patrimoine : l’«accept-decay» en conservation-restauration. *Faire vivre ou laisser mourir Patrimoines vulnérables* APAHAU. Paris.
 
-**Renaudie, Z.**, Valentine, D., & Château-Dutier, E. (2024, mai 27–31). Display, ontology and database for exhibition documentation. *DHNB 2024 Conference – From collections as data experiments to sustainable data services: Experiences at the intersection of cultural heritage and digital humanities*, Reykjavik, Islande. 
+**Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, mai 19-22). Display : une infrastructure sémantique pour la documentation structurée des accrochages d'exposition. *Humanistica 2026*, Paris.
 
-Château-Dutier, E., Valentine, D., **Renaudie, Z.**, & Krause, L. (2024, août 7). Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique. *DH2024*, Washington, D.C. 
+**Renaudie, Zoë** (2025, septembre 12). Modéliser l’exposition : de la documentation à la visualisation de l’accrochage. *Colloque CRIHN 2025*, Montréal. 
 
-**Renaudie, Z.** (2024, mai 19). L’exposition à l’épreuve de la conservation-restauration : les humanités numériques comme approche documentaire interdisciplinaire. *Forum annuel des étudiant·es du Partenariat Des nouveaux usages des collections dans les musées d’art*. 
+**Renaudie, Zoë** (2025, juin 5). Les humanités numériques pour conserver l’exposition : quelles perspectives ? *DHSI 2025 Conference and Colloquium*, Montréal. 
 
-Valentine, D., **Renaudie, Z.**, Krause, L., & Château-Dutier, E. (2024, janvier 19). Ontologie et base de données pour documenter les accrochages d’exposition ou de collection muséales. *Vitrine HN / DH Showcase 2024 CRIHN*, Montréal. 
+**Renaudie, Zoë** (2025, mai 2). Table-ronde « Nouvelles parutions des doctorant·es/New Publications by PhD Students ». *Journées d’étude Trois décennies d’histoire de l’art à Montréal. Doc-Inter (1994–2024)*, Montréal. 
+
+**Renaudie, Zoë** (2024, mai 27–31). Not following the book: A journey from museum conservator to digital humanities researcher through the creation of a contemporary art management database. *DHNB 2024 Conference – From collections as data experiments to sustainable data services: Experiences at the intersection of cultural heritage and digital humanities*, Reykjavik, Islande. 
+
+**Renaudie, Zoë**, Valentine, David, & Château-Dutier, Emmanuel (2024, mai 27–31). Display, ontology and database for exhibition documentation. *DHNB 2024 Conference – From collections as data experiments to sustainable data services: Experiences at the intersection of cultural heritage and digital humanities*, Reykjavik, Islande. 
+
+Château-Dutier, Emmanuel, Valentine, David, **Renaudie, Zoë**, & Krause, L. (2024, août 7). Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique. *DH2024*, Washington, D.C. 
+
+**Renaudie, Zoë** (2024, mai 19). L’exposition à l’épreuve de la conservation-restauration : les humanités numériques comme approche documentaire interdisciplinaire. *Forum annuel des étudiant·es du Partenariat Des nouveaux usages des collections dans les musées d’art*. 
+
+Valentine, David, **Renaudie, Zoë**, Krause, L., & Château-Dutier, Emmanuel (2024, janvier 19). Ontologie et base de données pour documenter les accrochages d’exposition ou de collection muséales. *Vitrine HN / DH Showcase 2024 CRIHN*, Montréal. 
 
 **Communications orales - Sans comité de sélection** 
 
-Delattre, Camille, **Renaudie, Z.** (2025, november 13th). Parcours histoire de l'art et humanités numérique. *Cours HAR 3345 Atelier de synthèse*, Université de Montréal.
+**Renaudie, Zoë**, (2026, mars 05). Exhibitions as Data. *Lab talks* DVS Lab. Suisse. 
 
-**Renaudie, Z.**, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
+Delattre, Camille, **Renaudie, Zoë** (2025, novembre 13). Parcours histoire de l'art et humanités numérique. *Cours HAR 3345 Atelier de synthèse*, Université de Montréal.
 
-**Renaudie, Z.**, Valentine, D., Fraser M., Château-Dutier Emmanuel, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
+**Renaudie, Zoë**, (2025, novembre 5). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
+
+**Renaudie, Zoë**, Valentine, David, Fraser Marie, Château-Dutier Emmanuel, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal. 
 
 **Renaudie, Z** (2025, octobre 16). La documentation dans la vie de l'œuvre. *Cours de maîtrise Art et Sociologie*, Université de Montréal.
 
-**Renaudie, Z.** (2025, avril 9). Déjouer le temps de l’exposition : expérimentations et résistances. *Colloque Indiscipliner la discipline : nouvelles approches théoriques et critiques en histoire de l’art et muséologie*, Montréal. 
+**Renaudie, Zoë** (2025, avril 9). Déjouer le temps de l’exposition : expérimentations et résistances. *Colloque Indiscipliner la discipline : nouvelles approches théoriques et critiques en histoire de l’art et muséologie*, Montréal. 
 
-Château-Dutier, E., Valentine, D., & **Renaudie, Z.** (2024, décembre 17). Documenting exhibition with Semantic Web. *Journée d’étude La documentation des expositions. L’Ouvroir*, Montréal. Rôle : Présentation du papier ainsi que la création et organisation de la journée d’étude. 
+Château-Dutier, Emmanuel, Valentine, David, & **Renaudie, Zoë** (2024, décembre 17). Documenting exhibition with Semantic Web. *Journée d’étude La documentation des expositions. L’Ouvroir*, Montréal. Rôle : Présentation du papier ainsi que la création et organisation de la journée d’étude. 
 
-**Renaudie, Z.** (2024, octobre 17). Humanités numériques dans les musées : outils pour l’histoire de l’art et la muséologie. *HAR4710 : Histoire de l’art et muséologie à l’UQAM*, Montréal. 
+**Renaudie, Zoë** (2024, octobre 17). Humanités numériques dans les musées : outils pour l’histoire de l’art et la muséologie. *HAR4710 : Histoire de l’art et muséologie à l’UQAM*, Montréal. 
 
-**Renaudie, Z.** (2024, mars 1). Le numérique opérateur de la mise à vue des collections. *Atelier 4 du CIECO*, Montréal. 
+**Renaudie, Zoë** (2024, mars 1). Le numérique opérateur de la mise à vue des collections. *Atelier 4 du CIECO*, Montréal. 
 
-**Renaudie, Z.** (2023, septembre 6). La base de données relationnelle pour la documentation de l’exposition. *Midi-causerie de l’Ouvroir*, Université de Montréal. 
+**Renaudie, Zoë** (2023, septembre 6). La base de données relationnelle pour la documentation de l’exposition. *Midi-causerie de l’Ouvroir*, Université de Montréal. 
 
-Bertin, M., & **Renaudie, Z.** (2023, janvier 26 et février 2). Création du séminaire *Conserver l’exposition*. École Supérieure d’Art d’Avignon, France. 
+Bertin, Marie, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création du séminaire *Conserver l’exposition*. École Supérieure d’Art d’Avignon, France. 
 
-**Renaudie, Z.** (2022, décembre 8–9). Ateliers sur les métadonnées de l’exposition *Feux Pâles*. *Symposium Collections : récits, fictions, spéculations*, Capc, Musée d’art contemporain de Bordeaux, France. 
+**Renaudie, Zoë** (2022, décembre 8–9). Ateliers sur les métadonnées de l’exposition *Feux Pâles*. *Symposium Collections : récits, fictions, spéculations*, Capc, Musée d’art contemporain de Bordeaux, France. 
 
-**Renaudie, Z.** (2022, avril 28). L’enquête en conservation-restauration. *La conservation-restauration d’œuvres complexes en institution : générer les traces pour faciliter l’enquête*, École Supérieure d’Art d’Avignon, France. 
+**Renaudie, Zoë** (2022, avril 28). L’enquête en conservation-restauration. *La conservation-restauration d’œuvres complexes en institution : générer les traces pour faciliter l’enquête*, École Supérieure d’Art d’Avignon, France. 
 
-**Renaudie, Z.** (2021, novembre 10). La conservation-restauration d’art contemporain. *To live or let die. Réflexions sur une écologie de la conservation de l’art*, École Nationale Supérieure d’Aix, France. 
+**Renaudie, Zoë** (2021, novembre 10). La conservation-restauration d’art contemporain. *To live or let die. Réflexions sur une écologie de la conservation de l’art*, École Nationale Supérieure d’Aix, France. 
 
-**Renaudie, Z.** (2019, décembre 6). Le métier de conservateur-restaurateur. *Les enjeux de la conservation des œuvres d’art contemporain*, Collection Lambert, France. 
+**Renaudie, Zoë** (2019, décembre 6). Le métier de conservateur-restaurateur. *Les enjeux de la conservation des œuvres d’art contemporain*, Collection Lambert, France. 
 
-**Renaudie, Z.** (2019, février 28). Conserver et restaurer l’art minimal et conceptuel. *Les enjeux de la conservation des œuvres d’art contemporain*, Collection Lambert, France. 
+**Renaudie, Zoë** (2019, février 28). Conserver et restaurer l’art minimal et conceptuel. *Les enjeux de la conservation des œuvres d’art contemporain*, Collection Lambert, France. 
 
-**Renaudie, Z.** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France. 
+**Renaudie, Zoë** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France. 
 
 ## Formation
 
@@ -277,6 +286,6 @@ Journal du séminaire sur la [Documentation citoyenne](https://zoerenaudie.githu
 ## Ami.e.x
 
 [Alexia Schneider](https://alexiaschn.github.io/ateliers_ia/)  
-[Alix Chagué](https://alix-tz.github.io/)  
+[Alix Chagué](https://alix-tZoëgithub.io/)  
 [Lena Krause](https://lenamk.site/)  
 [Anne-Sophie Miclo](https://www.annesophiemiclo.com/)  

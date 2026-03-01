@@ -38,20 +38,18 @@
 
 <div class="blog-layout">
   <aside class="categories-menu">
-    <h2>Thèmes</h2>
-    <ul>
-      {#each themes as theme}
-        <li>
-          <button
-            class:active={$selectedTheme === theme}
-            onclick={() => selectedTheme.set(theme)}
-          >
-            {theme} ({themeCounts[theme]})
-          </button>
-        </li>
-      {/each}
-    </ul>
-  </aside>
+  <h2>Thèmes</h2>
+  <ul>
+    <li><a href="{base}/bibliographie">Tous ({entries.length})</a></li>
+    {#each themes.filter(t => t !== 'Tous') as theme}
+      <li>
+        <a href="{base}/bibliographie/theme/{theme}">
+          {theme} ({themeCounts[theme]})
+        </a>
+      </li>
+    {/each}
+  </ul>
+</aside>
 
   <main class="posts-section">
     <h1>Ressources commentées</h1>
