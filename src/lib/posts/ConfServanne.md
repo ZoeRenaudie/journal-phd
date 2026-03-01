@@ -4,7 +4,6 @@ date: "2025-10-29"
 updated: "2026-01-14"
 categories:
   - "conservation-restauration"
-  - "conservation d'art contemporain"
   - "littérature numérique"
 excerpt: Résumé critique de la conférence de Servanne Monjour sur l’archivage de la littérature numérique et ses implications pour la conservation des œuvres médiatiques
 ---

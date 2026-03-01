@@ -1,10 +1,10 @@
 <script>
   import { writable } from "svelte/store";
-  import { base } from '$app/paths';
+  import { siteDescription } from '$lib/config'
+	import { base } from '$app/paths';
 
   const modules = import.meta.glob('/src/lib/bibliographie/*.md', { eager: true });
 
-  // Normalisation du slug
   const normalizeSlug = (str) =>
     str.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
 
@@ -16,36 +16,55 @@
     })
     .sort((a, b) => (b.date || 0) - (a.date || 0));
 
+  const themes = ["Tous", ...new Set(entries.map(e => e.theme || "Autres"))];
   const selectedTheme = writable("Tous");
 
-  const themes = [...new Set(entries.map(e => e.theme || "Autres"))];
+  $: filteredEntries = $selectedTheme === "Tous"
+    ? entries
+    : entries.filter(e => (e.theme || "Autres") === $selectedTheme);
+
+  $: themeCounts = themes.reduce((acc, theme) => {
+    acc[theme] = theme === "Tous"
+      ? entries.length
+      : entries.filter(e => (e.theme || "Autres") === theme).length;
+    return acc;
+  }, {});
 </script>
 
-<h1>Bibliographie et ressources commentées</h1>
+<svelte:head>
+	<title>Ressources commentées</title>
+	<meta data-key="description" name="description" content={siteDescription}>
+</svelte:head>
 
-<div class="theme-selector">
-  <label for="theme-select">Filtrer par thème : </label>
-  <select id="theme-select" bind:value={$selectedTheme}>
-    <option value="Tous">Tous</option>
-    {#each themes as theme}
-      <option value={theme}>{theme}</option>
-    {/each}
-  </select>
-</div>
-
-{#each $selectedTheme === "Tous" ? themes : [$selectedTheme] as theme}
-  <section>
-    <h2>{theme}</h2>
+<div class="blog-layout">
+  <aside class="categories-menu">
+    <h2>Thèmes</h2>
     <ul>
-      {#each entries.filter(e => (e.theme || "Autres") === theme) as entry}
+      {#each themes as theme}
+        <li>
+          <button
+            class:active={$selectedTheme === theme}
+            onclick={() => selectedTheme.set(theme)}
+          >
+            {theme} ({themeCounts[theme]})
+          </button>
+        </li>
+      {/each}
+    </ul>
+  </aside>
+
+  <main class="posts-section">
+    <h1>Ressources commentées</h1>
+    <ul class="biblio-list">
+      {#each filteredEntries as entry}
         <li class="research-note">
           <p class="citation">
-            <a href={`${base}/bibliographie/${entry.slug}`}>
+            <a href="{base}/bibliographie/{entry.slug}">
               {@html entry.citation}
             </a>
           </p>
         </li>
       {/each}
     </ul>
-  </section>
-{/each}
+  </main>
+</div>

@@ -1,19 +1,36 @@
 <script>
 	import PostsList from '$lib/components/PostsList.svelte'
-	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription } from '$lib/config'
+	import { base } from '$app/paths'
 
 	let { data } = $props();
+	const { posts, categories } = data
 </script>
 
-
 <svelte:head>
-	<title>Blog</title>
+	<title>Journal Ph.D.</title>
 	<meta data-key="description" name="description" content={siteDescription}>
 </svelte:head>
 
-<h1>Blog</h1>
+<div class="blog-layout">
+	<aside class="categories-menu">
+		<h2>Catégories</h2>
+		<ul>
+			<li>
+				<a href="{base}/blog">Tous ({posts.length})</a>
+			</li>
+			{#each categories as category}
+			<li>
+				<a href="{base}/blog/category/{category.title}">
+					{category.title} ({category.count})
+				</a>
+			</li>
+			{/each}
+		</ul>
+	</aside>
 
-<PostsList posts={data.posts} />
-
-<Pagination currentPage={1} totalPosts={data.total} />
+	<main class="posts-section">
+		<h1>Journal Ph.D.</h1>
+		<PostsList posts={posts} />
+	</main>
+</div>

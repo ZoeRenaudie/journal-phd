@@ -6,10 +6,10 @@
 }
 
 main {
-	width: 100%;
-	max-width: clamp(42rem, 68vw, 68rem);
-	margin: clamp(2.5rem, 6vh, 4rem) auto;
-	padding: 0 clamp(1rem, 3vw, 1.5rem);
+  width: 100%;
+  max-width: clamp(42rem, 68vw, 68rem);
+  margin: clamp(1rem, 3vh, 2rem) auto;
+  padding: 0 2rem;
 }
 
 .layout {

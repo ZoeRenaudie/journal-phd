@@ -16,7 +16,7 @@ abstract: "Silvia Rivera Cusicanqui explores the possibilities for decolonizatio
 tags: #subject//unread
 #subject/_biblio
 
-theme:
+theme: Théorie Critique
 citation: "Cusicanqui, Silvia Rivera. 2012. « Ch’ixinakax utxiwa: A Reflection on the Practices and Discourses of Decolonization ». _South Atlantic Quarterly_ 111 (1): 95‑109. [https://doi.org/10.1215/00382876-1472612](https://doi.org/10.1215/00382876-1472612)."
 ---
 ### Présentation auteur.e.s

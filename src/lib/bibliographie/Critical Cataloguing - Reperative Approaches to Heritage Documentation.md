@@ -25,7 +25,7 @@ tags: #subject/database
 #subject/relation-care
 
 
-theme:
+theme: Théorie Critique
 citation: "Krmpotich, Cara. 2026. « Critical Cataloguing: Reperative Approaches to Heritage Documentation ». Conférence. Causeries d’AS2, UdeM, février 4."
 ---
 ### Présentation intervenant.e.s
