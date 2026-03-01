@@ -21,7 +21,7 @@ citation: "Cometti, Jean-Pierre. 2016. _Conserver/Restaurer : l’oeuvre d’a
 ---
 ### Présentation auteur.e.s
 
-[[Cometti, Jean-Pierre]]
+[[Cometti, Jean-Pierre*]]
 ### Résumé
 
 Dans cet ouvrage Jean-Pierre Cometti développe les idées abordées et développées avec les étudiants et professeurs en conservation-restauration de l'École supérieure d'art d'Avignon. Spécialisée en art contemporain et artefacts ethnologiques, les étudiants suivaient les méthodologie de l'enquête pragmatique. 

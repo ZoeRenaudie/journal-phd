@@ -21,7 +21,7 @@ tags: #subject/read/attended
 
 
 theme:
-citation:Muñoz-Viñas, Salvador. 2024. _The End of Conservation_.
+citation: Muñoz-Viñas, Salvador. 2024. _The End of Conservation_.
 ---
 
 ---
