@@ -28,7 +28,7 @@ L’entretien avec l’artiste (artist interview) est identifié comme une méth
 
 Le texte interroge également le rôle de l’entretien dans l’ensemble documentaire constitué autour d’une œuvre : au-delà d’un simple recueil de faits, l’entretien est envisagé comme un assemblage de récits nécessitant une interprétation. Il contribue à construire une mémoire vivante de l’œuvre, où subjectivité et multiplicité des points de vue ont leur place.
 
-Cette approche rejoint l’idée de l’œuvre d’art comme archive — ou (an)archive — suggérant une relation intrinsèque entre œuvre et documentation. Dans ce modèle, l’archive ne se limite pas à un dépôt physique, mais devient un système dynamique de mémoire et de savoirs, qui valorise la pluralité des récits et accepte l’incomplétude comme constitutive.
+Cette approche rejoint l’idée de l’œuvre d’art comme archive, ou (an)archive, suggérant une relation intrinsèque entre œuvre et documentation. Dans ce modèle, l’archive ne se limite pas à un dépôt physique, mais devient un système dynamique de mémoire et de savoirs, qui valorise la pluralité des récits et accepte l’incomplétude comme constitutive.
 
 Le texte met en lumière les tensions existantes entre l’évolution des théories de la conservation de l’art contemporain et des pratiques institutionnelles parfois rigides. Ces frictions peuvent découler des systèmes de classification muséale, des structures administratives ou encore de la nature des relations entre artistes et institutions.
 
