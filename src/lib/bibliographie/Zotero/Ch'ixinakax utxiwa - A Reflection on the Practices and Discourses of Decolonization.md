@@ -8,9 +8,10 @@ date: 2012
 citekey: cusicanquiChixinakaxUtxiwaReflection2012
 abstract: Silvia Rivera Cusicanqui explores the possibilities for decolonization through an analysis of the “multicultural” state as an ongoing practice of coloniality that recognizes and incorporates indigenous people but only as static, archaic figures defined by a continuous relationship to an idealized past. As Cusicanqui demonstrates, this truncated recognition subordinates indigenous people, depriving them of their contemporaneity, complexity, and dynamism and, therefore, of their potential to challenge the given order. Coloniality and its relations of domination, she claims, are also reproduced in the knowledge production of academic scholars of decoloniality, primarily from the global North. These academics, she argues, appropriate the language and ideas of indigenous scholars without grappling with the relations of force that define their relationships to them, thus decontextualizing and depoliticizing these concepts and marginalizing indigenous scholars from their own debates. Counterposing the Aymara concept of ch'ixi—a parallel coexistence of difference—to multiculturalism and hybridity, which incorporates and flattens or distorts difference, Cusicanqui shows that decolonization must be not only a discourse but also an affirmative practice.
 tags:
-  - savoirsAutochtone
+  - savoirs-autochtones
   - décolonisation
-  - theorieCritique
+  - theorie-critique
+  - féminisme
 theme: Théorie Critique
 citation: "Cusicanqui, Silvia Rivera. 2012. « Ch’ixinakax utxiwa: A Reflection on the Practices and Discourses of Decolonization ». _South Atlantic Quarterly_ 111 (1): 95‑109. [https://doi.org/10.1215/00382876-1472612](https://doi.org/10.1215/00382876-1472612)."
 ---
@@ -18,13 +19,34 @@ citation: "Cusicanqui, Silvia Rivera. 2012. « Ch’ixinakax utxiwa: A Reflecti
 ---
 ### Présentation auteur.e.s
 
+[**Silvia Rivera Cusicanqui**](https://fr.wikipedia.org/wiki/Silvia_Rivera_Cusicanqui) est une féministe, sociologue, historienne et militante bolivienne née le 9 décembre 1949 à La Paz, en Bolivie. Elle a enseigné la sociologie pendant plus de trente ans à l'Universidad Mayor de San Andrés, une université publique de La Paz. Ses travaux s'inspirent de la théorie anarchiste, des cosmologies quechua et aymara, et elle a cofondé le Taller de Historia Oral Andina (THOA), un espace critique des épistémologies occidentales. Elle a également milité aux côtés des mouvements indigènes boliviens tels que les cocaleros et les tupacataristas.
+
 ### Résumé
+
+Silvia Rivera Cusicanqui, sociologue et activiste aymara bolivienne, développe une critique radicale des discours décoloniaux académiques, en particulier ceux produits dans les universités nord-américaines. Elle argumente que la décolonisation ne peut pas être réduite à un discours ou une théorie : elle doit être une pratique.
 
 ### Lien avec la thèse
 
+La lecture de "Ch'ixinakax utxiwa" de Silvia Rivera Cusicanqui m'a permis de mieux situer les enjeux théoriques et politiques de ma recherche sur la documentation des expositions éphémères.
+Le premier point de contact concerne ce que j'appelle l'oubli sélectif. Rivera montre que l'effacement des savoirs n'est jamais neutre : certaines idées "quittent le pays converties en matières premières" pour revenir dépossédées de leurs auteur·ices. Je fais l'hypothèse que les archives muséales fonctionnent selon une logique analogue. Les expositions qui disparaissent le plus rapidement sont souvent celles portées par des artistes et commissaires marginalisé·es, queer, indigènes, crip... L'institution accueille, mais n'archive pas. Ce geste reproduit ce que Rivera nomme une "inclusion conditionnelle" : une présence dans l'espace physique assortie d'une absence structurelle dans la mémoire institutionnelle.
+
+Son insistance sur l'articulation nécessaire entre discours et pratique nourrit également ma démarche. Rivera affirme qu'il ne peut y avoir de discours décolonial sans pratique décoloniale. C'est précisément le piège que je cherche à éviter : beaucoup d'institutions adoptent aujourd'hui un discours d'inclusion sans transformer leurs pratiques d'archivage, lesquelles restent calquées sur des modèles hérités qui invisibilisent structurellement certaines formes d'oeuvres ou d'exposition. Mon modèle documentaire basé sur les ontologies computationnelles se veut une réponse à cet écart,non pas un outil technique neutre, mais une posture éthique et politique.
+
+Rivera propose le ch'ixi comme modèle d'une coexistence de contraires en tension permanente, sans synthèse ni fusion. L'exposition fonctionne précisément ainsi : elle est présente et absente, vivante et éphémère, matérielle et performative. Ce que je cherche à documenter n'est pas une forme stabilisée, mais cette tension irrésolue elle-même. Les ontologies computationnelles permettent de représenter des réseaux complexes de relations sans les figer, ce qui correspond à la logique du ch'ixi, et s'oppose à la notion d'hybridité que Rivera critique comme stérile.
+
+Enfin, sa proposition de substituer une "économie politique du savoir" à la simple "géopolitique du savoir" me conduit à affiner ma cartographie des chemins d'effacement. Il ne suffit pas de demander qui documente et depuis quel lieu : il faut interroger qui bénéficie de l'oubli. L'effacement institutionnel de certaines expositions n'est pas toujours le produit d'une négligence, il peut protéger des récits dominants, éviter des conflits de propriété intellectuelle, préserver des rapports de pouvoir internes. Rivera me donne ici un cadre pour analyser l'archive non comme un manque, mais comme un acte.
+
+Cette recherche m'impose une vigilance constante à l'égard de ma propre position. Je suis blanche, francophone, formée dans une université nord-américaine : précisément le type d'institution que Rivera Cusicanqui identifie comme un lieu de reproduction de la domination épistémique. Je ne peux pas prétendre me situer en dehors de ces structures. La question n'est donc pas de nier cette position, mais de refuser de la laisser opérer silencieusement. Rivera me met en garde contre un piège précis : celui de l'intellectuelle qui s'approprie des savoirs produits par les marges, les dépolitise, et les réintègre dans un canon académique rentable, reproduisant ainsi, sous une forme sophistiquée, la même logique coloniale qu'il ou elle prétend dénoncer. Ce risque est réel pour moi. Mon travail mobilise des perspectives décoloniales, queer, féministes et crip. Mais mobiliser ces perspectives ne me place pas automatiquement du bon côté.
+
+Ce qui me semble décisif, c'est la distinction que Rivera opère entre discours et pratique. Il ne suffit pas de citer les bonnes références. La question est de savoir si mon modèle documentaire transforme réellement des rapports de pouvoir concrets, si les communautés et les artistes concerné·es par les expositions que j'étudie participent à la construction de ce modèle, ou s'ils et elles en sont simplement les objets. C'est une exigence méthodologique autant qu'éthique, et elle doit traverser chaque choix de ma recherche : qui j'écoute, qui je cite, avec qui je construis, à qui ce travail est restitué et sous quelle forme. À défaut de sortir de ma position institutionnelle, je peux en faire un objet d'analyse plutôt qu'un impensé. C'est, je crois, ce que Rivera exige de nous : non pas une culpabilité paralysante, mais une responsabilité active et située.
+
 ### Idées principales
 
-%% begin annotations %%
+1. Les élites latinoaméricaines reproduisent des formes de recolonisation sous des apparences modernisatrices. L'inclusion des peuples indigènes est toujours "conditionnelle" et "de deuxième classe."
+2. Le multiculturalisme adopté par les États (Bolivie, etc.) est ornamental : il folklorise les peuples indigènes, les fige dans un passé archaïque, et neutralise leur potentiel politique subversif. C'est un outil de domination déguisé en reconnaissance.
+3. Rivera Cusicanqui dénonce Walter Mignolo, Catherine Walsh et d'autres comme des figures qui s'approprient les savoirs indigènes du Sud, les dépolitisent, et les recyclent dans un canon académique rentable aux États-Unis. Elle propose à la place une "économie politique du savoir" plutôt qu'une simple "géopolitique du savoir."
+4. Contre la notion de "hybridité" (García Canclini) — jugée stérile comme une mule — elle propose le concept aymara de ch'ixi : une coexistence de contraires qui ne se fusionnent pas, mais qui se maintiennent en tension productive. 
+5. Il ne peut y avoir de discours décolonial sans pratique décoloniale. La langue, les gestes, les modes d'interaction, le bilinguisme sont des espaces concrets de décolonisation.
 
 ### Citations importées le 2026-03-04 4:20 am
 
