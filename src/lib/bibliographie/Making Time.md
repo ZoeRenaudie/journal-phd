@@ -9,7 +9,7 @@ date: 2024
 citekey: laurensonMakingTime2024
 abstract: Abstract This chapter considers the different temporalities within the contemporary art museum and explores how externally funded research affords thicker care time to enable an engagement with works that challenge the structures, systems and temporalities of the museum. Drawing on the idea of a “timescape” introduced by the sociologist Barbara Adam, it considers the “timescapes” of conservation practice and thinking, of the museum and of artworks, and how these different and sometimes conflicting temporalities impact our practices of care.
 tags:
-  - c-r
+  - conservation-restauration
   - care
   - time
 theme: Conservation-restauration

@@ -6,7 +6,7 @@ contributor: "CIECO, "
 title: Imaginer de nouvelles géographies au-delà des arts actuels autochtones
 citekey: eshraghiImaginerNouvellesGeographies2026
 tags:
-  - artcontemporain
+  - art-contemporain
   - curation
   - muséologie
   - care

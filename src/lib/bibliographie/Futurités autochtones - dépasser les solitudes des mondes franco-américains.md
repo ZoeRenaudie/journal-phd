@@ -6,6 +6,9 @@ contributor: "CIECO, "
 title: '" Futurités autochtones : dépasser les solitudes des mondes franco-américains "'
 citekey: lariveeFuturitesAutochtonesDepasser2026
 abstract:
+tags: 
+- savoirs-autochtones
+- art-contemporain
 theme: Savoirs Autochtone
 citation: "Larivée, Camille, Jeffery U. Darensbourg, Keywa Henri, et Marie-Anne Redhead. 2026. ` Futurités autochtones  dépasser les solitudes des mondes franco-américains `. Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 23. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
 ---

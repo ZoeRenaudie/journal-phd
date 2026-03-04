@@ -11,7 +11,7 @@ tags:
   - database
   - dh
   - dah
-  - theorieCritique
+  - theorie-critique
 theme: Humanités numériques
 citation: 'McPherson, Tara. 2018. _Feminist in a Software Lab Difference + Design_. Metalabprojects. Harvard university press.'
 ---

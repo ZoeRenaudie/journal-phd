@@ -7,7 +7,7 @@ date: 2024
 citekey: vandevallConservationContemporaryArt2024
 abstract:
 tags:
-  - subject/conservation
+  - conservation
   - archive
   - documentation
 theme: Conservation-restauration

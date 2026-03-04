@@ -4,16 +4,35 @@
 </script>
 
 <svelte:head>
-  <title>Bibliographie — {data.theme}</title>
+  <title>Ressources commentées — {data.tag}</title>
 </svelte:head>
 
 <div class="blog-layout">
-  <!-- même menu que la page principale -->
-  <main>
+  <aside class="categories-menu">
+    <h2>Tags</h2>
+    <ul>
+      <li><a href="{base}/bibliographie">Tous ({data.total})</a></li>
+      {#each data.allTags as tag}
+        <li>
+          <a href="{base}/bibliographie/theme/{tag}">
+            {tag} ({data.tagCounts[tag]})
+          </a>
+        </li>
+      {/each}
+    </ul>
+  </aside>
+
+  <main class="posts-section">
     <h1>Ressources commentées</h1>
     <ul class="biblio-list">
       {#each data.entries as entry}
-        <li><a href="{base}/bibliographie/{entry.slug}">{@html entry.citation}</a></li>
+        <li class="research-note">
+          <p class="citation">
+            <a href="{base}/bibliographie/{entry.slug}">
+              {@html entry.citation}
+            </a>
+          </p>
+        </li>
       {/each}
     </ul>
   </main>

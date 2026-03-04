@@ -8,11 +8,11 @@ date: 2016
 citekey: comettiConserverRestaurerLoeuvreDart2016
 abstract: 'La conservation et la restauration des œuvres d’art sont en apparence les deux faces d’une même réalité. Les musées n’ont-ils pas pour mission d’exposer et de préserver leurs œuvres ? Mais c’est compter sans une extension inédite des biens culturels et la propension à y inclure les choses les plus diverses, à commencer par les plus contemporaines. En sorte que ces deux missions deviennent contradictoires. Les termes qui caractérisent cette situation nouvelle ("patrimoine", "curateur" qui s’est substitué à "commissaire", etc.) indiquent la grande transformation : sous l’effet du marché de l’art internationalisé et de la place qu’il occupe dans le monde de la finance, les œuvres sont désormais des biens qui, au même titre que d’autres, plus qu’une valeur ont un prix. S’ajoute l’importance prise par leur dimension contemporaine, puisque la mémoire dans nos sociétés est indissociable d’un rapport à l’histoire désormais centré non plus sur le passé mais sur le présent – un présent sans futur et qui est à lui-même son propre horizon. La patrimonialisation du présent brasse les cultures les plus hétérogènes, le passé et le présent, l’homogène et l’exogène, l’ordinaire et l’extraordinaire. Elle fait croître le souci qui entoure désormais les productions contemporaines y compris dans leurs composantes techniques, singulièrement créditées d’une valeur que leur obsolescence particulière rend d’autant plus digne d’intérêt.'
 tags:
-  - c-r
+  - conservation-restauration
   - performance
   - enquête
   - documentation
-  - subject/esthétique
+  - esthétique
   - temps
   - philosophie
   - installation

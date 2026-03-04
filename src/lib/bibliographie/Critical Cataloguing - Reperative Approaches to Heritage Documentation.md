@@ -7,22 +7,13 @@ author: "Krmpotich, Cara"
 
 title: "Critical Cataloguing: Reperative Approaches to Heritage Documentation"
 
-
-
-
-
-
 citekey: krmpotichCriticalCataloguingReperative2026
 abstract: 
-tags: #subject/database
-#subject/read/attended
-#subject/forms
-#subject/relation
-#subject//unread
-#subject/_biblio
-#subject/autochtone
-#subject/collection-care
-#subject/relation-care
+tags: 
+- database
+- collection-autochtone
+- collection-care
+- relation-care
 
 
 theme: Théorie Critique

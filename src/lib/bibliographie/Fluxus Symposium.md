@@ -31,9 +31,9 @@ abstract: |-
 
   For further details, assistance, or advice regarding accommodation and travel to Bern or Zürich, please get in touch with us at activatingfluxus@gmail.com.
 tags:
-  - Fluxus
+  - fluxus
   - documentation
-  - subject/contemporary-art
+  - art-contemporain
 theme: Conservation-restauration
 citation: Hölling, Hanna B., Wielocha Aga, et Ellis Joséphine. 2026. « Fluxus Symposium ». Symposium. Fluxus Symposium, Bern, Switzerland, février 27.
 link: https://activatingfluxus.com/activations-a-fluxus-symposium-friday-february-27-12-7-pm-cet/

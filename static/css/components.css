@@ -64,6 +64,7 @@
 .blog-layout {
   position: relative;
   display: block;
+  min-height: 100%;
 }
 
 /* Menu latéral commun (catégories & thèmes) */
