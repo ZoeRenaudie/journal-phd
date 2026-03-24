@@ -46,6 +46,22 @@
 	</div>
 
 	<PostContent />
+	
+<nav class="post-nav">
+  {#if data.previous}
+    <a href="{base}/blog/{data.previous.slug}" class="post-nav__prev">
+      ← {data.previous.title}
+    </a>
+  {:else}
+    <span></span>
+  {/if}
+
+  {#if data.next}
+    <a href="{base}/blog/{data.next.slug}" class="post-nav__next">
+      {data.next.title} →
+    </a>
+  {/if}
+</nav>
 
 	{#if categories}
 		<aside class="post-footer">
