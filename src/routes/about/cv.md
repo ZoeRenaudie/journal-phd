@@ -1,5 +1,5 @@
-## Biographie
-Je suis conservatrice-restauratrice d’art contemporain, responsable du laboratoire L’Ouvroir d’histoire de l’art et muséologie numérique et chargée de cours. Forte de plus d’une décennie d’expérience au sein d’institutions culturelles, je me suis spécialisée dans la documentation des expositions et la conservation d’œuvres d’art complexes. Cette expertise pratique a inspiré mon retour à la recherche. Doctorante en histoire de l’art, option muséologie, sous la direction d’Emmanuel Château-Dutier à l’Université de Montréal, je mène une thèse intitulée _Conserver l’éphémère : pour la documentation de l’exposition_, dans le cadre du partenariat Nouveaux usages des collections dans les musées d’art (CIÉCO).
+Je suis Zoë Renaudie, conservatrice-restauratrice d’art contemporain, spécialisée dans la documentation des expositions et la conservation d’œuvres complexes. Avec plus d’une décennie d’expérience au sein d’institutions culturelles, j’ai occupé des postes clés, notamment en tant que responsable de la conservation à la Collection Lambert à Avignon, puis comme chargée des œuvres complexes au sein du département de production d’expositions de Luma Arles.
+Passionnée par les bases de données, les solutions numériques et les pratiques open GLAM+, j’explore les intersections entre conservation, documentation et technologies numériques. Actuellement doctorante en histoire de l’art, option muséologie, à l’Université de Montréal sous la direction d’Emmanuel Château-Dutier, je mène une thèse intitulée « Conserver l’éphémère : les outils numériques pour la documentation de l’exposition », dans le cadre du partenariat Nouveaux usages des collections dans les musées d’art (CIÉCO).
 
 ## Compétences
 
@@ -21,13 +21,13 @@ ORCID : 0009-0001-5825-8624
 
 Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique]. 
 
+**Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. https://medium.com/museonum 
+
 **Renaudie, Zoë** (2020). The world of *Pale Fires*, an exhibition put to the test of conservation. *ICAR*, 4, 204–217. https://icarthejournal.asp.waw.pl/index.php/resources/ 
 
 **Renaudie, Zoë** (2018). Conservation du concept, restauration contre l’oubli. *Marges*, 27(2), 110–121. https://doi.org/10.4000/marges.1559 
 
 **Articles sans comité de lecture** 
-
-**Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. https://medium.com/museonum 
 
 **Renaudie, Zoë** (2017). Le monde de *Feux pâles* : l’exposition à l’épreuve de la conservation-restauration (Mémoire de recherche, École Supérieure d’Art d’Avignon). http://hdl.handle.net/1866/40417 
 
@@ -141,6 +141,8 @@ Certificat en informatique et internet,
 Université de Paris 07, FR
 
 ### Professionnelle
+2026    À quoi servent les modèles ontologiques ? L'exemple du CIDOC CRM pour le patrimoine. (3h) Amélie Daloz. Urfist. April 09th.
+2025    Qu’est-ce qu’IA ? (8h) Alexia Schneider, Clara Grometto, Marcello Vitali-Rosati. Débogue tes humanités à l'UdeM. https://debogue.ecrituresnumeriques.ca/
 2024	Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.  
 2024 	Ecole d’hiver HSS  
 2024 	Web sémantique de Harald Sax  
@@ -218,11 +220,22 @@ Stage au département de la restauration de sculpture, sous la direction de Seba
 
 ## Distinctions
 
-**Bourse J. A. DeSève**  
+**Bourse de mobilité CRIHN- Université de Montréal (CA)**  
+Obtention : juillet 2026  
+
+**Bourse doctorale UdeM International - Université de Montréal (CA)**   
+Obtention : avril 2026  
+Bourse d'excellence de rayonnement  
+
+**Bourse MITACS (CA)**  
+Obtention : Mars 2026  
+Bourse d'excellence de mobilité
+
+**Bourse J. A. DeSève (CA)**  
 Obtention : Décembre 2025  
 Bourse d'excellence  
 
-**Bourse de rédaction**  
+**Bourse de rédaction de la FAS - Université de Montréal (CA)**  
 Obtention : Décembre 2025  
 Bourse d'excellence  
 
