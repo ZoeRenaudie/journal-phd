@@ -107,3 +107,27 @@ li {
 .icon-link:hover::before {
 	opacity: 1;
 }
+
+/* Markdown tables */
+:global(table) {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.95em;
+}
+
+:global(th),
+:global(td) {
+  border: 1px solid #d1d5db;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
+:global(th) {
+  background-color: #f9fafb;
+  font-weight: 600;
+}
+
+:global(tr:nth-child(even)) {
+  background-color: #f9fafb;
+}
