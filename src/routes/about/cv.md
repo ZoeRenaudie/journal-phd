@@ -2,13 +2,13 @@ Je suis Zoë Renaudie, conservatrice-restauratrice d’art contemporain, spécia
 
 ## Compétences
 
-• Langues : français, anglais et connaissances de base en chinois\
-• Recherche académique\
-• Gestion de collection\
-• Conservation et restauration d’art contemporain\
-• Régie d’œuvre\
-• Gestion de projet et production événementielle\
-• Création et gestion de bases de données\
+• Langues : français, anglais et connaissances de base en chinois  
+• Recherche académique  
+• Gestion de collection  
+• Conservation et restauration d’art contemporain  
+• Régie d’œuvre  
+• Gestion de projet et production événementielle  
+• Création et gestion de bases de données  
 • Maîtrise : Bases de données et gestion de collection, Filemaker Pro, Suite Adobe Créative, Open Office, Microsoft, Zotero, Asana, Zetler, Vscode, Oxygene XML Editor, Github
 
 ## Activité de recherche
@@ -19,7 +19,7 @@ ORCID : 0009-0001-5825-8624
 
 **Articles avec comité de lecture**
 
-Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* \[édition numérique\].
+Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections*   [édition numérique  ].
 
 **Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. <https://medium.com/museonum/la-documentation-dexposition-retour-d-exp%C3%A9rience-309521484918>
 
@@ -127,16 +127,25 @@ Bertin, Marie, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création 
 
 ### Professionnelle
 
-2026 À quoi servent les modèles ontologiques ? L'exemple du CIDOC CRM pour le patrimoine. (3h) Amélie Daloz. Urfist. April 09th.\
-2025 Qu’est-ce qu’IA ? (8h) Alexia Schneider, Clara Grometto, Marcello Vitali-Rosati. Débogue tes humanités à l'UdeM. https://debogue.ecrituresnumeriques.ca/\
-2024 Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.\
-2024 Ecole d’hiver HSS\
-2024 Web sémantique de Harald Sax\
-2023 Certificat en anglais - Niveau C2\
-2021 Certificat d’aptitude à la conduite d’engins catégorie CACES Nacelle 1B-3B\
-2020 Filemaker Pro Niveau développement avancé\
-2019 Inventaire et récolement dans les collections publiques, INP\
-2018 L’oeuvre en mouvement, Odile Michel, Cipac
+2026 À quoi servent les modèles ontologiques ? L'exemple du CIDOC CRM pour le patrimoine. (3h) Amélie Daloz. Urfist. April 09th.  
+
+2025 Qu’est-ce qu’IA ? (8h) Alexia Schneider, Clara Grometto, Marcello Vitali-Rosati. Débogue tes humanités à l'UdeM. https://debogue.ecrituresnumeriques.ca/  
+
+2024 Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.  
+
+2024 Ecole d’hiver HSS  
+
+2024 Web sémantique de Harald Sax  
+
+2023 Certificat en anglais - Niveau C2  
+
+2021 Certificat d’aptitude à la conduite d’engins catégorie CACES Nacelle 1B-3B  
+
+2020 Filemaker Pro Niveau développement avancé  
+
+2019 Inventaire et récolement dans les collections publiques, INP  
+
+2018 L’oeuvre en mouvement, Odile Michel, Cipac  
 
 ## Expériences professionnelles
 
@@ -206,54 +215,54 @@ Stage au département de la restauration de sculpture, sous la direction de Seba
 
 ## Distinctions
 
-**Bourse de mobilité CRIHN- Université de Montréal (CA)**\
-Obtention : juillet 2026
+**Bourse de mobilité CRIHN- Université de Montréal (CA)**  
+Obtention : juillet 2026  
 
-**Bourse doctorale UdeM International - Université de Montréal (CA)**\
-Obtention : avril 2026\
-Bourse d'excellence de rayonnement
+**Bourse doctorale UdeM International - Université de Montréal (CA)**  
+Obtention : avril 2026  
+Bourse d'excellence de rayonnement  
 
-**Bourse MITACS (CA)**\
-Obtention : Mars 2026\
-Bourse d'excellence de mobilité
+**Bourse MITACS (CA)**  
+Obtention : Mars 2026  
+Bourse d'excellence de mobilité  
 
-**Bourse J. A. DeSève (CA)**\
-Obtention : Décembre 2025\
-Bourse d'excellence
+**Bourse J. A. DeSève (CA)**  
+Obtention : Décembre 2025  
+Bourse d'excellence  
 
-**Bourse de rédaction de la FAS - Université de Montréal (CA)**\
-Obtention : Décembre 2025\
-Bourse d'excellence
+**Bourse de rédaction de la FAS - Université de Montréal (CA)**  
+Obtention : Décembre 2025  
+Bourse d'excellence  
 
-**Bourse de fond de recherche - Université de Montréal (CA)**\
-Obtention : Novembre 2025
+**Bourse de fond de recherche - Université de Montréal (CA)**  
+Obtention : Novembre 2025  
 
-**Bourse de fond de recherche CRIHN- Université de Montréal (CA)**\
-Obtention : Décembre 2024 - Février 2025
+**Bourse de fond de recherche CRIHN- Université de Montréal (CA)**  
+Obtention : Décembre 2024 - Février 2025  
 
-**Bourse mobilité et rayonnement - Université de Montréal (CA)**\
-Obtention : Mai 2024
+**Bourse mobilité et rayonnement - Université de Montréal (CA)**  
+Obtention : Mai 2024  
 
-**Prix des Saisons des ESP pour le développement professionnel** **– Université de Montréal (CA)**\
-Obtention : Décembre 2023\
-Bourse d'excellence
+**Prix des Saisons des ESP pour le développement professionnel** **– Université de Montréal (CA)**  
+Obtention : Décembre 2023  
+Bourse d'excellence  
 
-**Concours des bourses doctorales du CIÉCO - Partenariat Des nouveaux usages des collections dans les musées d'art (CA)**\
-Obtention : Novembre 2023\
-Bourse d'excellence
+**Concours des bourses doctorales du CIÉCO - Partenariat Des nouveaux usages des collections dans les musées d'art (CA)**  
+Obtention : Novembre 2023  
+Bourse d'excellence  
 
-**Bourse d’admission – Université de Montréal (CA)**\
-Obtention : Octobre 2023\
-Bourse d'excellence
+**Bourse d’admission – Université de Montréal (CA)**  
+Obtention : Octobre 2023  
+Bourse d'excellence  
 
-**Bourse de fond de recherche - Université de Montréal (CA)**\
-Obtention : Novembre 2023
+**Bourse de fond de recherche - Université de Montréal (CA)**  
+Obtention : Novembre 2023  
 
-**Distinction Félicitations du jury pour la Licence - École Supérieure d'Art d'Avignon (FR)**\
-Obtention : Juin 2014
+**Distinction Félicitations du jury pour la Licence - École Supérieure d'Art d'Avignon (FR)**  
+Obtention : Juin 2014  
 
-**Distinction** **Félicitations du jury pour la Maîtrise - École Supérieure d'Art d'Avignon (FR)**\
-Obtention : Juin 2017
+**Distinction** **Félicitations du jury pour la Maîtrise - École Supérieure d'Art d'Avignon (FR)**  
+Obtention : Juin 2017  
 
 ## Autres Implications
 
@@ -283,7 +292,7 @@ Journal du séminaire sur la [Documentation citoyenne](https://zoerenaudie.githu
 
 ## Ami.e.x
 
-[Alexia Schneider](https://alexiaschn.github.io/ateliers_ia/)\
-[Alix Chagué](https://alix-tZoëgithub.io/)\
-[Lena Krause](https://lenamk.site/)\
+[Alexia Schneider](https://alexiaschn.github.io/ateliers_ia/)  
+[Alix Chagué](https://alix-tZoëgithub.io/)  
+[Lena Krause](https://lenamk.site/)  
 [Anne-Sophie Miclo](https://www.annesophiemiclo.com/)

@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e649c0c5e10157a4",
+        "id": "f7bedac5b0143abe",
         "type": "tabs",
         "children": [
           {
-            "id": "256ae11a14f0c0e5",
+            "id": "b12c0f24bc615b69",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/Thinking About Exhibitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thinking About Exhibitions"
+            }
+          },
+          {
+            "id": "22b940988dae9e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/The Queer Art of Failure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Queer Art of Failure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,27 +179,14 @@
               "icon": "lucide-list",
               "title": "Outline of *Archiving complex digital artworks"
             }
-          },
-          {
-            "id": "bcaa6a3739df68bc",
-            "type": "leaf",
-            "state": {
-              "type": "zotero-annotation-view",
-              "state": {
-                "itemId": -1,
-                "attachmentId": -1,
-                "follow": "zt-reader"
-              },
-              "icon": "highlighter",
-              "title": "Zotero Annotations"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,35 +199,35 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "256ae11a14f0c0e5",
+  "active": "22b940988dae9e67",
   "lastOpenFiles": [
+    "Zotero/Thinking About Exhibitions.md",
+    "Zotero/The Queer Art of Failure.md",
+    "Zotero/La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
+    "Zotero/Ch'ixinakax utxiwa - A Reflection on the Practices and Discourses of Decolonization.md",
+    "Templates/zt-note.eta.md",
+    "Templates/zotest.md",
+    "Templates/zotemplateOLD.md",
+    "Templates/zotemplate.md",
+    "Zotero/The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context.md",
+    "Zotero/The End of Conservation.md",
+    "Zotero/Sustainable Exhibition Design & Construction.md",
+    "Sans titre.md",
+    "Zotero/Qu'est-ce que le contemporain.md",
+    "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
+    "Penser par cas. Raisonner à partir de singularités.md",
+    "Zotero/*Sharing Knowledge in Art Conservation - From Repository Building to Research Publishing.md",
+    "Templates/papertemplate.md",
+    "Templates/biotemplate.md",
+    "Person/P. de Vries, Arjen.md",
+    "Zotero/*The Materiality of the Archive - Creative Practice in Context.md",
     "Person/Breakell, Sue*.md",
     "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
     "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
     "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
     "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
     "Feminist in a software lab - difference + design.md",
-    "Person/Barok, Dušan*.md",
-    "Templates/zt-note.eta.md",
-    "Zotero/Ch'ixinakax utxiwa - A Reflection on the Practices and Discourses of Decolonization.md",
-    "Ch'ixinakax utxiwa - A Reflection on the Practices and Discourses of Decolonization.md",
-    "Zotero/Le processus interprétatif - introduction à la sémiotique de Ch. S. Peirce.md",
-    "Zotero/The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context.md",
-    "Zotero/Qu'est-ce que le contemporain.md",
-    "Themes/La muséologie.md",
-    "Zotero/Sustainable Exhibition Design & Construction.md",
-    "Zotero/Ch'ixinakax utxiwa_ A Reflection on the Practices and Discourses of Decolonization.md",
-    "Templates/zotemplate.md",
-    "Zotero/cusicanquiChixinakaxUtxiwaReflection2012.md",
-    "Templates/zotemplate/zt-note.eta.md",
     "Templates/zotemplate",
-    "Templates/zotemplate/zt-colored.eta.md",
-    "Templates/zotemplate/zt-cite2.eta.md",
-    "Templates/zotemplate/zt-cite.eta.md",
-    "Templates/zotemplate/zt-annot.eta.md",
-    "Templates/zotemplate/zt-annots.eta.md",
-    "Templates/zotemplate/zt-field.eta.md",
-    "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",

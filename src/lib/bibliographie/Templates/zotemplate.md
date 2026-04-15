@@ -18,7 +18,8 @@ archive: "{{archive}}"{% endif %}
 {% if archiveLocation %}
 archive-location: "{{archiveLocation}}"{% endif %}
 citekey: {{citekey}}
-abstract: {{abstractNote}}
+abstract: >-
+  {{abstractNote}}
 tags: {% if tags.length > 0 -%}
 {%- for t in tags -%}
 #{% if t.tag == "secondary" %}source/secondary
@@ -28,8 +29,7 @@ tags: {% if tags.length > 0 -%}
 {% endif %}{% endfor %}
 {% endif %}
 theme:
-citation:{{bibliography}}
----
+citation: "{{bibliography}}"
 
 ---
 ### Présentation auteur.e.s
