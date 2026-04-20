@@ -2,10 +2,10 @@
 cssclass: research-note
 type: book
 author: McPherson, Tara
-title: 'Feminist in a software lab: difference + design'
+title: "Feminist in a software lab: difference + design"
 date: 2018
 citekey: mcphersonFeministSoftwareLab2018
-abstract: 'Tara McPherson asks what might it mean to design--from conception--digital tools and applications that emerge from contextual concerns of cultural theory and from a feminist concern for difference. This question leads to the Vectors lab, which for a dozen years has experimented with digital scholarship at the intersection of theory and praxis--Provided by publisher'
+abstract: Tara McPherson asks what might it mean to design--from conception--digital tools and applications that emerge from contextual concerns of cultural theory and from a feminist concern for difference. This question leads to the Vectors lab, which for a dozen years has experimented with digital scholarship at the intersection of theory and praxis--Provided by publisher
 tags:
   - feminist
   - database
@@ -13,7 +13,7 @@ tags:
   - dah
   - theorie-critique
 theme: Humanités numériques
-citation: 'McPherson, Tara. 2018. _Feminist in a Software Lab Difference + Design_. Metalabprojects. Harvard university press.'
+bibliography: McPherson, Tara. 2018. _Feminist in a Software Lab Difference + Design_. Metalabprojects. Harvard university press.
 ---
 
 ---

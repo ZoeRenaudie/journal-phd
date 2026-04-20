@@ -6,11 +6,11 @@ author: Agamben, Giorgio; Rovere, Maxime
 title: Qu'est-ce que le contemporain ?
 date: 2008
 citekey: agambenQuestCeQue2008
-abstract: 
+abstract:
 tags:
   - artcontemporain
 theme: Histoire de l'art
-citation: "Agamben, Giorgio, et Maxime Rovere. 2008. _Qu’est-ce que le contemporain ?_ Rivages poche. Paris: Éd. Payot & Rivages."
+bibliography: "Agamben, Giorgio, et Maxime Rovere. 2008. _Qu’est-ce que le contemporain ?_ Rivages poche. Paris: Éd. Payot & Rivages."
 ---
 
 ### Présentation auteur.e.s

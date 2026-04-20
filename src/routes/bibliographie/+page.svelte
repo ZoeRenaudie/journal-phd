@@ -56,7 +56,7 @@
         <li class="research-note">
           <p class="citation">
             <a href="{base}/bibliographie/{entry.slug}">
-              {@html entry.citation}
+              {@html entry.bibliography}
             </a>
           </p>
         </li>

@@ -11,7 +11,7 @@ tags:
   - subject//archive
   - matérialité
 theme: Archives
-citation: "Breakell, Sue, et Wendy Russell. 2023. _The Materiality of the Archive: Creative Practice in Context_. 1re éd. London: Routledge. [https://doi.org/10.4324/9780429262487](https://doi.org/10.4324/9780429262487)."
+bibliography: "Breakell, Sue, et Wendy Russell. 2023. _The Materiality of the Archive: Creative Practice in Context_. 1re éd. London: Routledge. [https://doi.org/10.4324/9780429262487](https://doi.org/10.4324/9780429262487)."
 ---
 
 [online](http://zotero.org/groups/5157753/items/K3LAZGBJ) [local](zotero://select/groups/5157753/items/K3LAZGBJ)

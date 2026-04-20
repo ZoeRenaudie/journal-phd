@@ -6,12 +6,12 @@ author: Flandro, Douglas
 title: Sustainable Exhibition Design & Construction
 date: 2022
 citekey: flandroSustainableExhibitionDesign2022
-abstract: 
+abstract:
 tags:
   - EDIA
   - exposition
 theme: Curation
-citation: "Flandro, Douglas. 2022. « Sustainable Exhibition Design & Construction ». Toolkit."
+bibliography: Flandro, Douglas. 2022. « Sustainable Exhibition Design & Construction ». Toolkit.
 ---
 
 ### Présentation auteur.e.s

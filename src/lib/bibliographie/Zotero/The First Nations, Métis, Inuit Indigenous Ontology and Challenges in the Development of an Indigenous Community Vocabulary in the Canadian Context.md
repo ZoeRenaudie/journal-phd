@@ -1,32 +1,15 @@
 ---
 cssclass: research-note
-type: "journalArticle"
-
-
-author: "Allison-Cassin, Stacy; Callison, Camille; Desmeules, Robin"
-
-title: "The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context"
-
-publication: "The Canadian Journal of Information and Library Science"
-
+type: journalArticle
+author: Allison-Cassin, Stacy; Callison, Camille; Desmeules, Robin
+title: The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context
+publication: The Canadian Journal of Information and Library Science
 date: 2025
-
-
 citekey: Allison-Cassin.etal2025
 abstract: Creating and implementing Indigenous-led thesauri and vocabularies for wide adoption by cultural memory institutions is essential to providing respectful terminology to describe materials by and about Indigenous peoples in the territory referred to as Canada. This article details the background, creation, and reflections on the First Nation, Métis, and Inuit, Indigenous Ontology (FNMIIO), up to the release of the first draft in June 2019 as well as more recent initiatives and transformations. Grounded in the recommendations developed by the Canadian Federation of Library Associations’ (CFLA) Truth and Reconciliation Committee, the article discusses the creation of the FNMIIO as an important first step in addressing the need for a widely adoptable, Indigenous run and led thesaurus for use in cultural memory institutions. The article discusses both the methods undertaken in the project and the challenges faced in the development of the FNMIIO and connects the challenges to issues in libraries and the cultural heritage sector in the territory known as Canada as a whole. While a crucial proof-of-concept, the FNMIIO exposed several important issues that must be addressed to fully develop the thesaurus, particularly with respect to ensuring the longevity of the project. While much work remains to make the FNMIIO fully usable by institutions, the initial lessons learned by the CFLA Indigenous Matters Committee’s Joint Working Group as they progressed through the gathering of community names will undergird the next steps for the development and deployment of the FNMIIO.
-tags: #subject/read/attended
-#subject/metadata
-#subject/linked-data
-#subject/indigenous
-#subject/knowledge-organization
-#subject/cataloguing
-#subject/decolonization
-#subject/respectful-descriptions
-#subject/_biblio
-
-
+tags:
 theme:
-citation:Allison-Cassin, Stacy, Camille Callison, et Robin Desmeules. 2025. « The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context ». _The Canadian Journal of Information and Library Science_ 48 (2): 1‑13. [https://doi.org/10.5206/cjils-rcsib.v48i2.19585](https://doi.org/10.5206/cjils-rcsib.v48i2.19585).
+bibliography: Allison-Cassin, Stacy, Camille Callison, et Robin Desmeules. 2025. « The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context ». _The Canadian Journal of Information and Library Science_ 48 (2)1‑13. [https://doi.org/10.5206/cjils-rcsib.v48i2.19585](https://doi.org/10.5206/cjils-rcsib.v48i2.19585).
 ---
 
 ---

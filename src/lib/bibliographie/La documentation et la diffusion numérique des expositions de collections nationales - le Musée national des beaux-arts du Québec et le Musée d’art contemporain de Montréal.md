@@ -13,7 +13,7 @@ tags:
   - documentation
   - database
 theme: Documentation
-citation: "Longtin, Marianne. 2023. « La Documentation et La Diffusion Numérique Des Expositions de Collections Nationales : Le Musée National Des Beaux-Arts Du Québec et Le Musée d’art Contemporain de Montréal ». Travail dirigé (document diplômant), Montréal: UQAM. [https://archipel.uqam.ca/17684/](https://archipel.uqam.ca/17684/)."
+bibliography: "Longtin, Marianne. 2023. « La Documentation et La Diffusion Numérique Des Expositions de Collections Nationales : Le Musée National Des Beaux-Arts Du Québec et Le Musée d’art Contemporain de Montréal ». Travail dirigé (document diplômant), Montréal: UQAM. [https://archipel.uqam.ca/17684/](https://archipel.uqam.ca/17684/)."
 ---
 
 ### Présentation auteur.e.s

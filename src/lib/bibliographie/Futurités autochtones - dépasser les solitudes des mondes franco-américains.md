@@ -6,11 +6,11 @@ contributor: "CIECO, "
 title: '" Futurités autochtones : dépasser les solitudes des mondes franco-américains "'
 citekey: lariveeFuturitesAutochtonesDepasser2026
 abstract:
-tags: 
-- savoirs-autochtones
-- art-contemporain
+tags:
+  - savoirs-autochtones
+  - art-contemporain
 theme: Savoirs Autochtone
-citation: "Larivée, Camille, Jeffery U. Darensbourg, Keywa Henri, et Marie-Anne Redhead. 2026. ` Futurités autochtones  dépasser les solitudes des mondes franco-américains `. Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 23. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
+bibliography: "Larivée, Camille, Jeffery U. Darensbourg, Keywa Henri, et Marie-Anne Redhead. 2026. ` Futurités autochtones  dépasser les solitudes des mondes franco-américains `. Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 23. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
 ---
 ### Présentation intervenant.e.s
 
@@ -27,18 +27,18 @@ _(Créole louisianais et Atakapa-Ishak, Bulbancha | Nouvelle-Orléans)_
 Docteur, écrivain, conférencier et chercheur
 
 - Présentation vidéo depuis la Louisiane.
-    
+  
 - **Bulbancha** signifie « le lieu où l’on parle d’autres langues » en choctaw.
-    
+  
 - Avant la colonisation, environ 40 nations autochtones entretenaient des relations commerciales dans cette région.
-    
+  
 - En 1699, Iberville et Bienville rencontrent les Biloxi à Bulbancha.
-    
+  
 - La cuisine traditionnelle louisianaise est d’origine autochtone, et non française.  
     Référence : _The Sioux Chef’s Indigenous Kitchen_ (Sean Sherman, Turtle Island).
     
 - Les Français qualifiaient les Autochtones de « sauvages », mais ces derniers formulaient aussi des critiques à leur égard.
-    
+  
 - **Ishak** : être humain, littéralement « quelqu’un qui est né ».  
     **Kilwish** : personne perçue comme incomplètement humaine, « plus proche de l’œuf que de l’être humain né naturellement ».
     
@@ -46,7 +46,7 @@ Docteur, écrivain, conférencier et chercheur
     Référence à un article sur le sujet.
     
 - Site : jeffreydarensbourg.com
-    
+  
 ## Keywa Henri
 
 _(Kalin’a Tilewuyu, Kaulu | Kourou et Lyon)_  
@@ -57,9 +57,9 @@ Artiste pluridisciplinaire et chercheur·euse indépendant·e
     Identité franco-brésilienne.
     
 - Être autochtone est aujourd’hui un acte politique sur le territoire français.
-    
+  
 - Expérience solitaire aux Beaux-Arts de Lyon.
-    
+  
 - **Anotnin Winion (À travers)**, installation, 2022, ENSBA.  
     Portraits de figures autochtones à l’encre de genipa.
     
@@ -75,9 +75,9 @@ Artiste pluridisciplinaire et chercheur·euse indépendant·e
     Pourquoi demander d’oublier, alors que des millions sont investis dans la restauration de Notre-Dame ?
     
 - Les grands-parents de l’artiste sont conservés dans une boîte au Musée de l’Homme.
-    
+  
 - Acteur·ice dans le film _Yu’a’ah_.
-    
+  
 - Pratique non individuelle : travail toujours mené avec la famille et les relations.
 ## Marie-Anne Redhead
 
@@ -89,9 +89,9 @@ Musée des beaux-arts de Winnipeg – Qaumajuq
     Ville située à la confluence de deux rivières.
     
 - Ouverture par des remerciements et une présentation de la famille et du territoire.
-    
+  
 - Mandat initial : travailler sur les titres problématiques des œuvres de la collection.
-    
+  
 - Recherche menée lors d’une exposition d’art métis pour le 150ᵉ anniversaire de la collection du Manitoba.  
     Découverte de _A Métis Family_ (Peter Rindisbacher, 1825).  
     Exposition mal reçue par une partie du public francophone du Manitoba, en raison de l’utilisation d’une seule langue coloniale.
@@ -101,25 +101,25 @@ Musée des beaux-arts de Winnipeg – Qaumajuq
     Certaines communautés n’ont pas pu être identifiées ou reconnues.
     
 - Les nouveaux titres proviennent de sources variées :
-    
+  
     - chants
-        
+      
     - cérémonies
-        
+      
     - échanges de tabac
-        
+    
 - Exemple :  
     _Indian Head_ (plâtre) devient **Running Bear Man** (_Unkan Wandbi Wakita_).
     
 - Vue de l’exposition **Winyan**, WAG, 2024.
-    
+  
 - Projet sur la création du portrait :  
     Le titre « Indian Princess » est remis en question lorsque la photographie confère une agentivité autochtone au sujet.
     
 - Politique d’acquisition d’œuvres d’artistes autochtones, notamment des œuvres de perlage.
-    
+  
 - Tambour enterré (Lida) : essuyer le tambour pour éviter qu’il ne craque.
-    
+  
 - Les futurités autochtones ne se construisent pas uniquement à l’intérieur des murs institutionnels.  
     Nécessité de trouver d’autres formes de célébration culturelle.
     

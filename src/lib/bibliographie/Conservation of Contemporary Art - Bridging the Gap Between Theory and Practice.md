@@ -11,9 +11,7 @@ tags:
   - archive
   - documentation
 theme: Conservation-restauration
-citation: "van de Vall, Renée et Vivian van Saaze. 2024. *Conservation of Contemporary Art : Bridging the Gap Between Theory and Practice*. 9 vols. Studies in Art, Heritage, Law and the Market. Springer. [https://doi.org/10.1007/978-3-031-42357-4](https://doi.org/10.1007/978-3-031-42357-4)."
----
-
+bibliography: "van de Vall, Renée et Vivian van Saaze. 2024. *Conservation of Contemporary Art : Bridging the Gap Between Theory and Practice*. 9 vols. Studies in Art, Heritage, Law and the Market. Springer. [https://doi.org/10.1007/978-3-031-42357-4](https://doi.org/10.1007/978-3-031-42357-4)."
 ---
 ### Présentation auteur.e.s
 

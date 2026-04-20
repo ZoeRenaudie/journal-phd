@@ -7,13 +7,13 @@ title: Crip Curation as Care
 publication: Theater
 date: 2022
 citekey: cooleyCripCurationCare2022
-abstract: 
+abstract:
 tags:
   - curation
   - crip
   - care
 theme: Curation
-citation: "Cooley, Jessica A., et Ann M. Fox. 2022. « Crip Curation as Care ». _Theater_ 52 (2): 5‑19. [https://doi.org/10.1215/01610775-9662179](https://doi.org/10.1215/01610775-9662179)."
+bibliography: "Cooley, Jessica A., et Ann M. Fox. 2022. « Crip Curation as Care ». _Theater_ 52 (2): 5‑19. [https://doi.org/10.1215/01610775-9662179](https://doi.org/10.1215/01610775-9662179)."
 ---
 
 ### Présentation auteur.e.s
@@ -115,33 +115,33 @@ Finally, we call on readers, regardless of field, to consider how they can curat
 ### Bibliographie
 
 - Longmore, Paul. “Screening Stereotypes: Images of Disabled People in Television and Motion Pictures.” In _Why I Burned My Book and Other Essays on Disability_, 131–48. Philadelphia: Temple University Press, 2003.
-    
+  
 - Siebers, Tobin. _Disability Aesthetics_. Ann Arbor: University of Michigan Press, 2010.
-    
+  
 - Fox, Ann M. “The Rise of Disability Aesthetics: Reframing the Relationship between Disability, Beauty, and Art.” In _The Routledge Handbook of Beauty Politics_, edited by Maxine Craig, 147–56. New York: Routledge, 2021.
-    
+  
 - Schalk, Sami. “#QuarantineLooks: Celebrating the Fabulously Mundane.” Color video with sound, 7:20. 2021. https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/ford-foundation-gallery/events/indisposable-structures-of-support-after-the-ada-chapter-2/.
-    
+  
 - Piepzna-Samarasinha, Leah Lakshmi. _Care Work: Dreaming Disability Justice_. Vancouver, BC: Arsenal Pulp Press, 2018.
-    
+  
 - Lewis, Talila A. “January 2021 Working Definition of Ableism.” _Talila A. Lewis_ (blog). January 1, 2021. [https://www.talilalewis.com/blog/january-2021-working-definition-of-ableism](https://www.talilalewis.com/blog/january-2021-working-definition-of-ableism).
-    
+  
 - Ortiz, Aimee. “What to Know about the Death of Rayshard Brooks.” _New York Times_, May 6, 2021. [https://www.nytimes.com/article/rayshard-brooks-what-we-know.html](https://www.nytimes.com/article/rayshard-brooks-what-we-know.html).
-    
+  
 - Waltenburg, M. A., et al. “Update: COVID-19 among Workers in Meat and Poultry Processing Facilities—United States, April–May 2020.” _Morbidity and Mortality Weekly Report_ 69 (2020): 887–92. [https://doi.org/10.15585/mmwr.mm6927e2](https://doi.org/10.15585/mmwr.mm6927e2).
-    
+  
 - Sharpe, Christina Elizabeth. _In the Wake: On Blackness and Being_. Durham, NC: Duke University Press, 2016.
-    
+  
 - Casid, Jill H. _Untitled (Melancholy as Medium)_. Color video with sound, 9:43. 2021. https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/ford-foundation-gallery/events/indisposable-structures-of-support-after-the-ada-chapter-5/.
-    
+  
 - Casid, Jill H. “Indisposable: Structures of Support after the ADA, Chapter 5: Melancholy as Medium.” June 9, 2021. https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/ford-foundation-gallery/events/indisposable-structures-of-support-after-the-ada-chapter-5/.
-    
+  
 - Allegra, Indira. “‘Texere’ Project Proposal.” Unpublished manuscript, 2021.
-    
+  
 - Mingus, Mia. “Access Intimacy: The Missing Link.” _Leaving Evidence_ (blog). May 5, 2011. [https://leavingevidence.wordpress.com/2011/05/05/access-intimacy-the-missing-link/](https://leavingevidence.wordpress.com/2011/05/05/access-intimacy-the-missing-link/).
-    
+  
 - Cooley, Jessica A. “Crip Materiality: The Art Institution after the Americans with Disabilities Act.” PhD diss., University of Wisconsin–Madison, 2021.
-    
+  
 - Sandahl, Carrie. “Using Our Words: Exploring Representational Conundrums in Disability Drama and Performance.” _Journal of Literary and Cultural Disability Studies_ 12, no. 2 (2018): 129–44.
 
 %% Import Date: 2025-04-12T18:00:02.192-04:00 %%

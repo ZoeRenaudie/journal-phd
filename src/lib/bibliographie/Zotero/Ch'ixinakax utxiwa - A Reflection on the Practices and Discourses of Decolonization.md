@@ -13,7 +13,7 @@ tags:
   - theorie-critique
   - féminisme
 theme: Théorie Critique
-citation: "Cusicanqui, Silvia Rivera. 2012. « Ch’ixinakax utxiwa: A Reflection on the Practices and Discourses of Decolonization ». _South Atlantic Quarterly_ 111 (1): 95‑109. [https://doi.org/10.1215/00382876-1472612](https://doi.org/10.1215/00382876-1472612)."
+bibliography: "Cusicanqui, Silvia Rivera. 2012. « Ch’ixinakax utxiwa: A Reflection on the Practices and Discourses of Decolonization ». _South Atlantic Quarterly_ 111 (1): 95‑109. [https://doi.org/10.1215/00382876-1472612](https://doi.org/10.1215/00382876-1472612)."
 ---
 
 ---

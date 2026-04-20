@@ -35,7 +35,7 @@ tags:
   - documentation
   - art-contemporain
 theme: Conservation-restauration
-citation: Hölling, Hanna B., Wielocha Aga, et Ellis Joséphine. 2026. « Fluxus Symposium ». Symposium. Fluxus Symposium, Bern, Switzerland, février 27.
+bibliography: Hölling, Hanna B., Wielocha Aga, et Ellis Joséphine. 2026. « Fluxus Symposium ». Symposium. Fluxus Symposium, Bern, Switzerland, février 27.
 link: https://activatingfluxus.com/activations-a-fluxus-symposium-friday-february-27-12-7-pm-cet/
 ---
 ## Présentation intervenant.e.s

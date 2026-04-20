@@ -13,7 +13,7 @@ tags:
   - care
   - time
 theme: Conservation-restauration
-citation: "Laurenson, Pip. 2024. « Making Time ». In _Conservation of Contemporary Art_, édité par Renée Van De Vall et Vivian Van Saaze, 9:385‑401. Studies in Art, Heritage, Law and the Market. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-031-42357-4_19](https://doi.org/10.1007/978-3-031-42357-4_19)."
+bibliography: "Laurenson, Pip. 2024. « Making Time ». In _Conservation of Contemporary Art_, édité par Renée Van De Vall et Vivian Van Saaze, 9:385‑401. Studies in Art, Heritage, Law and the Market. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-031-42357-4_19](https://doi.org/10.1007/978-3-031-42357-4_19)."
 ---
 
 ### Présentation auteur.e.s

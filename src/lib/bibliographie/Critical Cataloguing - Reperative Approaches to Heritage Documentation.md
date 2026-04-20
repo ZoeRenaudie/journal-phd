@@ -1,23 +1,17 @@
 ---
 cssclass: research-note
-type: "presentation"
-
-
-author: "Krmpotich, Cara"
-
+type: presentation
+author: Krmpotich, Cara
 title: "Critical Cataloguing: Reperative Approaches to Heritage Documentation"
-
 citekey: krmpotichCriticalCataloguingReperative2026
-abstract: 
-tags: 
-- database
-- collection-autochtone
-- collection-care
-- relation-care
-
-
+abstract:
+tags:
+  - database
+  - collection-autochtone
+  - collection-care
+  - relation-care
 theme: Théorie Critique
-citation: "Krmpotich, Cara. 2026. « Critical Cataloguing: Reperative Approaches to Heritage Documentation ». Conférence. Causeries d’AS2, UdeM, février 4."
+bibliography: "Krmpotich, Cara. 2026. « Critical Cataloguing: Reperative Approaches to Heritage Documentation ». Conférence. Causeries d’AS2, UdeM, février 4."
 ---
 ### Présentation intervenant.e.s
 

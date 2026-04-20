@@ -107,7 +107,7 @@ Bertin, Marie, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création 
 
 **Renaudie, Zoë** (2019, février 28). Conserver et restaurer l’art minimal et conceptuel. *Les enjeux de la conservation des œuvres d’art contemporain*, Collection Lambert, France.
 
-**Renaudie, Zoë** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France.
+**Renaudie, Zoë** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France.  
 
 ## Formation
 

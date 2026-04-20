@@ -11,7 +11,7 @@ tags:
   - muséologie
   - care
 theme: Savoirs Autochtone
-citation: "Eshrāghi, Léuli, Joël Andrianomearisoa, Aïcha Bastien-N’Diaye, et Caroline Monnet. 2026. « Imaginer de nouvelles géographies au-delà des arts actuels autochtones ». Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 23. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
+bibliography: "Eshrāghi, Léuli, Joël Andrianomearisoa, Aïcha Bastien-N’Diaye, et Caroline Monnet. 2026. « Imaginer de nouvelles géographies au-delà des arts actuels autochtones ». Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 23. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
 ---
 ### Présentation intervenant.e.s
 
@@ -58,9 +58,9 @@ Artiste multidisciplinaire
     Même phrase que celle du Palais de Tokyo, mais en malgache.
     
 - Musée de la langue française (initiative du gouvernement Macron), Villers-Cotterêts.
-    
+  
 - A représenté Madagascar à la Biennale de Venise.
-    
+  
 
 ## Aïcha Bastien-N’Diaye
 
@@ -68,7 +68,7 @@ _(Wendat et Jola, Wendake)_
 Artiste multidisciplinaire
 
 - Hommage à son père (danseur) et à sa mère.
-    
+  
 - « Présent·e sur l’affiche, absent·e des décisions »  
     Refus du tokenisme.  
     Citation : _« Il y avait full diversité dans les plantations »_.
@@ -81,27 +81,27 @@ Artiste multidisciplinaire
     Travail sur l’accessibilité sensorielle :
     
     - casques antibruit
-        
+      
     - possibilité de voir l’œuvre de loin
-        
+      
     - interprètes parfois présent·es
-        
+      
     - cartes de réflexion pour le public
-        
+      
     
     Piliers de création :
     
     - Honorer mes ancêtres et devenir un bon ancêtre
-        
+      
     - Faire de l’art un acte relationnel
-        
+      
     
     Positionnement :
     
     - Réautochtoniser plutôt que seulement décoloniser
-        
+      
     - Les deux doivent coexister, mais préférence personnelle pour la réautochtonisation.
-        
+    
 - **Yatsihsta’**  
     Performance filmée et transformée en exposition.  
     Se fait tresser dans le garage de ses parents.  
@@ -109,7 +109,7 @@ Artiste multidisciplinaire
     Brûle ses tresses en traversant l’espace.
     
 - **Oushata’**
-    
+  
 
 ## Caroline Monnet
 

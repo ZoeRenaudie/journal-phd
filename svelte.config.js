@@ -4,7 +4,8 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
 import remarkGfm from "remark-gfm";
 import remarkFootnotes from "remark-footnotes";
-
+import { remarkObsidianCallouts } from './src/lib/remark-obsidian-callouts.js'
+import { remarkStripObsidian } from './src/lib/remark-strip-obsidian.js'
 
 const dev = process.argv.includes('dev');
 
@@ -47,7 +48,9 @@ const config = {
     mdsvex({
       extensions: [".md"],
       remarkPlugins: [
+        remarkStripObsidian, 
         remarkGfm,
+        remarkObsidianCallouts,
         [remarkFootnotes, { inlineNotes: false }], // notes de bas de page
         ],
       rehypePlugins: [

@@ -32,6 +32,7 @@
 		"mdsvex": "^0.12.3",
 		"rehype-stringify": "^10.0.1",
 		"remark-gfm": "^4.0.1",
-		"remark-rehype": "^11.1.2"
+		"remark-rehype": "^11.1.2",
+		"unist-util-visit": "^5.1.0"
 	}
 }

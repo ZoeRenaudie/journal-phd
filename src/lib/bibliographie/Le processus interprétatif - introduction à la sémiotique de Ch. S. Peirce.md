@@ -2,7 +2,7 @@
 cssclass: research-note
 type: book
 author: Everaert-Desmedt, Nicole
-title: "Le processus interprétatif: introduction à la sémiotique de Ch. S. Peirce"
+title: '"Le processus interprétatif: introduction à la sémiotique de Ch. S. Peirce"'
 date: 1990
 citekey: everaert-desmedtProcessusInterpretatifIntroduction1990a
 abstract:
@@ -13,16 +13,18 @@ tags:
   - indice
   - signe
 theme: Théorie
-"citation:": '"Everaert-Desmedt, Nicole. 1990. _Le Processus Interprétatif : Introduction à La Sémiotique de Ch. S. Peirce_. Philosophie et Langage. Mardaga."'
+bibliography: '"Everaert-Desmedt, Nicole. 1990. _Le Processus Interprétatif : Introduction à La Sémiotique de Ch. S. Peirce_. Philosophie et Langage. Mardaga."'
 ---
 
 ### Présentation auteur.e.s
 
 Agrégée en philosophie et lettres, docteur en communication sociale, **Nicole Everaert-Desmedt** est professeur de sémiotique aux Facultés universitaires Saint-Louis à Bruxelles. Elle enseigne également à l’Institut des Hautes Études des Communications Sociales (IHECS, Bruxelles), à l’Institut Supérieur d’Architecture Saint-Luc de Wallonie (Tournai) et à l’Université du Luxembourg. Elle a notamment publié trois ouvrages consacrés à la sémiotique et a coordonné un ouvrage sur « Magritte au risque de la sémiotique ». (source:https://www.babelio.com/auteur/Nicole-Everaert-Desmedt/456349)
+
 Son objectif est d'élaborer un modèle de la communication artistique en général qui intègre la production (le processus de la création artistique) et la réception (l'activité cognitive de celui qui reçoit l'oeuvre d'art). En exploitant le modèle pour rendre compte d'oeuvres particulières, appartenant à différents domaines (peinture, littérature, cinéma, théâtre, performances, installations, photographie, vidéo, ...). Etude est menée dans la perspective de la sémiotique de Ch. S. Peirce. https://nicole-everaert-semio.be/nicole-fr/php/fr_4_art.php
 ### Résumé
 
 ### Lien avec la thèse
+
 Étudier la sémiotique s’impose dès lors que l’on considère l’exposition comme un dispositif de production de sens. Dans la lignée des travaux de Jean Davallon, l’exposition peut être pensée comme un texte : un ensemble structuré de signes (objets, textes, dispositifs scénographiques, parcours et médiations) qui ne se contente pas de montrer, mais qui construit un discours. L’approche sémiotique permet ainsi d’analyser l’exposition comme un acte de communication, dans lequel s’articulent une intention énonciative, des formes matérielles et spatiales, et des processus d’interprétation par les publics. Elle offre des outils pour comprendre comment le sens se fabrique au-delà des objets exposés, à travers leur mise en relation, leur contextualisation et leur activation dans l’espace. Cette perspective est particulièrement pertinente pour l’étude des expositions contemporaines et de leurs composantes éphémères ou immatérielles, dont la signification ne peut être saisie qu’en tenant compte des logiques discursives et performatives qui les sous-tendent.
 ### Idées principales
 
@@ -52,7 +54,7 @@ une étude sémiotique menée dans le cadre de Peirce  prend en considération l
 
 
 >[!quote|#5fb236] Very Important or Critical
-La signification d’un signe, dit Peirce, est ce qu'il fait, comment il 20:  sur l'interprète, quel effet il produit. Décrire la signification d'un sigre  c’est décrire le processus cognitif par lequel le signe est interprété et  provoque un {Ye d’action [(p. 29)](zotero://open-pdf/library/items/LI5HEGDA?page=29&annotation=REQF59RG)
+La signification d’un signe, dit Peirce, est ce qu'il fait, comment il 20:  sur l'interprète, quel effet il produit. Décrire la signification d'un sigre  c’est décrire le processus cognitif par lequel le signe est interprété et  provoque un... d’action [(p. 29)](zotero://open-pdf/library/items/LI5HEGDA?page=29&annotation=REQF59RG)
 
 
 >[!quote|#5fb236] Very Important or Critical
