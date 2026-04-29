@@ -79,23 +79,19 @@ Valentine, David, **Renaudie, Zoë**, Krause, L., & Château-Dutier, Emmanuel (2
 
 Delattre, Camille, **Renaudie, Zoë** (2025, novembre 13). Parcours histoire de l'art et humanités numérique. *Cours HAR 3345 Atelier de synthèse*, Université de Montréal.
 
-**Renaudie, Zoë**, (2025, novembre 5). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal.
-
-**Renaudie, Zoë**, Valentine, David, Fraser Marie, Château-Dutier Emmanuel, (2025, novembre 5th). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal.
+**Renaudie, Zoë**, Valentine, David, Fraser Marie, Château-Dutier Emmanuel, (2025, novembre 5). Présentation de l'outil *Display* pour la documentation de l'accrochage. *Midi-causerie* L’Ouvroir, Montréal.
 
 **Renaudie, Z** (2025, octobre 16). La documentation dans la vie de l'œuvre. *Cours de maîtrise Art et Sociologie*, Université de Montréal.
 
 **Renaudie, Zoë** (2025, avril 9). Déjouer le temps de l’exposition : expérimentations et résistances. *Colloque Indiscipliner la discipline : nouvelles approches théoriques et critiques en histoire de l’art et muséologie*, Montréal.
 
-Château-Dutier, Emmanuel, Valentine, David, & **Renaudie, Zoë** (2024, décembre 17). Documenting exhibition with Semantic Web. *Journée d’étude La documentation des expositions. L’Ouvroir*, Montréal. Rôle : Présentation du papier ainsi que la création et organisation de la journée d’étude.
+Château-Dutier, Emmanuel, Valentine, David, & **Renaudie, Zoë** (2024, décembre 17). Documenting exhibition with Semantic Web. *Journée d’étude La documentation des expositions. L’Ouvroir*, Montréal.
 
 **Renaudie, Zoë** (2024, octobre 17). Humanités numériques dans les musées : outils pour l’histoire de l’art et la muséologie. *HAR4710 : Histoire de l’art et muséologie à l’UQAM*, Montréal.
 
 **Renaudie, Zoë** (2024, mars 1). Le numérique opérateur de la mise à vue des collections. *Atelier 4 du CIECO*, Montréal.
 
 **Renaudie, Zoë** (2023, septembre 6). La base de données relationnelle pour la documentation de l’exposition. *Midi-causerie de l’Ouvroir*, Université de Montréal.
-
-Bertin, Marie, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création du séminaire *Conserver l’exposition*. École Supérieure d’Art d’Avignon, France.
 
 **Renaudie, Zoë** (2022, décembre 8–9). Ateliers sur les métadonnées de l’exposition *Feux Pâles*. *Symposium Collections : récits, fictions, spéculations*, Capc, Musée d’art contemporain de Bordeaux, France.
 
@@ -107,45 +103,13 @@ Bertin, Marie, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création 
 
 **Renaudie, Zoë** (2019, février 28). Conserver et restaurer l’art minimal et conceptuel. *Les enjeux de la conservation des œuvres d’art contemporain*, Collection Lambert, France.
 
-**Renaudie, Zoë** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France.  
+**Renaudie, Zoë** (2017, novembre 23). Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale. *Conservation et restauration de l’art contemporain*, Carré d’art de Nîmes, France.
 
-## Formation
+### Organisation d'événements scientifiques
 
-### Universitaire
+Château-Dutier, Emmanuel, Valentine, David, & **Renaudie, Zoë** (2024, décembre 17). Documenting exhibition with Semantic Web. *Journée d’étude La documentation des expositions. L’Ouvroir*, Montréal. Comité d'organisation et comité scientifique. 
 
-2023 - présent Université de Montréal, QC Doctorat Histoire de l’art - option muséologie
-
-2024 - 2025 Université de Montréal, QC Micro-programme en Humanités digitales
-
-2015 - 2017 Ecole Supérieure d’Art d’Avignon, FR Maitrise - Félicitations du jury Diplôme National Supérieur d’Expression Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’exposition Feux pâles ©les ready-made appartiennent à tout le monde (CAPC)
-
-2011 - 2014 Ecole Supérieure d’Art d’Avignon, FR Bachelor - Félicitations du jury Diplôme National d’Art Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’oeuvre Projections de Richard Baquié (Les Abattoirs)
-
-2008 - 2011 Bachelor Licence en Langue et Civilisation Étrangère - spécialité chinois Université de Paris 07 et Université Bordeaux 03, FR
-
-2008 - 2009 Certificat en informatique et internet, Université de Paris 07, FR
-
-### Professionnelle
-
-2026 À quoi servent les modèles ontologiques ? L'exemple du CIDOC CRM pour le patrimoine. (3h) Amélie Daloz. Urfist. April 09th.  
-
-2025 Qu’est-ce qu’IA ? (8h) Alexia Schneider, Clara Grometto, Marcello Vitali-Rosati. Débogue tes humanités à l'UdeM. https://debogue.ecrituresnumeriques.ca/  
-
-2024 Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.  
-
-2024 Ecole d’hiver HSS  
-
-2024 Web sémantique de Harald Sax  
-
-2023 Certificat en anglais - Niveau C2  
-
-2021 Certificat d’aptitude à la conduite d’engins catégorie CACES Nacelle 1B-3B  
-
-2020 Filemaker Pro Niveau développement avancé  
-
-2019 Inventaire et récolement dans les collections publiques, INP  
-
-2018 L’oeuvre en mouvement, Odile Michel, Cipac  
+Bertin, Marion, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création du séminaire *Conserver l’exposition*. École Supérieure d’Art d’Avignon, France. Comité d'organisation et comité scientifique.   
 
 ## Expériences professionnelles
 
@@ -213,6 +177,44 @@ Stage assistante d’artiste, Elise Alloin : Conservation préventive, installat
 
 Stage au département de la restauration de sculpture, sous la direction de Sebastien Forst : Examen et traitement en conservation-restauration, documentation.
 
+## Formation
+
+### Universitaire
+
+2023 - présent Université de Montréal, QC Doctorat Histoire de l’art - option muséologie
+
+2024 - 2025 Université de Montréal, QC Micro-programme en Humanités digitales
+
+2015 - 2017 Ecole Supérieure d’Art d’Avignon, FR Maitrise - Félicitations du jury Diplôme National Supérieur d’Expression Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’exposition Feux pâles ©les ready-made appartiennent à tout le monde (CAPC)
+
+2011 - 2014 Ecole Supérieure d’Art d’Avignon, FR Bachelor - Félicitations du jury Diplôme National d’Art Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’oeuvre Projections de Richard Baquié (Les Abattoirs)
+
+2008 - 2011 Bachelor Licence en Langue et Civilisation Étrangère - spécialité chinois Université de Paris 07 et Université Bordeaux 03, FR
+
+2008 - 2009 Certificat en informatique et internet, Université de Paris 07, FR
+
+### Professionnelle
+
+2026 À quoi servent les modèles ontologiques ? L'exemple du CIDOC CRM pour le patrimoine. (3h) Amélie Daloz. Urfist. April 09th.  
+
+2025 Qu’est-ce qu’IA ? (8h) Alexia Schneider, Clara Grometto, Marcello Vitali-Rosati. Débogue tes humanités à l'UdeM. https://debogue.ecrituresnumeriques.ca/  
+
+2024 Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.  
+
+2024 Ecole d’hiver HSS  
+
+2024 Web sémantique de Harald Sax  
+
+2023 Certificat en anglais - Niveau C2  
+
+2021 Certificat d’aptitude à la conduite d’engins catégorie CACES Nacelle 1B-3B  
+
+2020 Filemaker Pro Niveau développement avancé  
+
+2019 Inventaire et récolement dans les collections publiques, INP  
+
+2018 L’oeuvre en mouvement, Odile Michel, Cipac
+
 ## Distinctions
 
 **Bourse de mobilité CRIHN- Université de Montréal (CA)**  
@@ -223,6 +225,10 @@ Obtention : avril 2026
 Bourse d'excellence de rayonnement  
 
 **Bourse MITACS (CA)**  
+Obtention : Mars 2026  
+Bourse d'excellence de mobilité  
+
+**Bource CIECO de mobilité**
 Obtention : Mars 2026  
 Bourse d'excellence de mobilité  
 
