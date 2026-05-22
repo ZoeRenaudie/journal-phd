@@ -5,11 +5,25 @@
       evenement: "Humanistica 2026",
       date: "2026-05-22",
       url: "/presentation/humanistica2026/"
-    },
-    {
+    },{
+      titre: "Présentation de l’ontologie et l’outil **Display**",
+      evenement: "Midi-causerie Ouvroir",
+      date: "2025-10-05",
+      url: "/presentation/midicauserie/"
+    },{
+      titre: "Documenting Exhibitions with the Semantic Web",
+      evenement: "Ouvroir",
+      date: "2024-12-17",
+      url: "/presentation/documenting/"
+    },{
+      titre: "Atelier Display : documenter des accrochages de collection à l’aide d’une approche ontologique",
+      evenement: "Ouvroir",
+      date: "2024-10-28",
+      url: "/presentation/atelier/"
+    },{
       titre: "Documenting exhibition and collection displays: an ontological approach",
       evenement: "DH 2024",
-      date: "2024",
+      date: "2024-08-07",
       url: "/presentation/dh2024/"
     }
   ];

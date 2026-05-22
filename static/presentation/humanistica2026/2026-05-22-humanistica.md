@@ -104,7 +104,7 @@ Enfin, une troisième phase a concerné le développement de l’interface, réa
 
 ===>>>>>>===
 
-## Display : architecture et démonstration
+## Display
 
 ![alt text](../img/display-app-instantiation.png)
 
@@ -303,10 +303,9 @@ Le graphe enrichi par inférence contient donc plus de relations que ce qui a é
 
 ## L’interface Display sur *Feux pâles*
 
+[▶ Voir la démonstration](https://vimeo.com/XXXXXXX)
 
-<video controls width="80%">
-  <source src="../img/demo.webm" type="video/webm">
-</video>
+<div style="padding:57.3% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1194468845?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo Ouvroir"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 /** Notes **/
@@ -314,6 +313,14 @@ Le graphe enrichi par inférence contient donc plus de relations que ce qui a é
 Voyons maintenant ce que tout cela donne du point de vue du chercheur, dans l’interface. 
 
 Je ne pourrais pas tout vous montrer mais si vous souhaitez en savoir plus contactez nous ou venez à notre atelier prise en main à la conférence DH de cet été en Corée. 
+
+<video controls width="80%">
+  <source src="../img/demo.webm" type="video/webm">
+</video>
+
+<iframe src="https://vimeo.com/1194468845?share=copy&fl=sv&fe=ci" 
+  width="80%" height="450" frameborder="0" allowfullscreen>
+</iframe>
 
 ===>>>>>>===
 
