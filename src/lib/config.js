@@ -26,6 +26,9 @@ export const navItems = [
 		title: 'Ressources commentées',
 		route: '/bibliographie' 
 	},{
+		title: 'Présentations',
+		route: '/presentation' 
+	},{
 		title: 'Contact',
 		route: '/contact' 
 	},

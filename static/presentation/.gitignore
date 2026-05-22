@@ -1,0 +1,4 @@
+.DS_Store
+/img/*.xcf
+/local-deploy.sh
+/NOTES.md

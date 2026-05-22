@@ -217,8 +217,22 @@ Stage au département de la restauration de sculpture, sous la direction de Seba
 
 ## Distinctions
 
-**Bourse de mobilité CRIHN- Université de Montréal (CA)**  
+**Bourse de mobilité CRIHN - Université de Montréal (CA)**  
 Obtention : juillet 2026  
+
+**Bourse Archives Poincaré (AHP-PReST)**
+Obtention : mai 2026
+Bourse d'excellence de mobilité
+
+**Bourses de doctorat en recherche du Fonds de recherche du Québec**
+Obtention : avril 2026
+Bourse d'excellence
+https://doi.org/10.69777/2005778  
+
+**PBEEE - Bourses de doctorat en recherche pour étudiants(es) étrangers(ères) du Fonds de recherche du Québec**
+Obtention : avril 2026
+Bourse d'excellence
+https://doi.org/10.69777/2011339  
 
 **Bourse doctorale UdeM International - Université de Montréal (CA)**  
 Obtention : avril 2026  
@@ -228,9 +242,9 @@ Bourse d'excellence de rayonnement
 Obtention : Mars 2026  
 Bourse d'excellence de mobilité  
 
-**Bource CIECO de mobilité**
+**Bource CIECO de mobilité**  
 Obtention : Mars 2026  
-Bourse d'excellence de mobilité  
+Bourse de mobilité  
 
 **Bourse J. A. DeSève (CA)**  
 Obtention : Décembre 2025  
