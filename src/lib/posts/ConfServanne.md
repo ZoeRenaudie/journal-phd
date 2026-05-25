@@ -63,6 +63,7 @@ Walter Benjamin avait annoncé un changement de paradigme avec la reproductibili
 
 [^1] Thèse en cours de Camille Delattre à l’Université de Montréal qui crée un modèle documentaire pour la conservation de la performance.  
 [^2] voir :  
+Bennett, J. 2004. “The Force of Things. Steps towards an  Ecology of Matter.” Political Theory 3:347–372.
 Muñoz-Viñas, Salvador. 2024. The End of Conservation. http://smunozvinas.blogs.upv.es/files/2024/04/SMunozVinas-2024-The-End-of-Conservation-Authors-version.pdf 
 Renaudie, Zoë. En cours. “Conserver l’éphémère : documentation de l’exposition.” Thèse de doctorat. Université de Montréal. 
 Vall, Renée van de, et Vivian van Saaze. 2024. Conservation of Contemporary Art: Bridging the Gap Between Theory and Practice. 9 vols. Studies in Art, Heritage, Law and the Market. Springer. https://doi.org/10.1007/978-3-031-42357-4  

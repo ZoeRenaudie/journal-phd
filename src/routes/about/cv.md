@@ -17,6 +17,16 @@ ORCID : 0009-0001-5825-8624
 
 ### Publications
 
+**Chapitres de livre**
+
+**Renaudie, Zoë** (sous presse). Le monde de *Feux pâles*, exposition ou œuvre-réseau. Dans G. Salatko et al. (dir.), *Objet en crise : la conservation à la croisée des mondes*. Villeneuve-d’Ascq, France : Presses Universitaires du Septentrion.
+
+**Actes de colloque (avec comité de lecture)**
+
+**Renaudie, Zoë**, David Valentine, et Emmanuel Château-Dutier. 2026. « Display : Une Infrastructure Sémantique Pour La Documentation Structurée Des Accrochages d’exposition ». In Actes de La Conférence Humanistica, édité par Serena Crespi, Simon Gabay, Martin Grandjean, Ariane Pinche, et Marie Puren et Léa Saint-Raymond. Anthology of Computers and the Humanities. https://doi.org/10.63744/ju117YgD6qgM.
+
+**Renaudie, Zoë** (2024). Not following the book: A journey from museum conservator to digital humanities researcher through the creation of a contemporary art management database. In *Proceedings of the DHNB 2024 Conference* (Reykjavik, Islande).
+
 **Articles avec comité de lecture**
 
 Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections*   [édition numérique  ].
@@ -35,14 +45,6 @@ Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’
 
 **Renaudie, Zoë** (2015). Exposition d’une exposition de Daniel Buren ou l’exposition comme œuvre d’art. *Semin’R, Investigations in and on conservation*. https://seminesaa.hypotheses.org/3129
 
-**Chapitres de livre**
-
-**Renaudie, Zoë** (sous presse). Le monde de *Feux pâles*, exposition ou œuvre-réseau. Dans G. Salatko et al. (dir.), *Objet en crise : la conservation à la croisée des mondes*. Villeneuve-d’Ascq, France : Presses Universitaires du Septentrion.
-
-**Actes de colloque (avec comité de lecture)**
-
-**Renaudie, Zoë** (2024). Not following the book: A journey from museum conservator to digital humanities researcher through the creation of a contemporary art management database. In *Proceedings of the DHNB 2024 Conference* (Reykjavik, Islande).
-
 ### Communications
 
 **Communications orales - Avec comité de sélection**
@@ -51,7 +53,7 @@ Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’
 
 **Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, juillet 27-31). Documenting Exhibition’s Display *Digital Humanities 2026* DH. Corea.
 
-**Renaudie, Zoë** (2026 juin 05-06) Documentation des objets désobéissants. *Journées d’étude « Œuvres variables: ce qui reste au musée quand tout change »* organisées à l’Université Sorbonne Nouvelle par le Partenariat Des nouveaux usages des collections dans les musées d’art du Groupe de recherche et de réflexion CIÉCO, en partenariat avec l’Université du Québec en Outaouais et en collaboration avec l’Équipe Art et musée. Paris
+**Renaudie, Zoë** (2026 juin 05-06) Documentation des objets désobéissants. *Colloque international « Œuvres variables: ce qui reste au musée quand tout change »* organisées à l’Université Sorbonne Nouvelle par le Partenariat Des nouveaux usages des collections dans les musées d’art du Groupe de recherche et de réflexion CIÉCO, en partenariat avec l’Université du Québec en Outaouais et en collaboration avec l’Équipe Art et musée. Paris
 
 Miclo, Anne-Sophie, **Renaudie, Zoë** (2026 juin 01) Quand la dégradation fait patrimoine : l’«accept-decay» en conservation-restauration. *Faire vivre ou laisser mourir Patrimoines vulnérables* APAHAU. Paris.
 
