@@ -16,7 +16,7 @@ event: "{{eventtitle}}"{% endif %}
 {% if event %}
 lieu: "{{venue}}"{% endif %}
 {% if venue %}
-date: {{date | format("YYYY")}}{% endif %}
+date: {{date | format("YYYY.MM.DD")}}{% endif %}
 {% if archive %}
 archive: "{{archive}}"{% endif %}
 {% if archiveLocation %}

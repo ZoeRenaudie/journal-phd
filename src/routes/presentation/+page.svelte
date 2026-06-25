@@ -25,6 +25,11 @@
       evenement: "DH 2024",
       date: "2024-08-07",
       url: "/presentation/dh2024/"
+    },{
+      titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
+      evenement: "MSL Cours Muséologie UdeM",
+      date: "2026-06-25",
+      url: "/presentation/2026CADtoLOD/"
     }
   ];
 </script>

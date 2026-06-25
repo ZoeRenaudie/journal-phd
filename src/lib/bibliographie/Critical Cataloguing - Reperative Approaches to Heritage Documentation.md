@@ -5,6 +5,7 @@ author: Krmpotich, Cara
 title: "Critical Cataloguing: Reperative Approaches to Heritage Documentation"
 citekey: krmpotichCriticalCataloguingReperative2026
 abstract:
+date: 2026-02-04
 tags:
   - database
   - collection-autochtone
@@ -13,7 +14,7 @@ tags:
 theme: Théorie Critique
 bibliography: "Krmpotich, Cara. 2026. « Critical Cataloguing: Reperative Approaches to Heritage Documentation ». Conférence. Causeries d’AS2, UdeM, février 4."
 ---
-### Présentation intervenant.e.s
+## Présentation intervenant.e.s
 
 Cara Krmpotich est anthropologue de musée, spécialisée dans la décolonisation et l'autochtonisation des pratiques muséales. Ses recherches portent sur la gestion des collections, la restitution et le patrimoine culturel, les liens de parenté et la culture matérielle, ainsi que les pratiques participatives.
 
@@ -21,19 +22,19 @@ La professeure Krmpotich est codirectrice de l'Alliance de recherche des Grands 
 
 Elle est également coresponsable de DigiLabs, une initiative menée conjointement par des chercheurs et des professionnels de musées à Manchester et à Toronto, visant à mieux comprendre les enjeux d'équité, d'empathie et d'éthique dans les pratiques et la recherche en matière de patrimoine culturel numérique.
 (traduction de source : https://ischool.utoronto.ca/faculty-profile/cara-krmpotich/)
-### Notes
+## Notes
 
 Cara Krmpotich travaille sur la muséologie engagée. A travaillé au Royaume-Uni et à Vancouver, maintenant basée à Toronto. Travaille sur land of waters. A situé son champs de recherche en Digital Heritage Situation et l'impact que cela peut avoir sur l'eau. Remercie son parcours et les gens qui l'accompagnent. 
 
 Cadre conceptuel initial : Mike exprime sa frustration face aux soins bureaucratiques (bureaucratic care) lors des tentatives de connexion avec les objets. Anxiété liée aux tableurs. Souhaite davantage de soins relationnels (relational care). Cara, gestionnaire de collections, discutera des directions à prendre pour aller vers ces soins relationnels.
 
-#### **Présentation de GRASAC ❤️**
+### **Présentation de GRASAC ❤️**
 
-### **Rassemblements bi-annuels**
+#### **Rassemblements bi-annuels**
 
 Recherche en groupe au sein d'institutions.
 
-### **Plateforme web**
+#### **Plateforme web**
 
 - Anciennement base de données protégée par mot de passe (plus maintenant en raison du financement)
 - Les membres étaient contributeurs et utilisateurs
@@ -44,11 +45,9 @@ Recherche en groupe au sein d'institutions.
 
 Comment traduire les connaissances expertes aux autres ?
 
-### **Editathon**
+#### **Editathon**
 
----
-
-##### **Évolution des bases de données**
+### **Évolution des bases de données**
 
 1. Registre d'inventaire papier dans des carnets → listes
 2. Card catalogue : début des classifications pour créer des connexions entre objets (en anthropologie, généralement par matériaux)
@@ -86,6 +85,7 @@ Définition (dictionary.archivists.org) :
 - adj. Relatif à la remédiation de pratiques ou données qui excluent, réduisent au silence, nuisent ou caractérisent mal les personnes marginalisées.
 
 **Point crucial :** NOUS POUVONS changer les vocabulaires car NOUS les avons écrits en premier lieu.
+
 #### **Comment bien cataloguer ?**
 
 = Toujours avoir Formulaire + Orientation/Guide + Vocabulaire/Thésaurus + MAIS AVEC **Intention**
@@ -129,7 +129,7 @@ Anderson : approche la collection et la muséologie avec conscience [qui ?]
 - Écriture créative pour le catalogage
 - Ont essayé d'écrire en mohawk d'abord. N'a pas donné les mêmes résultats.
 
-#### **Exercice pratique proposé**
+### **Exercice pratique proposé**
 
 Invitation à faire l'exercice sur un de nos objets.
 
@@ -159,11 +159,7 @@ CRSH : ne finance pas les bases de données mais les plateformes oui.
 
 [Méta-ontologie : Pourquoi faire des méta-ontologies ? Pas des petites ontologies par sujet qu'on appelle ? Mettre l'accent sur le micro au lieu du macro dans ma thèse.]
 
-### Lien avec la thèse
-
-# Liens avec ma thèse
-
-## Pertinence directe pour mon projet de recherche
+## Liens avec ma thèse
 
 ### 1. **Micro-ontologies vs méta-ontologies**
 La conférence renforce ma réflexion sur l'approche micro plutôt que macro. Tout comme GRASAC privilégie les introductions individuelles des objets-parents plutôt qu'une classification bureaucratique globale, ma thèse pourrait argumenter pour :
@@ -202,7 +198,7 @@ Cette question épistémologique est au cœur de mon projet :
 - Les métadonnées ne sont jamais descriptives, toujours performatives
 - Ma thèse peut analyser comment différents modèles de données (formulaires vs graphes sémantiques) produisent différents types de savoir
 
-## Questions de recherche émergentes
+### Questions de recherche émergentes
 
 1. **Comment le web sémantique peut-il encoder les relations de parenté avec les objets plutôt que les relations de propriété ?**
 
@@ -213,6 +209,7 @@ Cette question épistémologique est au cœur de mon projet :
 4. **Comment passer de la description à l'introduction dans un contexte de données liées ?**
 
 Ma thèse peut contribuer à penser le web sémantique non comme outil de standardisation universelle, mais comme infrastructure permettant la coexistence de multiples ontologies situées, créatives, et décoloniales.
-### Links  (private)
+
+## Links  (private)
 
 [online](http://zotero.org/groups/5157753/items/VVFJ6SX2) [local](zotero://select/groups/5157753/items/VVFJ6SX2)
