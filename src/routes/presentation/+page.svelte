@@ -1,6 +1,11 @@
 <script>
   const presentations = [
     {
+      titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
+      evenement: "MSL Cours Muséologie UdeM",
+      date: "2026-06-25",
+      url: "/presentation/2026CADtoLOD/"
+    },{
       titre: "Display : une infrastructure sémantique pour la documentation des accrochages",
       evenement: "Humanistica 2026",
       date: "2026-05-22",
@@ -25,11 +30,6 @@
       evenement: "DH 2024",
       date: "2024-08-07",
       url: "/presentation/dh2024/"
-    },{
-      titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
-      evenement: "MSL Cours Muséologie UdeM",
-      date: "2026-06-25",
-      url: "/presentation/2026CADtoLOD/"
     }
   ];
 </script>
