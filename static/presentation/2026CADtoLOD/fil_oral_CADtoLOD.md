@@ -2,38 +2,23 @@
 
 ### Séminaire de muséologie - intervention de 60 minutes
 
+
+MSL6526
+
+Partie ECD : 
+Musées ne sont pas neutres. 
+
+Quai branly : .
+
+Lonnie G. Bunch : smithonian : we should be careful of eachother. 
+
 changement de titre dans les cartels. 
 
+actimuseo : solution filemaker. 
 
-<style display="none">
-.flex-1 {
-  flex: 1;
-}
-.flex-1-5 {
-  flex: 1.5;
-}
-#ouvroir {
-  position: relative;
-  right: 10%;
-}
-#cieco {
-  max-width: 50%;
-  position: relative;
-	left: 5%;
-}
-#udem {
-  margin-top: 0;
-  postion: relative;
-  bottom: 15%;
-}
-.reveal h3 {
-  margin-top: 1em;  
-  }
+difficulté d'avoir une base commune : Gestion vs catalogue d'information. 
 
-.reveal .logos {
-  margin-top: 2em;
-}
-</style>
+bibliothèque : mission de partage des info vs musée : pas besoin de présenté les oeuvres pour les partager. 
 
 
 # Documentation des collections autochtones : enjeux éthiques et numériques

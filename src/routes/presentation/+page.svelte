@@ -2,7 +2,7 @@
   const presentations = [
     {
       titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
-      evenement: "MSL Cours Muséologie UdeM",
+      evenement: "MSL6526 - Séminaire de Muséologie Numérique Université de Montréal",
       date: "2026-06-25",
       url: "/presentation/2026CADtoLOD/"
     },{
