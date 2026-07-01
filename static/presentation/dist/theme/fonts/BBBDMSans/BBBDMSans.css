@@ -6,10 +6,11 @@
 }
 
 @font-face {
-    font-family: 'BBBDMSans';
-    src: url('./BBBDMSans-Italic.woff') format('truetype');
-    font-weight: normal;
-    font-style: italic;
+  font-family: "DM Sans";
+  src: url('./BBBDMSans-Regular.woff') format('woff2');
+  font-weight: normal;
+  font-style: italic 07deg;
+  font-display: swap;
 }
 
 @font-face {

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b29ea23586a0435",
+        "id": "fd047627afcfa76a",
         "type": "tabs",
         "children": [
           {
-            "id": "55822d37919f2012",
+            "id": "be3777a3f0f5a535",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
+                "file": "Zotero/Exhibition, Difference, and the Logic of Culture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Critical Cataloguing - Reperative Approaches to Heritage Documentation"
+              "title": "Exhibition, Difference, and the Logic of Culture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "citation",
+                "query": "BENNETT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +184,11 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "55822d37919f2012",
+  "active": "be3777a3f0f5a535",
   "lastOpenFiles": [
+    "Person/Bennett, Tony.md",
+    "Zotero/Exhibition, Difference, and the Logic of Culture.md",
+    "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
     "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
     "Templates/zotemplateConf.md",
     "Templates/zotemplate.md",
@@ -193,7 +196,6 @@
     "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
     "Crip Curation as Care.md",
     "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
-    "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
     "Feminist in a software lab - difference + design.md",
     "Fluxus Symposium.md",
     "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
@@ -210,8 +212,6 @@
     "Templates/zotemplate 1 1 1.md",
     "The end of conservation.md",
     "Person/Muñoz-Viñas, Salvador.md",
-    "The End of Conservation 1.md",
-    "Zotero/Tradition in Documenting Exhibitions.md",
     "Templates/zotemplate",
     "Untitled.base",
     "Untitled 1.base",

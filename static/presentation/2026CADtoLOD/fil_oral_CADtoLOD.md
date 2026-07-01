@@ -21,6 +21,7 @@ difficulté d'avoir une base commune : Gestion vs catalogue d'information.
 bibliothèque : mission de partage des info vs musée : pas besoin de présenté les oeuvres pour les partager. 
 
 
+
 # Documentation des collections autochtones : enjeux éthiques et numériques
 ### Présentation du projet CollectiveAccess to LOD dans le cadre du partenariat LINCS
 
