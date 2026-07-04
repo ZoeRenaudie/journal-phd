@@ -1,34 +1,182 @@
-<style display="none">
-.flex-1 {
-  flex: 1;
-}
-.flex-1-5 {
-  flex: 1.5;
-}
-#ouvroir {
-  position: relative;
-  right: 10%;
-}
-#cieco {
-  max-width: 50%;
-  position: relative;
-	left: 5%;
-}
-#udem {
-  margin-top: 0;
-  postion: relative;
-  bottom: 15%;
-}
-.reveal h3 {
-  margin-top: 1em;  
-  }
+--V2--
+## [0:00 – 0:30] Title
 
-.reveal .logos {
-  margin-top: 2em;
-}
-</style>
+Good [morning/afternoon]. My presentation today is called "Exhibitions as Data: Mapping the Invisible Threads of a Relational and Processual Heritage." I'm Zoë Renaudie, a doctoral researcher at the Université de Montréal. This work is supported by a grant from the Fonds de recherche du Québec.
 
-# Exhibitions as Data 
+---
+
+## [0:30 – 2:00] *Feux pâles*
+
+Let me start with a story. In December 1990, an exhibition called *Feux pâles* opened at the capcMusée d'art contemporain de Bordeaux. On its surface, it looked entirely conventional: eighty-two artists, eleven rooms, one catalogue, organized by an agency called "readymades appartiennent à tout le monde."
+
+Only on close inspection — and sometimes never — did the mechanisms of its construction become visible. The agency's director was, in fact, the artist Philippe Thomas. The entire curatorial apparatus — the agency, its authorship — was his fiction.
+
+This makes *Feux pâles* what I call an exhibition-artwork: an institutional presentation that is simultaneously a fictional device. And for my purposes today, it's something else too: a test case for documentation.
+
+---
+
+## [2:00 – 3:00] *Feux pâles* as a network
+
+*Feux pâles* is not a single object. It's a network. Ninety-six artworks, loaned from four continents, spanning the fifteenth century to 1990. A catalogue that isn't documentation of the exhibition but a constitutive part of it. An agency that is a legal fiction with no independent existence. A derived work — the *Cabinet d'amateur* — signed by the capc itself. A reactivation in 2014 at MAMCO Geneva. And a growing body of documentation: my own 2017 thesis, later work by Jaret, by Lebovici.
+
+Exhibitions, I want to argue, are not objects. They are relational and processual events that survive only through fragmentary, heterogeneous, and situated traces.
+
+---
+
+## [3:00 – 4:00] Three guiding questions
+
+This raises three questions that structure the rest of this talk.
+
+First: how can exhibitions be conceptualized as relational and performative cultural artifacts — and what does that demand of documentation practice?
+
+Second: what are the epistemological limits of existing heritage ontologies when applied to exhibitions that deliberately destabilize authorship, identity, and temporal boundaries?
+
+Third: how can a documentary model accommodate uncertainty, absence, and multiple, equally legitimate, situated perspectives on the same event?
+
+I'll use *Feux pâles* as a sustained case study to work through all three.
+
+---
+
+## [4:00 – 4:45] Bridge — from database to semantic web
+*(This replaces the unfinished notes slide — confirm wording with you before final pass)*
+
+Before turning to the ontologies, it's worth being honest about what a conventional relational database can and cannot do here — because that gap is exactly where this research starts. The semantic web's promise, in principle, is to move past a rigid network of fixed nodes toward genuinely open data. That sounds obvious to say out loud, but it's still not widely used by practitioners in the field.
+
+I'll present two experiments today: one on how *Feux pâles* has been repeatedly reactivated over time, and one on the documentation of something more basic — the exhibited artifacts themselves.
+
+---
+
+## [4:45 – 5:45] Exhibitions as small, complex, difficult data
+
+So what are exhibitions actually made of? Artworks, spatial configurations, technical infrastructures, institutional constraints, professional collaborations, discursive framings, embodied experiences. They produce meaning through relationships, not through stable entities.
+
+Existing systems tend to do the opposite. They privilege finished objects. They require named authorship. They fix events into closed time-spans. They marginalize collective and informal practices.
+
+As Johanna Drucker puts it, data are never raw — they are always *capta*: taken, not given.
+
+---
+
+## [5:45 – 6:45] Existing ontological landscape
+
+Several ontologies already exist in this space. CIDOC-CRM is the core heritage model — strong on provenance and custody, weak on authorship ambiguity and epistemic status. LRMoo and FRBRoo give us Work, Expression, Manifestation, Item — strong on intellectual lineage, weak on co-constitutive and recursive relationships. OntoExhibit addresses exhibitions' discursive dimensions directly — strong on curatorial intent, weak on fictive actors and uncertain provenance.
+
+We even built our own extension at the Ouvroir lab — the Display ontology — for the topological description of installations. But no model currently proposes an integrated approach specifically dedicated to exhibition documentation management.
+
+---
+
+## [6:45 – 8:00] A documented failure
+
+My first attempt to document *Feux pâles*, in 2017, used a relational spreadsheet. And it worked, up to a point. It could list all ninety-six artworks with their attributes. It could record provenance data per object. It even had a colour-coded epistemic system: black for verified, blue for uncertain, grey for missing, strikethrough for information that was historically valid but is now obsolete.
+
+But it could not model relations between heterogeneous elements. It could not represent competing interpretive accounts. It could not express co-constitutive relationships. It could not encode epistemic status as queryable data. And it could not link the act of documentation itself to the object being documented.
+
+This failure isn't a footnote — it's the starting point of this entire inquiry.
+
+---
+
+## [8:00 – 8:30] Experiment A — introduction
+
+So I ran two experiments in semantic modelling. The first treats *Feux pâles* not as a static entity but as a dynamic, continuously activated network — a chain of activations across more than three decades.
+
+---
+
+## [8:30 – 9:15] The LRMoo mapping and its four ruptures
+
+Can LRMoo capture that chain? I mapped the 1990 exhibition, the catalogue, the *Cabinet d'amateur*, the 2014 MAMCO reactivation, my own conservation study, and now this doctoral thesis, onto LRMoo's Work–Expression–Manifestation structure: four expressions under one Work — exhibition, catalogue, study, trace.
+
+It's a defensible structure. But four ruptures appear immediately. The exhibition and the catalogue are co-constitutive, not independent siblings — FRBRoo has no property for that. My own study doesn't just describe the work, it participates in it. The author of the *Cabinet d'amateur* is deliberately undecidable, which blocks the creation property outright. And my 2017 study retroactively modifies the very object it documents.
+
+---
+
+## [9:15 – 10:15] Four attempted fixes
+
+I tested four ways to patch this. Shifting to an event-centred mapping moves the gravity from object to act, closer to conservation epistemology — but the co-constitution problem remains. Treating *Feux pâles* as a Complex Work resolves the catalogue issue, but presupposes a unified compositional intent that Thomas's fiction is precisely designed to undermine. Modelling the agency through F12_Nomen — the name rather than the entity — is ontologically honest, but the creation property still demands a stable referent it can't provide. And using R48, "is prototype for," correctly distinguishes the 2014 reactivation from a simple reproduction — but that property doesn't even exist in the FRBRoo standard.
+
+Each fix solves one rupture and opens another. The choice of mapping is always an interpretive act.
+
+---
+
+## [10:15 – 11:00] What LRMoo cannot express
+
+Across all four ruptures, a pattern emerges. FRBRoo presupposes derivation before co-constitution; *Feux pâles* makes the catalogue part of the work, not derived from it. It presupposes documentation stands outside the work; here, the conservation study participates in the work's existence. It presupposes an identifiable actor; here, authorship is deliberately indecidable. And it presupposes a closed time-span; here, the activation is still open, more than thirty years later.
+
+---
+
+## [11:00 – 11:20] Experiment B — introduction
+
+My second experiment goes back to something more basic: how do we document a single exhibited object? I selected three artifacts out of the ninety-six, each probing a different kind of limit.
+
+---
+
+## [11:20 – 12:20] Artefact n°1 — the barcode
+
+Artefact number one: a barcode-like painting, signed by the capc, but conceived by Thomas through the agency. In CIDOC-CRM, E65 Creation plus "carried out by" forces a choice — the capc? Thomas? the agency? OntoExhibit's `hasAuthor` property makes the same forced choice. Neither model has a class for the object's hybrid status — it's simultaneously an artwork, a scenographic element, and the exhibition's title. And neither has a class for a fictive transaction: the barcode is the "product" the agency delivered to the capc, and the agency itself has no legal existence to be the owner it's recorded as in 1990.
+
+---
+
+## [12:20 – 13:10] Artefact n°4 — the sundial
+
+Artefact number four: a seventeenth-century portable sundial, lent in 1990 by the Kunsthistorisches Museum Vienna. That part, both models handle fine. But the current owner is unknown — the piece was looted from Clarisse Rothschild, and restitution remains unresolved. CIDOC-CRM's "has current owner" property is single-valued; it can't hold competing claims. And neither model has any native way to date epistemic status: "owner: KHM Vienna" was true in 1990. By 2017, it's false, or at least contested. The model either gives a false answer, or no answer. It cannot give an honest, uncertain one.
+
+---
+
+## [13:10 – 14:00] Artefact n°85 — Venzano
+
+Artefact number eighty-five: a photograph credited, on its label, to "the collection of Monsieur Georges Venzano." Venzano doesn't exist. The displayed author is the capc, fictionalized by Thomas as author. The sale that brought the piece from gallerist Claire Burrus to the capc in 1991 is real — but it's also part of the artistic fiction. This is the most striking case, because the fiction doesn't just touch the artwork — it touches the metadata itself. The title, the author, the collector: all fictional, and none of our models distinguish a real person from a fictive one.
+
+---
+
+## [14:00 – 15:00] Three types of rupture
+
+Across both experiments, I see three recurring types of rupture. Forced choice: the model records the fact but imposes an arbitrary decision — who's the author of the barcode, who owns the sundial. Structural silence: no class exists at all — for a fictive non-narrative person, a fictive transaction, a pending restitution claim, a dated epistemic status. And flattening: the model records the fact but erases what makes it meaningful — an E8 Acquisition for the Venzano sale exists, but the artistic friction disappears entirely.
+
+---
+
+## [15:00 – 16:00] What an adequate model would require
+
+So what would an adequate documentary model need to do? Seven things: represent distributed and shifting authorship; integrate heterogeneous traces without forcing artificial coherence; preserve contradictory or parallel interpretations; encode epistemic status and degrees of uncertainty; model non-linear and recursive temporalities; document absences and opacity as meaningful conditions, not deficiencies; and support iterative enrichment over time, rather than closure through a final description.
+
+I want to be clear: I'm not proposing a finished ontology today. I'm proposing a set of requirements to guide that work.
+
+---
+
+## [16:00 – 17:00] A warning — opacity
+
+I want to close on a caution, because it would be easy to hear all this as a call to document everything, exhaustively, forever. Édouard Glissant writes — and I'll paraphrase — that the right to opacity isn't withdrawal into an impenetrable particularity; it's consent to the ways the world proposes itself to universal relation.
+
+Absence and opacity are legitimate epistemic stances, not failures to be remedied. Documentation choices embody values. The structures we build shape what becomes knowable — and what we allow to remain unknown.
+
+---
+
+## [17:00 – 18:00] Conclusion
+
+*Feux pâles* is not an exceptional case. It's a particularly legible instance of a broader condition: exhibitions whose meaning depends on exactly the instability, multiplicity, and opacity that conventional documentation tries to eliminate.
+
+What this shows, I think, is threefold: modelling choices embody values; documentation practices shape cultural memory; and small, carefully structured datasets can support nuanced engagement when approached interpretively, rather than exhaustively.
+
+And the stakes go beyond access. This is a question of how cultural phenomena get modelled, whose expertise informs that modelling, and what forms of knowledge the resulting structures enable — or foreclose.
+
+---
+
+## [18:00 – 19:00] Closing — open questions to the CIDOC-CRM community
+*(DRAFT ONLY — needs your input, see note below)*
+
+I'll close with the questions I'm bringing to this community, because I think they matter more than any answer I could offer today.
+
+Should `CRMinf`'s belief-adoption classes be more actively implemented, and extended, so that epistemic status can be dated and versioned rather than treated as a one-off annotation? Is there appetite, within this community, for a shared extension covering fictive non-narrative persons and fictive transactions — cases where the artistic gesture *is* the metadata? And given the four ruptures I've shown in LRMoo, would there be interest in standardizing a co-constitution property, or in promoting `R48_is_prototype_for` into the core standard?
+
+Thank you.
+
+---
+
+## Notes for you
+
+1. **Total: ~19:00**, leaving ~1 minute of slack for pacing on the day. If Q&A time is separate, you're fine; if it's baked into a 20-minute slot, this is tight but workable.
+2. **Biggest compression risk**: the [9:15–10:15] block on the four LRMoo alternatives (A1–A4) covers a lot of ground fast. In rehearsal, if you're running long, this is the first place to cut — you could drop A2 or A4 verbally and let the slide stand on its own while you say one sentence per alternative.
+3. **The [4:00–4:45] bridge slide** is my reconstruction of your rough notes — please check the wording matches what you actually want to say, especially the phrase about semantic web being "not widely used by practitioners," since that's a claim worth softening or sourcing if challenged in Q&A.
+4. **The closing CIDOC-CRM questions** are drafted from the content of your slides, but you hadn't specified them yet — tell me if you want different or additional questions there (e.g. tied to the federated ontology idea), and I'll revise.
+
+-- V1-- 
 
 ## Mapping the Invisible Threads of a Relational and Processual Heritage
 

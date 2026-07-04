@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Reframe Style Demo</title>
+
+		<link rel="icon" type="image/png" href="/favicon.png" />
+		<link rel="stylesheet" href="/build/rf-bundle.css" />
+		<link rel="stylesheet" href="/default.css" />
+
+		<style>
+			html {
+				background: var(--rf-main-bg-color);
+			}
+			p {
+				font-size: var(--rf-body-font-size);
+			}
+			strong,
+			p {
+				font-family: var(--rf-body-font);
+			}
+			h2 {
+				font-size: var(--rf-h2-font-size);
+				@media screen and (width < 768px) {
+					font-size: var(--rf-h4-font-size);
+				}
+			}
+			h4 {
+				font-size: var(--rf-h4-font-size);
+			}
+			strong,
+			h2,
+			h4 {
+				margin: 0;
+				font-family: var(--rf-headings-font);
+			}
+
+			.rf-parallax__header {
+				--rf-parallax-element-self-align: start;
+			}
+
+			@media screen and (width > 768px) {
+				.rf-parallax__header {
+					--rf-parallax-columns: 8;
+				}
+				.rf-parallax-2__header {
+					--rf-parallax-element-translate-distance: 10vh;
+					--rf-parallax-columns: 8;
+				}
+				.rf-parallax-2__slide-2 {
+					--rf-parallax-element-translate-distance: 20vh;
+				}
+				.rf-parallax-2__slide-3 {
+					--rf-parallax-element-translate-distance: 40vh;
+				}
+				.rf-parallax-2__slide-4 {
+					--rf-parallax-element-translate-distance: -25vh;
+				}
+				.rf-parallax-2__slide-6 {
+					--rf-parallax-element-translate-distance: -15vh;
+				}
+				.small-parallax-slide {
+					--rf-parallax-columns: 4;
+				}
+				[slot='header'] {
+					width: 60%;
+				}
+				rf-split-flow:first-of-type::part(rf-split-flow) {
+					--rf-split-flow-scrollable-columns: 4;
+					--rf-split-flow-sticky-columns: 7;
+				}
+				.last-split-flow::part(rf-split-flow) {
+					--rf-split-flow-scrollable-columns: 4;
+					--rf-split-flow-sticky-columns: 4;
+					--rf-split-flow-parallax-treshold: 10%;
+				}
+				.rf-parallax__outro p {
+					width: calc(6 / var(--rf-columns) * 100%);
+				}
+			}
+
+			rf-mirror:first-of-type {
+				--rf-space-between-modules: 220px;
+				margin-bottom: var(--rf-spacing-m) !important;
+			}
+
+			.rf-parallax__outro {
+				display: flex;
+				flex-direction: column;
+				gap: var(--rf-spacing-m);
+				text-align: center;
+				justify-content: center;
+				align-items: center;
+				margin: 0 auto;
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+			<rf-inspector></rf-inspector>
+			<rf-hero id="hero" align="center">
+				<rf-text type="title" tag="h1">Le Musée Magritte de Bruxelles</rf-text>
+				<rf-text type="description">
+					Situé au cœur de Bruxelles, est un sanctuaire consacré à l’un des artistes les plus emblématiques du XXe siècle, René Magritte. Ce
+					peintre belge, figure majeure du surréalisme, est célèbre pour ses œuvres qui défient la perception et la logique, jouant avec les
+					conventions de l’image et du langage. Son art, empreint de mystère et de poésie, explore les paradoxes de la représentation et de
+					la réalité, influençant des générations d’artistes après lui. Le Musée Magritte, intégré aux Musées royaux des Beaux-Arts de
+					Belgique, offre un parcours exceptionnel à travers plus de 200 œuvres, parmi lesquelles certaines de ses toiles les plus célèbres.
+					Dans ce voyage à travers l’univers de Magritte, découvrons 15 œuvres incontournables, exposées au musée ou emblématiques de son
+					style.
+				</rf-text>
+				<rf-canvas src="/images/demo/hero.webp">
+					<rf-legend absolute="true" hover="true">
+						<strong>"La Pomme de Magritte"</strong>
+						– Symbole du mystère, cette pomme verte géante sur le toit du musée évoque l’illusion et l’énigme, à l’image de Le Fils de
+						l’Homme.
+					</rf-legend>
+				</rf-canvas>
+			</rf-hero>
+			<rf-grid layout="masonry" columns="4">
+				<div class="rf-grid__header" slot="header">
+					<rf-text type="title" tag="h3">L’Expérience du Musée Magritte</rf-text>
+					<rf-text type="title" tag="h5">Le Musée Magritte ne se contente pas d’exposer ces œuvres emblématiques.</rf-text>
+					<rf-text type="description">
+						Il propose un parcours immersif qui permet de mieux comprendre la démarche du peintre, en mettant en avant ses sources
+						d’inspiration, son rapport à la photographie et au cinéma, ainsi que les influences littéraires et philosophiques qui ont nourri
+						son imaginaire.
+					</rf-text>
+
+					<rf-text type="description">
+						Les salles du musée sont conçues pour recréer une atmosphère qui respecte l’univers de Magritte : un éclairage subtil, une
+						scénographie épurée et des dispositifs interactifs qui encouragent la réflexion et l’exploration. L’une des expériences
+						marquantes est de voir comment Magritte déconstruit l’image et les conventions visuelles, nous forçant à questionner ce que nous
+						voyons et ce que nous croyons savoir.
+					</rf-text>
+
+					<rf-text type="description">
+						Le musée propose également des conférences, des projections de films et des ateliers permettant d’approfondir l’impact de
+						Magritte sur l’art contemporain et la culture populaire. Son influence se retrouve dans la publicité, le cinéma (David Lynch,
+						Christopher Nolan) et même la mode, faisant de son œuvre une source inépuisable de fascination.
+					</rf-text>
+				</div>
+				<rf-canvas
+					manifest-id="https://iiif.wellcomecollection.org/presentation/b18035723"
+					canvas-id="https://iiif.wellcomecollection.org/presentation/b18035723/canvases/b18035723_0001.JP2"
+					fit="auto"
+				></rf-canvas>
+				<rf-canvas
+					canvas-id="https://iiif.io/api/cookbook/recipe/0033-choice/canvas/p1"
+					manifest-id="https://iiif.io/api/cookbook/recipe/0033-choice/manifest.json"
+				></rf-canvas>
+				<rf-canvas src="/images/demo/grid-1.webp">
+					<rf-legend absolute="true" hover="true">La Trahison des images (1929)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-2.webp">
+					<rf-legend absolute="true" hover="true">L’Empire des lumières (1954)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-3.webp">
+					<rf-legend absolute="true" hover="true">Les Amants (1928)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-4.webp">
+					<rf-legend absolute="true" hover="true">Golconda (1953)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-5.webp">
+					<rf-legend absolute="true" hover="true">Le Fils de l’homme (1964)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-6.webp">
+					<rf-legend absolute="true" hover="true">Le Château des Pyrénées (1959)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-7.webp">
+					<rf-legend absolute="true" hover="true">La Reproduction interdite (1937)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-8.webp">
+					<rf-legend absolute="true" hover="true">Le Domaine d'Arnheim (1938)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-9.webp">
+					<rf-legend absolute="true" hover="true">La Clairvoyance (1936)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-10.webp">
+					<rf-legend absolute="true" hover="true">Les Valeurs personnelles (1952)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-11.webp">
+					<rf-legend absolute="true" hover="true">L’Invention collective (1934)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-12.webp">
+					<rf-legend absolute="true" hover="true">La Philosophie dans le boudoir (1947)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-13.webp">
+					<rf-legend absolute="true" hover="true">Le Modèle rouge (1935)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-14.webp">
+					<rf-legend absolute="true" hover="true">Décalcomanie (1966)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-15.webp">
+					<rf-legend absolute="true" hover="true">L’Heureux Donateur (1966)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/videos/native.mp4" fit="contain"></rf-canvas>
+				<rf-canvas src="/audios/native.mp3" fit="contain"></rf-canvas>
+			</rf-grid>
+			<rf-split-flow no-collection="true" sticky-position="center">
+				<div class="rf-split-flow__header" slot="header">
+					<rf-text type="title" tag="h2">
+						Introduction:
+						<br />
+						Les Trésors du Musée Magritte
+					</rf-text>
+					<rf-text type="description">
+						Le Musée Magritte de Bruxelles abrite une collection incomparable d’œuvres de René Magritte, un des artistes les plus
+						emblématiques du mouvement surréaliste. Ce musée offre une plongée fascinante dans l’univers particulier de cet artiste belge,
+						connu pour ses images paradoxales et énigmatiques qui bousculent notre compréhension de la réalité. Parmi les nombreuses œuvres
+						exposées, trois tableaux se distinguent particulièrement, chacun représentant un aspect essentiel du génie de Magritte. Bien que
+						toutes ses œuvres soient empreintes de mystère, ce sont Le Retour, La Clairvoyance et surtout L’Empire des Lumières qui occupent
+						une place de choix dans la collection permanente.
+					</rf-text>
+				</div>
+				<rf-canvas inspector-hide="true" id="canvas-element-1" slot="sticky" src="/images/demo/split-flow-1.webp"></rf-canvas>
+				<rf-observer slot="scrollable">
+					<h4>
+						<rf-marker layout-id="canvas-element-1" id="marker-1">Le Retour (1940)</rf-marker>
+						– Un envol d’illusions
+					</h4>
+					<p>
+						Dans Le Retour (1940), Magritte nous invite à une réflexion profonde sur la nature de la perception et la manière dont nous
+						interprétons le monde autour de nous. L’œuvre présente un oiseau en plein vol, mais cet oiseau est loin d’être ordinaire. En
+						effet, son corps n’est pas constitué de plumes ou de chair, mais d’un fragment du ciel nuageux, se fondant parfaitement avec le
+						paysage environnant. Ce mélange étrange de formes et de couleurs remet en question l’idée même d’un oiseau comme un objet
+						tangible et reconnaissable. Le spectateur est ainsi invité à considérer cet oiseau non plus comme un simple élément de la
+						nature, mais comme une illusion visuelle, une construction de l’esprit, un jeu entre la réalité et l’imaginaire.
+					</p>
+					<p>
+						Ce tableau est particulièrement représentatif du style de Magritte, qui utilise des images familières pour créer un doute dans
+						l’esprit du spectateur. L’oiseau, symbole universel de liberté et de fluidité, devient ici une figure hybride, ni totalement
+						animale, ni entièrement céleste. Magritte veut provoquer une forme de perplexité chez son public, en introduisant une dimension
+						supplémentaire dans l’observation de la nature. Ce n’est pas simplement la scène qui est étrange, c’est la manière dont notre
+						esprit la décode. Ainsi, ce tableau n’est pas seulement une image de la nature : c’est une invitation à remettre en question les
+						limites de notre perception.
+					</p>
+					<p>
+						Magritte, par sa simplicité apparente, pousse à une réflexion sur le rapport entre la vision et l’intellect. L’oiseau n’est pas
+						seulement un être vivant, il devient un outil conceptuel, une métaphore de la manière dont nous percevons et interprétons ce que
+						nous voyons. À travers Le Retour, Magritte nous invite à percevoir les choses non seulement avec nos yeux, mais aussi avec notre
+						esprit, nous poussant à remettre en cause la séparation traditionnelle entre la réalité et l’illusion.
+					</p>
+
+					<h4>
+						<rf-marker layout-id="canvas-element-1" id="marker-2" trigger-position="0.7">La Clairvoyance (1936)</rf-marker>
+						– Voir au-delà de l’évidence
+					</h4>
+					<p>
+						La Clairvoyance est un tableau profondément introspectif, qui donne à voir Magritte lui-même, assis devant un chevalet, en train
+						de peindre un oiseau en plein vol. Pourtant, ce n’est pas un oiseau qu’il observe sur la table devant lui, mais un simple œuf.
+						Ce décalage entre l’objet perçu et l’image créée est au cœur du mystère de l’œuvre : Magritte ne peint pas ce qu’il voit, mais
+						ce qu’il sait, ce qu’il imagine, ce qu’il anticipe.
+					</p>
+					<p>
+						Ce tableau constitue une réflexion sur le rôle de l’artiste : doit-il se contenter de représenter la réalité brute, ou doit-il
+						au contraire la dépasser pour en révéler une signification plus profonde ? Magritte semble ici répondre en faveur de la seconde
+						option. La peinture devient un acte de vision intérieure, une capacité à projeter l’invisible à partir du visible.
+					</p>
+					<p>
+						Mais La Clairvoyance va au-delà d’un simple autoportrait d’artiste. Il pose une question plus large sur la nature même de
+						l’image : qu’est-ce que voir ? L’œil se contente-t-il d’enregistrer des formes et des couleurs, ou est-il capable de percevoir
+						des vérités qui échappent à la matière ? En reliant l’œuf à l’oiseau adulte, Magritte établit un lien entre le passé, le présent
+						et l’avenir, entre la potentialité et l’accomplissement. L’image ne se contente plus de figer un instant, elle devient une
+						réflexion sur le temps, sur l’évolution des choses et sur la manière dont notre esprit construit le monde.
+					</p>
+					<p>
+						Avec cette œuvre, Magritte ne nous donne pas seulement une leçon sur l’art, mais sur la pensée elle-même : voir, c’est
+						anticiper, c’est rêver, c’est imaginer ce qui n’existe pas encore.
+					</p>
+				</rf-observer>
+			</rf-split-flow>
+			<rf-split-flow class="last-split-flow" inverted="true" parallax="true">
+				<rf-canvas
+					id="canvas-element-2"
+					slot="sticky"
+					interactive="true"
+					interactive-mode="keydown"
+					src="/images/demo/split-flow-3.webp"
+				></rf-canvas>
+				<rf-observer slot="scrollable">
+					<rf-text type="title" tag="h4">L'Empire des Lumières (1949-1954) : La Poétique du Paradoxe</rf-text>
+					<rf-text type="description">
+						<p>
+							L'Empire des Lumières est sans doute l'une des œuvres les plus emblématiques et les plus mystérieuses de René Magritte. Peinte
+							entre 1949 et 1954, cette série de tableaux fascine par son paradoxe visuel. Il s'agit de l’une des plus grandes réussites de
+							Magritte, une œuvre qui mêle subtilement le réalisme et le fantastique, l'ordinaire et l’extraordinaire, la lumière et
+							l’obscurité. Comme souvent dans l’œuvre de Magritte, il s’agit ici d’un défi lancé à la logique et à la perception habituelle
+							de la réalité. L’artiste nous invite à réfléchir sur l’apparence de la réalité et sur les contradictions invisibles qui
+							résident dans ce que nous croyons voir.
+						</p>
+
+						<p>
+							Dans L'Empire des Lumières, une scène nocturne est dépeinte sous un ciel de nuit, avec des maisons éclairées par des
+							réverbères. Cependant, un phénomène étrange se produit : le ciel est non seulement sombre, mais il est aussi baigné de
+							lumière. Ce décalage entre l’obscurité de la nuit et la lumière qui éclaire l’instant, entre l’ombre et la clarté, crée un
+							paradoxe captivant. Magritte nous plonge dans un univers où la lumière semble exister en dehors des lois naturelles, une
+							lumière dénuée de source et, pourtant, omniprésente. Le contraste avec l’obscurité, représentée par des cieux nocturnes et des
+							rues sombres, donne à l’œuvre une atmosphère onirique et irréelle. Le spectateur se trouve ainsi pris dans un monde qui semble
+							simultanément être plongé dans l’ombre et éclairé par une lumière mystérieuse.
+						</p>
+
+						<h4>La Construction d’un Monde Surréaliste et Mêlé</h4>
+						<p>
+							Ce tableau fait partie d’une série qui s’inscrit pleinement dans le mouvement surréaliste. L'Empire des Lumières illustre
+							cette recherche de déstabilisation de la réalité propre au surréalisme, en introduisant des éléments qui déconcertent et
+							perturbent nos perceptions sensorielles et intellectuelles. Ce jeu sur la
+							<rf-marker
+								trigger-type="enter"
+								layout-id="canvas-element-2"
+								id="marker-3"
+								go-to-target="345,517,259,643"
+								zoom-out="true"
+								trigger-position="0.3"
+								debug="true"
+							></rf-marker>
+							lumière et
+							<rf-marker trigger-type="leave" layout-id="canvas-element-2" go-home="true" trigger-direction="top">l’obscurité</rf-marker>
+							n'est pas simplement une représentation d’une scène nocturne ; c’est une manière pour Magritte de questionner la cohérence de
+							notre vision du monde, de montrer que ce que nous croyons être une réalité cohérente et logique n’est en fait qu’une
+							construction fragile, susceptible d’être remise en cause par l’imaginaire. En plaçant des réverbères allumés dans des rues
+							plongées dans une nuit artificielle, l’artiste nous invite à revoir nos certitudes concernant les rapports entre lumière et
+							obscurité, et à considérer que la réalité, telle que nous la connaissons, pourrait bien être un jeu d’apparences.
+						</p>
+
+						<p>
+							En jouant avec les lois naturelles de la lumière, Magritte se plaît à bousculer nos repères habituels. Le ciel nocturne, qui
+							devrait être sombre, est éclairé de manière irréelle, tandis que les lumières des réverbères, d’ordinaire source de clarté,
+							semblent se fondre dans l’obscurité. Ce contraste entre la lumière artificielle et la nocturnalité naturelle des scènes est
+							l’un des traits marquants de la série. Magritte a ici une ambition plus large : faire éclater les frontières de notre
+							perception, et montrer que le visible est aussi une illusion. Les objets, les espaces et même la lumière, qui nous semblent
+							tangibles et réels, peuvent être manipulés pour créer une autre réalité, une autre manière de voir le monde. La subversion des
+							lois naturelles fait partie intégrante du projet surréaliste, où les notions de temps, d’espace et de lumière ne sont plus
+							considérées comme immuables, mais comme des éléments flexibles et subjectifs, susceptibles de nous surprendre.
+						</p>
+
+						<h4>Les Contradictions comme Source de Création</h4>
+						<p>
+							Dans L'Empire des Lumières, Magritte utilise le paradoxe comme un outil de réflexion. Le fait que le ciel soit éclairé alors
+							que la scène terrestre est plongée dans une obscurité qui semble irréelle est un parfait exemple de la manière dont Magritte
+							se joue de la logique. L’étrangeté de la scène est renforcée par la présence de maisons ordinairement éclairées, mais placées
+							sous une lumière étrange qui semble presque irréelle. Ce décalage entre l’attendu et l’inattendu est un des éléments
+							essentiels du langage de Magritte. Par cette distorsion de la réalité, l’artiste cherche non seulement à éveiller la
+							curiosité, mais aussi à forcer une réflexion sur la manière dont nous construisons notre perception du monde.
+							<rf-marker trigger-type="enter" layout-id="canvas-element-2" go-to-target="425,639,363,89">Pourquoi le ciel</rf-marker>
+							est-il lumineux, alors qu’il est censé être plongé dans l’obscurité de la nuit ? Pourquoi les maisons, dans un environnement
+							nocturne, sont-elles si fortement éclairées, mais sans que l’on puisse identifier la source de cette lumière ? Ces questions
+							n’ont pas de réponses évidentes, et c’est précisément ce qui fait la force de l’œuvre.
+						</p>
+
+						<p>
+							En représentant un paysage familier mais totalement déformé par l’incohérence lumineuse, Magritte crée un espace où les
+							contradictions deviennent le moteur de l’imagination. Les scènes que l’artiste peint ne sont pas faites pour être comprises
+							dans une logique classique, mais plutôt pour inciter le spectateur à réexaminer ses certitudes sur le monde, sur les
+							phénomènes naturels, et sur la manière dont il appréhende l’espace et le temps. Magritte ne cherche pas à nous fournir des
+							réponses, mais à ouvrir des portes vers des interrogations infinies. Cette liberté laissée à l’imagination du spectateur est
+							l’une des caractéristiques majeures du surréalisme, et L'Empire des Lumières en est un exemple parfait.
+						</p>
+
+						<h4>Les Symboles et la Dimension Philosophiques</h4>
+						<p>
+							Magritte, en plaçant ces réverbères et en jouant avec les oppositions entre la lumière et l’obscurité, cherche également à
+							introduire une réflexion plus profonde sur les niveaux de réalité et de perception. En effet, la lumière dans l’œuvre n’est
+							pas simplement un élément esthétique ou décoratif : elle devient une métaphore de la connaissance, de l’illumination
+							intellectuelle, mais aussi de l’illusion. La lumière artificielle, qui éclaire les rues et les maisons, contraste avec la nuit
+							sombre, suggérant que la lumière humaine, comme celle des réverbères, est elle-même une illusion face à l'immensité du ciel
+							nocturne, qui demeure dans l’obscurité. Cela invite à une réflexion sur la manière dont nous percevons et interprétons le
+							monde, et comment nos certitudes sont souvent influencées par des perceptions partielles et
+							<rf-marker trigger-type="enter" layout-id="canvas-element-2" id="marker-5" go-home="true">limitées</rf-marker>
+							.
+						</p>
+
+						<p>
+							Le mouvement surréaliste ne cherche pas seulement à exposer des images étranges ou poétiques ; il veut remettre en cause notre
+							rapport à la réalité et proposer une alternative à une vision rationnelle et figée du monde. En cela, L'Empire des Lumières
+							est une invitation à penser autrement, à ne pas se laisser emprisonner par les conventions de la réalité, mais à explorer les
+							multiples facettes de la vérité qui nous échappent. L’œuvre invite le spectateur à réfléchir sur la nature de la lumière, sur
+							le rôle de la perception et sur les illusoires frontières entre l’imaginaire et le réel.
+						</p>
+					</rf-text>
+				</rf-observer>
+			</rf-split-flow>
+			<rf-carrousel animation-type="page">
+				<div slot="header" class="rf-carrousel__header">
+					<rf-text type="title" tag="h3">
+						Chapitre 1 :
+						<br />
+						Les six versions de La Belle Captive
+					</rf-text>
+					<rf-text type="description">
+						René Magritte, maître du surréalisme et artisan du mystère, a consacré plusieurs décennies à explorer l’un de ses thèmes les
+						plus intrigants : la frontière entre l’image et la réalité. À travers six versions de La Belle Captive, réalisées entre 1931 et
+						1967, il interroge notre perception du monde en intégrant une toile peinte dans un paysage qui semble en être le prolongement
+						parfait. Ce jeu subtil de trompe-l'œil et de mise en abyme illustre à merveille l’obsession de Magritte pour l’ambiguïté
+						visuelle et la nature même de la représentation.
+					</rf-text>
+					<rf-text type="description">
+						Chaque version de
+						<i>La Belle Captive</i>
+						apporte une variation dans les couleurs, l’ambiance et les éléments du décor, mais toutes partagent une même énigme : où
+						s’arrête la réalité et où commence l’illusion ? En examinant ces six œuvres, nous plongeons au cœur de la réflexion magrittienne
+						sur l’image et son pouvoir de manipulation.
+					</rf-text>
+				</div>
+				<rf-carrousel-slide>
+					<rf-canvas src="/images/demo/carrousel-1.webp" fit="contain">
+						<rf-legend absolute="true">La Belle Captive (1931)</rf-legend>
+					</rf-canvas>
+				</rf-carrousel-slide>
+				<rf-carrousel-slide>
+					<rf-canvas src="/images/demo/carrousel-2.webp" fit="contain">
+						<rf-legend absolute="true">La Belle Captive (1935)</rf-legend>
+					</rf-canvas>
+				</rf-carrousel-slide>
+				<rf-carrousel-slide>
+					<rf-canvas src="/images/demo/carrousel-3.webp" fit="contain">
+						<rf-legend absolute="true">La Belle Captive (1939)</rf-legend>
+					</rf-canvas>
+				</rf-carrousel-slide>
+				<rf-carrousel-slide>
+					<rf-canvas src="/images/demo/carrousel-4.webp" fit="contain">
+						<rf-legend absolute="true">La Belle Captive (1947)</rf-legend>
+					</rf-canvas>
+				</rf-carrousel-slide>
+				<rf-carrousel-slide>
+					<rf-canvas src="/images/demo/carrousel-5.webp" fit="contain">
+						<rf-legend absolute="true">La Belle Captive (1950)</rf-legend>
+					</rf-canvas>
+				</rf-carrousel-slide>
+				<rf-carrousel-slide>
+					<rf-canvas src="/images/demo/carrousel-6.webp" fit="contain">
+						<rf-legend absolute="true">La Belle Captive (1967)</rf-legend>
+					</rf-canvas>
+				</rf-carrousel-slide>
+			</rf-carrousel>
+			<rf-overlay canvas-fit="contain">
+				<div class="rf-overlay__header" slot="header">
+					<rf-text type="title" tag="h4">Comparaison des deux premières versions de La Belle Captive (1931 et 1935)</rf-text>
+					<rf-text type="description">
+						Les versions de 1931 et 1935 de La Belle Captive illustrent l’exploration par Magritte du rapport entre l’image et la réalité.
+						Dans la première, la toile placée sur un chevalet se fond presque parfaitement dans le paysage, créant une illusion troublante
+						où l’art semble prolonger le monde réel. La composition met en avant l’ambiguïté entre ce qui est peint et ce qui est perçu.
+					</rf-text>
+					<rf-text type="description">
+						En 1935, Magritte affine ce concept en modifiant légèrement l’arrière-plan et en accentuant la matérialité du tableau
+						représenté. L’intégration du paysage y est plus subtile, renforçant l’effet de superposition entre l’image et son environnement.
+						Cette seconde version approfondit ainsi la réflexion sur l’illusion et la frontière entre la représentation et le réel, thème
+						central dans l’œuvre du peintre.
+					</rf-text>
+				</div>
+				<rf-canvas src="/images/demo/overlay-1.webp"></rf-canvas>
+				<rf-canvas src="/images/demo/overlay-2.webp"></rf-canvas>
+			</rf-overlay>
+			<rf-light-table static-positioning="true">
+				<rf-light-table-element rotation="1" x="0.19" y="0.03" opacity="0.72" order="2" width="0.3319" height="0.2222">
+					<rf-canvas src="/images/demo/carrousel-1.webp" fit="contain"></rf-canvas>
+				</rf-light-table-element>
+				<rf-light-table-element rotation="-17" x="-0.53" y="-0.48" opacity="1" order="6" width="0.3410" height="0.1271">
+					<rf-text type="description">
+						Sur cette table lumineuse, les six versions de La Belle Captive révèlent toute la malice de Magritte. À travers ces variations,
+						il brouille les pistes entre peinture et réalité, comme un jeu d’illusions posé devant nos yeux. Chaque tableau semble prolonger
+						l’autre, offrant un voyage curieux dans l’univers énigmatique du surréalisme.
+					</rf-text>
+				</rf-light-table-element>
+				<rf-light-table-element rotation="22" x="0.30" y="2.66" opacity="0.72" order="1" width="0.3590" height="0.2542">
+					<rf-canvas src="/images/demo/carrousel-2.webp" fit="contain"></rf-canvas>
+				</rf-light-table-element>
+				<rf-light-table-element rotation="8" x="0.48" y="1.51" opacity="0.72" order="3" width="0.3792" height="0.3125">
+					<rf-canvas src="/images/demo/carrousel-3.webp" fit="contain"></rf-canvas>
+				</rf-light-table-element>
+				<rf-light-table-element rotation="-14" x="-0.46" y="2.10" opacity="0.72" order="4" width="0.2410" height="0.3118">
+					<rf-canvas src="/images/demo/carrousel-4.webp" fit="contain"></rf-canvas>
+				</rf-light-table-element>
+				<rf-light-table-element rotation="8" x="-0.42" y="0.84" opacity="0.72" order="5" width="0.4618" height="0.3076">
+					<rf-canvas src="/images/demo/carrousel-5.webp" fit="contain"></rf-canvas>
+				</rf-light-table-element>
+			</rf-light-table>
+			<rf-parallax direction="horizontal" parallax-effect="scroll">
+				<div class="rf-parallax__header">
+					<rf-text type="title" tag="h2">
+						Chapitre 2:
+						<br />
+						L’Identité Cachée – Le Mystère de l’Inconnu
+					</rf-text>
+
+					<rf-text type="description">
+						<p>
+							René Magritte joue constamment avec la notion d’identité en dissimulant ses figures derrière des voiles, des lumières
+							aveuglantes ou des objets anodins. Dans Les Amants, Le Principe du Plaisir, L’Invention Collective, La Décalcomanie et L’Homme
+							au Chapeau Melon, il brouille les repères et questionne notre perception du réel. Ces œuvres explorent le paradoxe du visible
+							et de l’invisible, nous rappelant que l’apparence est souvent trompeuse.
+						</p>
+						<p>
+							En masquant les visages ou en fusionnant les corps avec leur environnement, Magritte invite le spectateur à dépasser la simple
+							observation pour interroger le sens profond de l’image. Sommes-nous définis par ce que l’on voit de nous, ou par ce qui
+							demeure caché ? Ces tableaux ne donnent pas de réponse, mais ils nous confrontent à l’incertitude, au mystère et à
+							l’impossibilité de tout saisir d’un seul regard.
+						</p>
+					</rf-text>
+				</div>
+				<rf-canvas src="/images/demo/grid-3.webp">
+					<rf-legend absolute="true" hover="true">Les Amants (1928)</rf-legend>
+				</rf-canvas>
+				<rf-canvas class="small-parallax-slide" src="/images/demo/parallax-2.webp">
+					<rf-legend absolute="true" hover="true">Le Principe du Plaisir (1937)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/parallax-3.webp">
+					<rf-legend absolute="true" hover="true">L'invention collective (1934)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/grid-14.webp">
+					<rf-legend absolute="true" hover="true">La Décalcomanie (1966)</rf-legend>
+				</rf-canvas>
+				<rf-canvas class="small-parallax-slide" src="/images/demo/grid-5.webp">
+					<rf-legend absolute="true" hover="true">L'Homme au Chapeau Melon (1959)</rf-legend>
+				</rf-canvas>
+			</rf-parallax>
+			<rf-parallax>
+				<div class="rf-parallax-2__header">
+					<rf-text type="title" tag="h2">
+						Chapitre 3:
+						<br />
+						La Transformation et l’Inattendu
+					</rf-text>
+					<rf-text type="description">
+						<p>
+							L’œuvre de Magritte ne se contente pas de brouiller l’identité et de masquer le réel, elle le transforme, le détourne et le
+							réinvente. À travers des combinaisons surprenantes et des métamorphoses déroutantes, le peintre surréaliste chamboule nos
+							repères et nous oblige à reconsidérer la nature même des objets et des êtres. Une sirène inversée, un train surgissant d’une
+							cheminée, une cage renfermant un œuf au lieu d’un oiseau : ces visions absurdes révèlent un monde où l’ordinaire bascule dans
+							l’étrange.
+						</p>
+						<p>
+							Magritte joue avec notre perception en modifiant subtilement ce que nous pensions connaître. Il ne s’agit pas de simple
+							fantaisie, mais d’une interrogation sur la réalité elle-même : sommes-nous certains de comprendre ce que nous voyons ? Dans ce
+							chapitre, nous explorerons comment, à travers la transformation et l’inattendu, Magritte nous invite à voir le monde
+							autrement, à embrasser l’illusion et à douter de nos certitudes.
+						</p>
+					</rf-text>
+				</div>
+				<rf-canvas class="rf-parallax-2__slide-2" src="/images/demo/parallax-4.webp">
+					<rf-legend>
+						<strong>Le Viol (1934):</strong>
+						Ce portrait féminin remplace les traits du visage par des éléments du corps, créant une image troublante. Magritte questionne
+						ici la perception et la réduction du corps féminin à une simple vision érotisée.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas class="rf-parallax-2__slide-3" src="/images/demo/parallax-3.webp">
+					<rf-legend>
+						<strong>L'invention collective (1934):</strong>
+						Une sirène inversée, avec un torse de poisson et des jambes humaines, défie notre logique. Magritte joue avec la transformation
+						et le détournement des mythes pour créer une image absurde et fascinante.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas class="rf-parallax-2__slide-4" src="/images/demo/grid-10.webp">
+					<rf-legend>
+						<strong>Les Valeurs Personnelles (1952):</strong>
+						Une chambre où des objets du quotidien (peigne, savon, verre…) sont gigantesques. L’effet de disproportion perturbe notre
+						rapport à l’espace et donne une dimension surréaliste à la banalité.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/parallax-5.webp">
+					<rf-legend>
+						<strong>Le Mal du Pays (1940):</strong>
+						Un lion figé sur un pont, accompagné d’un homme au chapeau melon et doté d’ailes. L’image suggère un étrange mélange entre
+						immobilité et mouvement, réalisme et fantastique. L’atmosphère énigmatique du tableau évoque un sentiment de mystère et d’exil
+						intérieur.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas class="rf-parallax-2__slide-6" src="/images/demo/parallax-6.webp">
+					<rf-legend>
+						<strong>La Durée Poignardée (1938)</strong>
+						Un train émergeant d’une cheminée de salon, confrontant l’intérieur domestique au mouvement et à la vitesse. Magritte joue ici
+						avec les contrastes entre immobile et dynamique, rêve et réalité.
+					</rf-legend>
+				</rf-canvas>
+			</rf-parallax>
+			<rf-mirror fit="width" direction="horizontal">
+				<rf-canvas src="/images/demo/mirror-1.webp"></rf-canvas>
+				<div>
+					<rf-text type="title" tag="h2">
+						Chapitre 4:
+						<br />
+						Les Jeux de Perception et la Tromperie du Regard
+					</rf-text>
+					<rf-text type="description">
+						<p>
+							Magritte ne se contente pas de représenter l’étrange, il déjoue activement notre perception. À travers ses œuvres, il nous
+							invite à questionner ce que nous voyons et à comprendre que nos certitudes visuelles reposent sur des conventions fragiles. En
+							manipulant les reflets, les perspectives et le rapport entre l’image et la réalité, il crée un effet de trouble : ce que nous
+							croyons évident devient soudain incertain.
+						</p>
+						<p>
+							Trois tableaux emblématiques illustrent cette approche.
+							<strong>La Trahison des Images (1929)</strong>
+							confronte l’image et le langage, nous rappelant que toute représentation est une interprétation et non la chose elle-même.
+							<strong>La Reproduction Interdite (1937)</strong>
+							bouleverse la logique du reflet, brisant nos attentes face au miroir. Enfin,
+							<strong>Le Blanc-Seing (1965)</strong>
+							joue avec les superpositions pour nous faire douter de la frontière entre les formes et leur arrière-plan. Ces œuvres montrent
+							à quel point notre regard peut être trompé, non seulement par l’art, mais aussi par le monde qui nous entoure.
+						</p>
+					</rf-text>
+				</div>
+			</rf-mirror>
+			<rf-mirror fit="optimized" direction="horizontal">
+				<rf-canvas src="/images/demo/grid-7.webp">
+					<rf-legend absolute="true">La Trahison des images (1929)</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/mirror-2.webp">
+					<rf-legend absolute="true">Le Blanc-Seing (1965)</rf-legend>
+				</rf-canvas>
+			</rf-mirror>
+			<rf-parallax parallax-effect="clip">
+				<div class="rf-parallax__last-header" slot="header">
+					<rf-text type="title" tag="h3">
+						Chapitre 5 :
+						<br />
+						L’Héritage de Magritte et son Influence Contemporaine
+					</rf-text>
+					<rf-text type="description">
+						Magritte ne s’est pas contenté de bouleverser la peinture surréaliste, il a redéfini notre rapport aux images. Son travail sur
+						l’ambiguïté, la perception et le langage continue d’inspirer de nombreux artistes, bien au-delà du mouvement surréaliste. Son
+						influence se retrouve dans la publicité, la photographie, le cinéma et même la pop culture.
+					</rf-text>
+					<rf-text type="description">
+						Aujourd’hui, son style épuré et ses paradoxes visuels résonnent dans le travail de créateurs tels que les artistes conceptuels
+						du XXe siècle, des cinéastes comme Peter Weir (The Truman Show) ou des photographes jouant avec la mise en scène illusionniste.
+						L’esthétique de Magritte est partout, preuve que son questionnement sur le réel et l’illusion est toujours d’actualité.
+					</rf-text>
+					<rf-text type="description">
+						Avec son art, Magritte nous a appris à regarder autrement, à remettre en question ce que nous pensions évident. Ses tableaux ne
+						se contentent pas d’être admirés : ils continuent de nous interroger, longtemps après qu’on les ait quittés.
+					</rf-text>
+				</div>
+				<rf-canvas src="/images/demo/parallax-end-1.webp">
+					<rf-legend absolute="true">
+						Dans la scène emblématique où Truman touche le ciel peint à la main et découvre la limite de son monde (à droite), l’écho avec
+						"Architecture au clair de lune" de Magritte (à gauche) est frappant. Dans ce tableau, l’illusion architecturale se mêle à un
+						ciel nocturne surréaliste, donnant l’impression que la réalité est une façade fragile. De la même manière, Truman réalise que
+						son environnement n’est qu’un décor soigneusement construit, une tromperie similaire à celle que Magritte explore dans ses
+						œuvres.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/parallax-end-2.webp">
+					<rf-legend absolute="true">
+						La couverture du single Angie des Rolling Stones (à gauche) présente un visage féminin estompé et transformé en une abstraction
+						troublante. Cette image rappelle "Le Viol" de Magritte (à droite), où un visage féminin est remplacé par des parties du corps,
+						illustrant une fusion dérangeante entre identité et désir. La manière dont ces deux images jouent sur la perception et
+						l’ambiguïté visuelle reflète le même malaise, entre sensualité et effacement de l’individu.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/parallax-end-3.webp">
+					<rf-legend absolute="true">
+						La campagne publicitaire de Revenu Canada avec le slogan "Are you accustomed to travel?" (à gauche) reprend visuellement l’idée
+						du tableau "Le Modèle rouge" (à droite), où des chaussures semblent fusionner avec des pieds nus. Le message sous-jacent de la
+						campagne joue sur la même étrangeté : questionner la relation entre identité et mouvement, entre ce qui est attendu et ce qui
+						est déroutant. Magritte, comme la publicité, interpelle le spectateur en bousculant sa perception du familier.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/parallax-end-4.webp">
+					<rf-legend absolute="true">
+						Dans Kentucky Route Zero, la direction artistique adopte une esthétique qui rappelle fortement Magritte (à gauche), notamment
+						dans la représentation d’une forêt où les troncs et les feuillages semblent absorber des silhouettes et les dissimuler. Cela
+						fait immédiatement penser à "Le Blanc-seing" (à droite), où une cavalière semble se fondre avec l’arrière-plan. L’effet
+						d’illusion et de superposition des éléments crée un sentiment d’étrangeté et d’irréalité que le jeu vidéo, à l’image du peintre,
+						exploite brillamment.
+					</rf-legend>
+				</rf-canvas>
+				<rf-canvas src="/images/demo/parallax-end-5.webp">
+					<rf-legend absolute="true">
+						Dans l’épisode Treehouse of Horror IV des Simpsons, Bart joue le rôle d’un présentateur d’émission, dans une parodie de Night
+						Gallery, une série où chaque tableau introduit une histoire macabre. Il guide les spectateurs à travers une galerie d’art aux
+						œuvres étranges, dont une version détournée de Le Fils de l’homme de Magritte. Devant ce tableau, où son propre visage est caché
+						par une pomme verte, Bart affiche un sourire narquois, accentuant l’absurdité de la scène. Loin du mystère originel voulu par
+						Magritte, cette référence humoristique illustre comment l’imagerie du peintre continue d’inspirer et d’être réinterprétée dans
+						la pop culture.
+					</rf-legend>
+				</rf-canvas>
+				<div data-reframe-type="description" class="rf-parallax__outro">
+					<p>
+						Au fil de cette exploration du monde de René Magritte et de son influence indélébile sur l’art et la culture, nous avons
+						découvert un univers où la réalité se fond dans l’illusion, où les objets du quotidien prennent un sens inattendu, et où chaque
+						œuvre nous invite à questionner notre perception du monde. De ses toiles emblématiques exposées au Musée Magritte de Bruxelles à
+						son impact sur la musique, le cinéma et la pop culture, l’héritage du peintre belge demeure une source infinie d’inspiration et
+						d’émerveillement.
+					</p>
+					<p>
+						Nous tenons à remercier chaleureusement tous ceux qui ont pris le temps de parcourir ces pages et de plonger dans cet univers
+						fascinant. Que vous soyez amateur d’art, passionné de surréalisme ou simple curieux en quête de nouvelles perspectives, nous
+						espérons que cette découverte vous aura apporté autant de plaisir que nous en avons eu à la partager. Magritte nous rappelle que
+						"tout ce que nous voyons cache quelque chose d'autre", alors continuons à regarder au-delà des apparences et à laisser libre
+						cours à notre imagination. Merci à vous et à bientôt pour de nouvelles explorations artistiques !
+					</p>
+					<p><strong>— L'équipe de Reframe</strong></p>
+				</div>
+			</rf-parallax>
+		</main>
+		<script src="/build/reframe.js"></script>
+		<script>
+			setTimeout(() => {
+				const elements = document.querySelectorAll('[is^="rf-"]');
+
+				elements.forEach((element) => {
+					console.log(element.collection);
+				});
+			}, 1000);
+			// split-flow 1
+			const marker1 = document.querySelector('#marker-1');
+			const marker2 = document.querySelector('#marker-2');
+			marker2?.setCallback((attachedElement) => {
+				attachedElement.setAttribute('src', '/images/demo/split-flow-2.webp');
+			}, 'enter');
+			marker2?.setCallback((attachedElement, direction) => {
+				if (direction === -1) {
+					attachedElement.setAttribute('src', '/images/demo/split-flow-1.webp');
+				}
+			}, 'leave');
+		</script>
+	</body>
+</html>
