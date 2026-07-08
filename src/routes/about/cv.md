@@ -53,6 +53,8 @@ Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’
 
 **Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, juillet 27-31). Documenting Exhibition’s Display *Digital Humanities 2026* DH. Corea.
 
+**Renaudie, Zoë** (2026, juin 25) Documentation des collections autochtones : enjeux éthiques et numériques : Présentation du projet CollectiveAccess to LOD dans le cadre du partenariat LINCS, *Séminaire de muséologie MSL6526*, Université de Montréal.
+
 **Renaudie, Zoë** (2026 juin 05-06) Documentation des objets désobéissants. *Colloque international « Œuvres variables: ce qui reste au musée quand tout change »* organisé à l’Université Sorbonne Nouvelle par le Partenariat Des nouveaux usages des collections dans les musées d’art du Groupe de recherche et de réflexion CIÉCO, en partenariat avec l’Université du Québec en Outaouais et en collaboration avec l’Équipe Art et musée. Paris
 
 Miclo, Anne-Sophie, **Renaudie, Zoë** (2026 juin 01) Quand la dégradation fait patrimoine : l’«accept-decay» en conservation-restauration. *Faire vivre ou laisser mourir Patrimoines vulnérables* APAHAU. Paris.
@@ -109,6 +111,10 @@ Château-Dutier, Emmanuel, Valentine, David, & **Renaudie, Zoë** (2024, décemb
 
 ### Organisation d'événements scientifiques
 
+Les étudiant·es associé·es au Partenariat Des nouveaux usages des collections dans les musées d'art (CRSH, 2020-2028) ont coconstruit un séjour de recherche à Paris (27 mai au 03 juin 2026). Comité d'organisation et comité scientifique. 
+
+Organisation d'un atelier Fanzine avec le CEDISC (2025, mai 2) pour les *Journées d’étude Trois décennies d’histoire de l’art à Montréal. Doc-Inter (1994–2024)*, Montréal. 
+
 Château-Dutier, Emmanuel, Valentine, David, & **Renaudie, Zoë** (2024, décembre 17). Documenting exhibition with Semantic Web. *Journée d’étude La documentation des expositions. L’Ouvroir*, Montréal. Comité d'organisation et comité scientifique. 
 
 Bertin, Marion, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création du séminaire *Conserver l’exposition*. École Supérieure d’Art d’Avignon, France. Comité d'organisation et comité scientifique.   
@@ -116,6 +122,10 @@ Bertin, Marion, & **Renaudie, Zoë** (2023, janvier 26 et février 2). Création
 ## Expériences professionnelles
 
 **Université de Montréal (QC, Canada)**
+
+**Septembre 2026 – Décembre 2026**
+
+Chargée de cours à la maîtrise en Muséologie : *Données et traitement d’inventaire*.
 
 **Octobre 2023 - Actuel**
 

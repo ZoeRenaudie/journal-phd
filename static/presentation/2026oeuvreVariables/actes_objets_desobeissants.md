@@ -6,23 +6,17 @@
 
 *Colloque Œuvres variables*, Sorbonne Nouvelle, 6 juin 2026
 
-------
-
 ## Résumé
 
 Les systèmes de gestion des collections reposent sur un modèle de description centré sur l'œuvre comme entité stable et unitaire. Cette contribution examine l'inadéquation structurelle de ces outils face aux œuvres variables, processuelles et composites, en proposant un changement de paradigme fondé sur la séparation entre concept et item, et sur la notion d'événement. Elle soutient que ce déplacement, rendu opérationnel par les outils du web sémantique et des ontologies du patrimoine (CIDOC-CRM, LMRoo), révèle que toutes les œuvres sont, d'un point de vue documentaire, variables. La contribution s'achève sur la question des angles morts de ces modèles, notamment face aux régimes de connaissance autochtones, et sur les conditions institutionnelles nécessaires à leur déploiement.
 
 **Mots-clés :** œuvres variables, documentation, CIDOC-CRM, LMRoo, web sémantique, item, événement, muséologie numérique
 
-------
-
 ## 1. Introduction : des outils qui résistent aux œuvres
 
 La question qui oriente cette contribution est née d'une expérience pratique. Dans plusieurs postes institutionnels, il m'a fallu documenter des œuvres qui résistaient aux outils à ma disposition, non pas de manière dramatique, mais silencieusement, en débordant des cases, en exigeant des contournements, en forçant des compromis systématiques. Cette résistance a conduit à un questionnement sur la technologie sous-jacente aux systèmes de gestion des collections, notamment à travers la création d'une base de données prototype, et c'est cette démarche qui a motivé l'entrée en doctorat.
 
 L'objet de recherche retenu est l'exposition, considérée comme l'entité documentaire la plus variable et la plus complexe de la chaîne patrimoniale. Les développements qui suivent présentent trois moments articulés : d'abord un diagnostic de l'inadéquation structurelle entre les outils de gestion et les œuvres variables ; ensuite une proposition de modèle fondée sur la distinction entre le conceptuel et le physique, et sur les notions d'item et d'événement ; enfin un horizon, celui du web sémantique et des ontologies du patrimoine, avec leurs promesses et leurs angles morts.
-
-------
 
 ## 2. Diagnostic : l'inadéquation structurelle des bases de données relationnelles
 
@@ -39,8 +33,6 @@ Les bases de données relationnelles usuellement déployées dans les institutio
 ### 2.3 Le problème du silo documentaire
 
 Au-delà de la question des œuvres composites, c'est la fragmentation documentaire qui constitue le véritable problème systémique. Tout au long de la vie d'une œuvre, des dizaines de documents sont produits : photographies d'atelier et notes à la création, dossier d'acquisition et constats d'état à l'entrée en collection, documents de prêt, vues d'exposition et articles critiques à la publicisation, notices, rapports d'intervention et préconisations en conservation. Ces documents sont produits par des personnes différentes, à des moments différents, dans des outils différents, stockés dans des formats et des espaces distincts. Entre eux, il n'existe ni lien ni connexion. L'information est enfermée dans le document. Chaque document existe dans son propre silo. Le problème n'est pas l'absence d'informations, mais l'absence de relations entre elles.
-
-------
 
 ## 3. Proposition : de l'œuvre à l'item, de l'archive à l'événement
 
@@ -66,9 +58,7 @@ Ce modèle soulève une question institutionnelle que cette contribution choisit
 
 Ce changement de modèle implique également une inversion du rapport entre la base de données et les documents produits. Dans le paradigme actuel, les documents sont versés dans la base après production : on ressaisit à la main des données déjà présentes dans le système, ce qui est chronophage et source d'erreurs. Dans le paradigme proposé, la base alimente directement les documents : le constat d'état, le rapport d'installation, la fiche de suivi de maintenance, le Plan de Sécurité des Biens Culturels, les éléments pour les calculs de responsabilité éco-responsable. La base devient un outil de production plutôt qu'un simple outil d'archivage, avec des profils de visualisation différenciés selon les usages : régisseur, conservateur, médiateur n'ont pas les mêmes besoins.
 
-------
-
-## 4. Horizon : le web sémantique et les ontologies du patrimoine
+## 4. Le web sémantique et les ontologies du patrimoine
 
 ### 4.1 De l'accumulation à l'articulation
 
@@ -96,8 +86,6 @@ Appliquée à *Danny et No More Reality*, la modélisation LMRoo révèle que ce
 
 La couche événementielle, modélisée en CIDOC-CRM, vient compléter cette chaîne conceptuelle. L'exposition devient une E7 Activity, liée à un lieu (LUMA Arles), à des dates (15 juin 2021 au 30 septembre 2022), à un commissaire (Philippe Parreno), et à des E73 Information Objects (catalogue, contrats, photographies). C'est à ce niveau que LMRoo et CIDOC-CRM se rejoignent : la chaîne conceptuelle des œuvres et la chaîne événementielle des expositions s'articulent sans que les informations soient répétées et sans que les deux ontologies se remplacent.
 
-------
-
 ## 5. Angles morts et questions ouvertes
 
 ### 5.1 Les régimes de connaissance non couverts
@@ -114,13 +102,9 @@ Un mot sur l'intelligence artificielle, objet de nombreux travaux actuels appliq
 
 Si les outils existent depuis des années, leur déploiement dans les musées se heurte à des conditions institutionnelles qui méritent d'être nommées. Il existe, dans nos institutions, des personnes formées pour faire le pont entre les informaticiens et les praticiens : ingénieurs de recherche, spécialistes en humanités numériques. Ce pont fonctionne déjà dans les bibliothèques, les archives, l'archéologie et les cinémathèques. La question qui s'impose, et sur laquelle cette contribution s'achève, est celle-ci : **pourquoi est-il si difficile à construire dans nos musées ?**
 
-------
-
 ## Conclusion
 
 Si l'œuvre variable est moins un objet qu'un processus, alors sa documentation est moins un inventaire qu'une cartographie en mouvement. Le déplacement de l'œuvre vers l'item, et de l'archive vers l'événement, n'est pas une réforme technique marginale. C'est un changement de paradigme épistémologique qui révèle que la variabilité n'est pas une propriété d'une catégorie particulière d'œuvres, mais une condition générale de la connaissance patrimoniale. Les œuvres dites stables la dissimulent ; les œuvres variables la rendent explicite et non-négociable.
-
-------
 
 ## Références
 
