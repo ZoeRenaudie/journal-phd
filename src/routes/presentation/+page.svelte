@@ -1,6 +1,11 @@
 <script>
   const presentations = [
     {
+      titre: "Exhibitions as Data : Mapping the Invisible Threads of a Relational and Processual Heritage",
+      evenement: "DH2026",
+      date: "2026-07-29",
+      url: "/presentation/2026DHD/"
+    },{
       titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
       evenement: "MSL6526 - Séminaire de Muséologie Numérique Université de Montréal",
       date: "2026-06-25",
