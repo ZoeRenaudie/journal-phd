@@ -29,12 +29,6 @@ data-charset="UTF-8">
 <script src="../plugin/highlight/highlight.js"></script>
 <script src="../plugin/zoom/zoom.js"></script>
 
-<script>
-if (window.hljs) {
-  hljs.configure({ languages: [] });
-}
-</script>
-
 <script type="module">
 import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
 
@@ -63,6 +57,9 @@ Reveal.initialize({
   hideCursorTime: 2000,
   pdfMaxPagesPerSlide: 1,
   showNotes: false,
+  highlight: {
+    beforeHighlight: (hljs) => hljs.configure({ languages: [] })
+  },
   plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ]
 });
 
@@ -74,7 +71,6 @@ Reveal.on('ready', async () => {
   await mermaid.run({ querySelector: '.language-mermaid' });
 });
 </script>
-
 
 </body>
 </html>
