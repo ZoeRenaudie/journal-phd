@@ -64,11 +64,11 @@ Reveal.initialize({
 });
 
 Reveal.on('slidechanged', async () => {
-  await mermaid.run({ querySelector: '.language-mermaid' });
+  await mermaid.run({ querySelector: '.mermaid' });
 });
 
 Reveal.on('ready', async () => {
-  await mermaid.run({ querySelector: '.language-mermaid' });
+  await mermaid.run({ querySelector: '.mermaid' });
 });
 </script>
 
