@@ -28,26 +28,9 @@ data-charset="UTF-8">
 <script src="../plugin/markdown/markdown.js"></script>
 <script src="../plugin/highlight/highlight.js"></script>
 <script src="../plugin/zoom/zoom.js"></script>
+<script src="../plugin/mermaid/mermaid.js"></script>
 
-<script type="module">
-import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-
-mermaid.initialize({
-  startOnLoad: false,
-  theme: 'base',
-  themeVariables: {
-    fontSize: '14px',
-    primaryColor: '#EEEDFE',
-    primaryTextColor: '#26215C',
-    primaryBorderColor: '#534AB7',
-    lineColor: '#73726c',
-    secondaryColor: '#E1F5EE',
-    tertiaryColor: '#FCEBEB',
-    tertiaryTextColor: '#501313',
-    tertiaryBorderColor: '#A32D2D',
-  }
-});
-
+<script>
 Reveal.initialize({
   hash: true,
   slideNumber: 'c',
@@ -60,15 +43,21 @@ Reveal.initialize({
   highlight: {
     beforeHighlight: (hljs) => hljs.configure({ languages: [] })
   },
-  plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ]
-});
-
-Reveal.on('slidechanged', async () => {
-  await mermaid.run({ querySelector: '.mermaid' });
-});
-
-Reveal.on('ready', async () => {
-  await mermaid.run({ querySelector: '.mermaid' });
+  mermaid: {
+    theme: 'base',
+    themeVariables: {
+      fontSize: '14px',
+      primaryColor: '#EEEDFE',
+      primaryTextColor: '#26215C',
+      primaryBorderColor: '#534AB7',
+      lineColor: '#73726c',
+      secondaryColor: '#E1F5EE',
+      tertiaryColor: '#FCEBEB',
+      tertiaryTextColor: '#501313',
+      tertiaryBorderColor: '#A32D2D',
+    }
+  },
+  plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom, RevealMermaid ]
 });
 </script>
 
