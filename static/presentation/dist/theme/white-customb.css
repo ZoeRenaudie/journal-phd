@@ -114,32 +114,13 @@
   margin: 10px 0;
 }
 
-/* Fond sombre réservé aux VRAIS blocs de code. On exclut explicitement
-   code.mermaid : reveal-mermaid injecte le SVG rendu à l'intérieur de
-   ce <pre><code>, et sans cette exclusion le bloc garde le fond noir
-   prévu pour le code, ce qui produit un rectangle noir derrière un
-   diagramme censé être sur fond blanc. */
-.reveal pre code:not(.mermaid) {
-  background-color: #272822;
+.reveal pre code {
+  background-color: #272822; /* Fond sombre pour les blocs de code */
   color: #f8f8f2;
   max-height: 500px;
   font-size: 0.75em; /* Code encore plus petit */
   line-height: 1.4;
   border-radius: 6px;
-}
-
-/* Le conteneur mermaid lui-même : fond transparent (celui de la slide,
-   donc blanc), pas d'ombre ni de cadre hérité des blocs de code */
-.reveal pre code.mermaid,
-.reveal .mermaid {
-  background-color: transparent !important;
-  box-shadow: none !important;
-  max-height: none;
-  padding: 0;
-}
-
-.reveal .mermaid svg {
-  background: transparent !important;
 }
 
 /*********************************************
@@ -205,64 +186,3 @@ figure > figcaption {
 .reveal blockquote p:last-child {
   margin-bottom: 0;
 }
-
-/*********************************************
- * MERMAID — LISIBILITÉ SUR FOND BLANC, MÊME PROJETÉ
- *
- * Traits et texte assez épais/foncés pour rester nets si le
- * projecteur écrase les contrastes ou floute les lignes fines.
- *********************************************/
-.reveal .mermaid {
-  max-width: 100% !important;
-}
-
-.reveal .mermaid svg {
-  max-height: 62vh !important;
-  max-width: 100% !important;
-  width: auto !important;
-  height: auto !important;
-  display: block;
-  margin: 0 auto;
-  transform: scale(1.0);
-  transform-origin: center;
-}
-
-/* Ajustement spécifique pour les nœuds (rect, circle, etc.) */
-.reveal .mermaid .node rect,
-.reveal .mermaid .node circle,
-.reveal .mermaid .node polygon,
-.reveal .mermaid .node path {
-  stroke-width: 3px !important;
-  /* Assure que le texte à l'intérieur des nœuds est gras */
-  font-weight: 700 !important; 
-}
-
-/* FLÈCHES PLUS GROSSES */
-.reveal .mermaid .edgePath .path,
-.reveal .mermaid .flowchart-link {
-  stroke: #292e38 !important;
-  stroke-width: 5px !important; /* ÉPAISSEUR AUGMENTÉE (3px -> 5px) */
-  fill: none !important; /* S'assure que la ligne est bien tracée */
-}
-
-/* Pointes de flèches (markers) plus visibles */
-.reveal .mermaid marker path {
-  fill: #292e38 !important;
-  stroke: #292e38 !important;
-  stroke-width: 1px !important;
-}
-
-/* Étiquettes sur les flèches (texte des liens) */
-.reveal .mermaid .edgeLabel {
-  background-color: #ffffff !important;
-  font-weight: 800 !important; /* TEXTE DES FLÈCHES TRÈS ÉPAIS */
-  font-size: 22px !important;
-  font-family: 'BBBDMSans', 'IBM Plex Sans', sans-serif !important;
-  color: #292e38 !important;
-}
-
-.reveal .mermaid .edgeLabel rect {
-  fill: #ffffff !important;
-  opacity: 1 !important;
-}
-

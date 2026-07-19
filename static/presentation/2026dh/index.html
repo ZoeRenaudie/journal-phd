@@ -43,20 +43,27 @@ Reveal.initialize({
   highlight: {
     beforeHighlight: (hljs) => hljs.configure({ languages: [] })
   },
-  mermaid: {
-    theme: 'base',
-    themeVariables: {
-      fontSize: '14px',
-      primaryColor: '#EEEDFE',
-      primaryTextColor: '#26215C',
-      primaryBorderColor: '#534AB7',
-      lineColor: '#73726c',
-      secondaryColor: '#E1F5EE',
-      tertiaryColor: '#FCEBEB',
-      tertiaryTextColor: '#501313',
-      tertiaryBorderColor: '#A32D2D',
-    }
+mermaid: {
+  theme: 'base',
+  themeVariables: {
+    fontFamily: "'BBBDMSans', 'IBM Plex Sans', sans-serif",
+    fontWeight: 'bold',
+    fontSize: '25px',
+    primaryColor: '#EEEDFE',
+    primaryTextColor: '#26215C',
+    primaryBorderColor: '#534AB7',
+    lineColor: '#73726c',
+    secondaryColor: '#E1F5EE',
+    tertiaryColor: '#FCEBEB',
+    tertiaryTextColor: '#501313',
+    tertiaryBorderColor: '#A32D2D',
   },
+flowchart: {
+htmlLabels: true,
+useMaxWidth: true,
+padding: 20
+}
+},
   plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom, RevealMermaid ]
 });
 </script>
