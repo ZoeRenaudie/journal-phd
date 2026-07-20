@@ -206,6 +206,7 @@ figure > figcaption {
   margin-bottom: 0;
 }
 
+
 /*********************************************
  * MERMAID — LISIBILITÉ SUR FOND BLANC, MÊME PROJETÉ
  *
@@ -249,7 +250,7 @@ figure > figcaption {
 .reveal .mermaid marker path {
   fill: #292e38 !important;
   stroke: #292e38 !important;
-  stroke-width: 1px !important;
+  stroke-width: 4px !important;
 }
 
 /* Étiquettes sur les flèches (texte des liens) */
