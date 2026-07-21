@@ -41,6 +41,8 @@
 
 <h1>Présentations</h1>
 
+<p>Les présentations sont inspirées du modèle en reaveal.js de l'Ouvroir mis en place par David Valentine.</p>
+
 <ul>
   {#each presentations as p}
     <li>

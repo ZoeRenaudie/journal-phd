@@ -1,12 +1,6 @@
-# Diapositives pour Display
+# Diapositives
 
-Sources des diapositives utilisées dans le cadre du projet Display (Ouvroir d’histoire de l’art et de muséologie numériques).
-
-- [2025-11-17](./midicauserie/2025-10-05-midicauserie.md) : [midicauserie](./midicauserie/)
-- [2025-06-17](./interface/2025-06-16.md) : [interface](./interface/)
-- [2024-12-17](./documenting/2024-12-17-documenting.md) : [Documenting Exhibitions with the Semantic Web](./documenting/)
-- [2024-10-28](./atelier/2024-10-28-atelier.md) : [Atelier Display](./atelier/)
-- [2024-08-07](./dh2024/2024-08-07-dh2024.md) : [DH2024](./dh2024/)
+Les présentations sont inspirées du modèle en reaveal.js de l'Ouvroir mis en place par David Valentine.
 
 # Mode d’emploi
 
