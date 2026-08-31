@@ -4,12 +4,12 @@
       titre: "Exhibitions as Data : Mapping the Invisible Threads of a Relational and Processual Heritage",
       evenement: "DH2026",
       date: "2026-07-29",
-      url: "https://contributions.zoerenaudie.com/dh2026/"
+      url: "https://contributions.zoerenaudie.com/2026dh/"
     },{
       titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
       evenement: "MSL6526 - Séminaire de Muséologie Numérique Université de Montréal",
       date: "2026-06-25",
-      url: "https://contributions.zoerenaudie.com/cad-to-lod/"
+      url: "https://contributions.zoerenaudie.com/2026CADtoLOD/"
     },{
       titre: "Display : une infrastructure sémantique pour la documentation des accrochages",
       evenement: "Humanistica 2026",
