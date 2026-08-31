@@ -1,0 +1,5 @@
+- **Doctorant·e** : Thèse sur **les drags et leur rapport aux musées**.
+- **Pratique** : **Commissariat d’expositions** et réflexion sur l’**intégration des artistes drag dans les institutions**.
+- **Engagements** :
+    - Membre du **jury du prix Utopi.e** (2024).
+    - Travail au **Van Abbe Museum** (Pays-Bas) avec le groupe **« Queer Constituency »** (visiteur·euse·s et salarié·e·s intervenant sur l’accrochage des collections).

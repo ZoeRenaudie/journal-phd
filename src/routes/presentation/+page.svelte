@@ -4,37 +4,37 @@
       titre: "Exhibitions as Data : Mapping the Invisible Threads of a Relational and Processual Heritage",
       evenement: "DH2026",
       date: "2026-07-29",
-      url: "/presentation/2026dh/"
+      url: "https://contributions.zoerenaudie.com/dh2026/"
     },{
       titre: "Documentation des collections autochtones : enjeux éthiques et numériques",
       evenement: "MSL6526 - Séminaire de Muséologie Numérique Université de Montréal",
       date: "2026-06-25",
-      url: "/presentation/2026CADtoLOD/"
+      url: "https://contributions.zoerenaudie.com/cad-to-lod/"
     },{
       titre: "Display : une infrastructure sémantique pour la documentation des accrochages",
       evenement: "Humanistica 2026",
       date: "2026-05-22",
-      url: "/presentation/humanistica2026/"
+      url: "https://contributions.zoerenaudie.com/humanistica2026/"
     },{
       titre: "Présentation de l’ontologie et l’outil **Display**",
       evenement: "Midi-causerie Ouvroir",
       date: "2025-10-05",
-      url: "/presentation/midicauserie/"
+      url: "https://contributions.zoerenaudie.com/midicauserie/"
     },{
       titre: "Documenting Exhibitions with the Semantic Web",
       evenement: "Ouvroir",
       date: "2024-12-17",
-      url: "/presentation/documenting/"
+      url: "https://contributions.zoerenaudie.com/documenting/"
     },{
       titre: "Atelier Display : documenter des accrochages de collection à l’aide d’une approche ontologique",
       evenement: "Ouvroir",
       date: "2024-10-28",
-      url: "/presentation/atelier/"
+      url: "https://contributions.zoerenaudie.com/atelier/"
     },{
       titre: "Documenting exhibition and collection displays: an ontological approach",
       evenement: "DH 2024",
       date: "2024-08-07",
-      url: "/presentation/dh2024/"
+      url: "https://contributions.zoerenaudie.com/dh2024/"
     }
   ];
 </script>

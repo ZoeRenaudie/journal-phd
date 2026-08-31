@@ -12,7 +12,7 @@ bibliography: Halberstam, Judith. 2011. _The Queer Art of Failure_. Duke Univers
 ---
 ## Présentation auteur·e·s
 
-[[Halberstam Jack]]
+[[Halberstam, Jack]]
 ## Résumé
 
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd047627afcfa76a",
+        "id": "433aba5690ff15c6",
         "type": "tabs",
         "children": [
           {
-            "id": "be3777a3f0f5a535",
+            "id": "869d6cb8777fbb63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/Exhibition, Difference, and the Logic of Culture.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Exhibition, Difference, and the Logic of Culture"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BENNETT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,34 +180,34 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "be3777a3f0f5a535",
+  "active": "869d6cb8777fbb63",
   "lastOpenFiles": [
-    "Person/Bennett, Tony.md",
     "Zotero/Exhibition, Difference, and the Logic of Culture.md",
+    "Inclure véritablement les artistes queer dans les institutions culturelles.md",
+    "Person/Cometti, Jean-Pierre*.md",
+    "Person/Lester, Peter.md",
+    "Person/Geoffroy, Inès.md",
+    "Person/Lambert, Daisy.md",
+    "Person/Cazaux, Mharion.md",
+    "Person/Muñoz-Viñas, Salvador.md",
+    "Person/Benbachir, Meryam.md",
+    "Introduction à l’histoire des cultures queer et à leurs représentations.md",
+    "Langage et médiation, s'adresser à tous.tes dans les espaces d'exposition.md",
+    "Person/Lièvre, Pascal.md",
+    "Person/Muñoz, Elena Lespes.md",
+    "Person/Wielocha, Aga*.md",
+    "Person/Whitelaw, Mitchell.md",
+    "Person/Halberstam, Jack.md",
+    "Person/Ellis, Josephine*.md",
+    "Collectif Les Paillettes.md",
+    "Person/Bordenave, Ana.md",
+    "Person/Bennett, Tony.md",
     "Critical Cataloguing - Reperative Approaches to Heritage Documentation.md",
     "Conservation of Contemporary Art - Bridging the Gap Between Theory and Practice.md",
     "Templates/zotemplateConf.md",
     "Templates/zotemplate.md",
     "Archive, Affect, and the Everyday.md",
     "Collecting archives of objects and stories - on the lives and futures of contemporary art at the museum.md",
-    "Crip Curation as Care.md",
-    "ConserverRestaurer - l'oeuvre d'art à l'époque de sa préservation technique.md",
-    "Feminist in a software lab - difference + design.md",
-    "Fluxus Symposium.md",
-    "Futurités autochtones - dépasser les solitudes des mondes franco-américains.md",
-    "Imaginer de nouvelles géographies au-delà des arts actuels autochtones.md",
-    "La documentation et la diffusion numérique des expositions de collections nationales - le Musée national des beaux-arts du Québec et le Musée d’art contemporain de Montréal.md",
-    "Le processus interprétatif - introduction à la sémiotique de Ch. S. Peirce.md",
-    "Making Time.md",
-    "Nourrir la relationnalité avec les appartenances de nos ancêtres.md",
-    "Penser par cas. Raisonner à partir de singularités.md",
-    "The Queer Art of Failure.md",
-    "Zotero/Introduction à l’histoire des cultures queer et à leurs représentations.md",
-    "Zotero/Programme de désordre absolu - décoloniser le musée.md",
-    "Zotero/The First Nations, Métis, Inuit Indigenous Ontology and Challenges in the Development of an Indigenous Community Vocabulary in the Canadian Context.md",
-    "Templates/zotemplate 1 1 1.md",
-    "The end of conservation.md",
-    "Person/Muñoz-Viñas, Salvador.md",
     "Templates/zotemplate",
     "Untitled.base",
     "Untitled 1.base",

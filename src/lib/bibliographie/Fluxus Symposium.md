@@ -47,7 +47,7 @@ link: https://activatingfluxus.com/activations-a-fluxus-symposium-friday-februar
 
 **Curator & Academic, Programme Director, University of Dundee** Judit Bodor est une commissaire d’exposition et chercheuse spécialisée dans l’art post-1970, les archives d’artistes et les pratiques curatoriales. Elle dirige actuellement le projet international _Curating the Digital Attic Archive_, utilisant des méthodes open-source pour réactiver des archives d’artistes dispersées. Ses recherches portent sur l’Artpool Art Research Center de Budapest, qu’elle étudie depuis 25 ans, et sur la notion d’archive active. Elle a publié dans plusieurs ouvrages, dont _Performance in a Pandemic_ (2021) et _What Will Be Already Exists_ (2021). Elle est également directrice des programmes MFA Fine Art et MFA Curatorial Practice à l’Université de Dundee.
 
-### [[Ellis Josephine*]]
+### [[Ellis, Josephine*]]
 
 **PhD Candidate, University of Bern & Bern Academy of the Arts** Josephine Ellis est doctorante en études artistiques, explorant les intersections entre histoire de l’art, culture matérielle et conservation. Ses recherches actuelles portent sur la poussière comme matériau et méthode dans les pratiques artistiques, notamment à travers les œuvres de Robert Filliou, Sean Miller et Jorge Otero-Pailos. Elle s’intéresse à la manière dont la poussière peut repenser la conservation, non comme une préservation statique, mais comme une production continue de sens culturel. Elle a obtenu son BA en Histoire à l’Université de Durham et son MA en Histoire de l’art à University College London.
 
