@@ -14,7 +14,7 @@
       titre: "Display : une infrastructure sémantique pour la documentation des accrochages",
       evenement: "Humanistica 2026",
       date: "2026-05-22",
-      url: "https://contributions.zoerenaudie.com/humanistica2026/"
+      url: "https://contributions.zoerenaudie.com/2026humanistica/"
     },{
       titre: "Présentation de l’ontologie et l’outil **Display**",
       evenement: "Midi-causerie Ouvroir",

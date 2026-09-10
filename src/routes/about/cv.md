@@ -29,7 +29,9 @@ ORCID : 0009-0001-5825-8624
 
 **Articles avec comité de lecture**
 
-Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections*   [édition numérique  ].
+Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (sous presse). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique].
+
+Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue ? »* Vers la constitution d’une banque de photographies d’expositions Proposition de protocole1 ». Les Cahiers de muséologie, juillet 6. http://bibli-cloud15.segi.ulg.ac.be/2406-7202/index.php?id=2116.
 
 **Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. <https://medium.com/museonum/la-documentation-dexposition-retour-d-exp%C3%A9rience-309521484918>
 
@@ -49,7 +51,7 @@ Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (accepté). Acceptation de l’
 
 **Communications orales - Avec comité de sélection**
 
-**Renaudie, Zoë** (2026, juillet 27-31). Exhibitions as Data : Mapping the Invisible Threads of Cultural Memory *Digital Humanities 2026* DH. Corea.
+**Renaudie, Zoë** (2026). Exhibitions as Data : Mapping the Invisible Threads of Cultural Memory *Digital Humanities 2026* Corée, 27-31 Juillet.
 
 **Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, juillet 27-31). Documenting Exhibition’s Display *Digital Humanities 2026* DH. Corea.
 
