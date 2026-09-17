@@ -31,7 +31,7 @@ ORCID : 0009-0001-5825-8624
 
 Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (sous presse). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique].
 
-Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue ? »* Vers la constitution d’une banque de photographies d’expositions Proposition de protocole1 ». Les Cahiers de muséologie, juillet 6. http://bibli-cloud15.segi.ulg.ac.be/2406-7202/index.php?id=2116.
+Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue ? »* Vers la constitution d’une banque de photographies d’expositions Proposition de protocole ». Les Cahiers de muséologie, juillet 6. http://bibli-cloud15.segi.ulg.ac.be/2406-7202/index.php?id=2116.
 
 **Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. <https://medium.com/museonum/la-documentation-dexposition-retour-d-exp%C3%A9rience-309521484918>
 
