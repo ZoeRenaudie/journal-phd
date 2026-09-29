@@ -1,7 +1,7 @@
 ---
 title: "Présentation de videomuseum"
-date: "2026-03-13"
-updated: "2026-03-13"
+date: "2026-04-13"
+updated: "2026-04-13"
 categories:
   - archive
   - exposition
@@ -11,7 +11,7 @@ excerpt: ""
 
 ---
 
-Rencontre avec ..
+Rencontre avec Isabelle Reusa dans leurs locaux rue Renard. 
 
 ## Présentation de Videomuseum
 

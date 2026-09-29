@@ -51,7 +51,7 @@ Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue�
 
 **Communications orales - Avec comité de sélection**
 
-**Renaudie, Zoë** (2026). Exhibitions as Data : Mapping the Invisible Threads of Cultural Memory *Digital Humanities 2026* Corée, 27-31 Juillet.
+**Renaudie, Zoë** (2026). Exhibitions as Data : Mapping the Invisible Threads of Cultural Memory *Digital Humanities 2026* Corée, 27-31 Juillet. https://doi.org/10.5281/zenodo.22661048 and [abstract](https://doi.org/10.5281/zenodo.21495908)
 
 **Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, juillet 27-31). Documenting Exhibition’s Display *Digital Humanities 2026* DH. Corea.
 
@@ -62,6 +62,8 @@ Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue�
 Miclo, Anne-Sophie, **Renaudie, Zoë** (2026 juin 01) Quand la dégradation fait patrimoine : l’«accept-decay» en conservation-restauration. *Faire vivre ou laisser mourir Patrimoines vulnérables* APAHAU. Paris.
 
 **Renaudie, Zoë**, Valentine, David, Château-Dutier Emmanuel (2026, mai 19-22). Display : une infrastructure sémantique pour la documentation structurée des accrochages d'exposition. *Humanistica 2026*, Paris.
+
+**Renaudie, Zoë** and India-Lynn Upshaw-Ruffner, talk with podcast host Louis-Philippe Savard and special guest Elise Boudreau. (2026, April 1). "Institutions, Relations, Documentation", Poadcast Annexes. https://open.spotify.com/episode/2cE9fXTneGZaHM5XMPHeNr
 
 **Renaudie, Zoë** (2025, septembre 12). Modéliser l’exposition : de la documentation à la visualisation de l’accrochage. *Colloque CRIHN 2025*, Montréal.
 
