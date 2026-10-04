@@ -4,12 +4,13 @@ type: presentation
 author: Benbachir, Meryam; Cazaux, Mharion; Lambert, Daisy; Geoffroy, Inès
 title: Inclure véritablement les artistes queer dans les institutions culturelles
 citekey: munozLangageMediationSadresser2026
-abstract: Comment passer d'une inclusion symbolique à une inclusion réelle ? Comment éviter l'instrumentalisation des identités et donner aux artistes un véritable pouvoir d'action sur les projets ? Quelles stratégies curatoriales et de gouvernance partagée permettent de rééquilibrer les rapports de décision ?
+abstract: " Comment passer d'une inclusion symbolique à une inclusion réelle ? Comment éviter l'instrumentalisation des identités et donner aux artistes un véritable pouvoir d'action sur les projets ? Quelles stratégies curatoriales et de gouvernance partagée permettent de rééquilibrer les rapports de décision ? "
 tags:
   - queer
 theme: queer
-citation: Benbachir, Meryam, Mharion Cazaux, Daisy Lambert, et Inès Geoffroy. 2026. « Inclure véritablement les artistes queer dans les institutions culturelles ». Conférence. Cultures Queer. Comment repenser les pratiques d’exposition ?, Gaité Lyrique, mars 27. [https://www.gaite-lyrique.net/agenda/2026/cultures-queer/](https://www.gaite-lyrique.net/agenda/2026/cultures-queer/).
+bibliography: "Benbachir, Meryam, Mharion Cazaux, Daisy Lambert, et Inès Geoffroy. 2026. « Inclure véritablement les artistes queer dans les institutions culturelles ». Conférence. Cultures Queer. Comment repenser les pratiques d’exposition ?, Gaité Lyrique, mars 27. [https://www.gaite-lyrique.net/agenda/2026/cultures-queer/](https://www.gaite-lyrique.net/agenda/2026/cultures-queer/)."
 ---
+
 ### Présentation intervenant.e.s
 
 [[Benbachir, Meryam]] [[Cazaux, Mharion]] [[Lambert, Daisy]] [[Geoffroy, Inès]]

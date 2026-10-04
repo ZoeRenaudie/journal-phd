@@ -9,6 +9,7 @@ citekey: halberstamQueerArtFailure2011
 tags:
 theme:
 bibliography: Halberstam, Judith. 2011. _The Queer Art of Failure_. Duke University Press. [https://doi.org/10.1215/9780822394358](https://doi.org/10.1215/9780822394358).
+
 ---
 ## Présentation auteur·e·s
 

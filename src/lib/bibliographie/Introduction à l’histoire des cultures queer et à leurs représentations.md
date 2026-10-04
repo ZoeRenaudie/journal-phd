@@ -11,7 +11,7 @@ tags:
   - histoiredelart
   - curation
 theme: queer
-citation: Bordenave, Ana. 2026. « Introduction à l’histoire des cultures queer et à leurs représentations ». Conférence. Cultures Queer. Comment repenser les pratiques d’exposition ?, Gaité Lyrique, mars 27. [https://www.gaite-lyrique.net/agenda/2026/cultures-queer/](https://www.gaite-lyrique.net/agenda/2026/cultures-queer/).
+bibliography: Bordenave, Ana. 2026. « Introduction à l’histoire des cultures queer et à leurs représentations ». Conférence. Cultures Queer. Comment repenser les pratiques d’exposition ?, Gaité Lyrique, mars 27. [https://www.gaite-lyrique.net/agenda/2026/cultures-queer/](https://www.gaite-lyrique.net/agenda/2026/cultures-queer/).
 ---
 ### Présentation intervenant.e.s
 

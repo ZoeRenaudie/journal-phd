@@ -14,7 +14,7 @@ tags:
   - savoirs-autochtones
   - collection-autochtone
 theme: Savoirs Autochtone
-citation: "Nepton Hotte, Caroline, Mililani Ganivet, Isabelle Genest, et Jonathan Lainey. 2026. « Nourrir la relationnalité avec les appartenances de nos ancêtres ». Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 22. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
+bibliography: "Nepton Hotte, Caroline, Mililani Ganivet, Isabelle Genest, et Jonathan Lainey. 2026. « Nourrir la relationnalité avec les appartenances de nos ancêtres ». Conférence. Avec CIECO. Entre nos archipels : Dialogues autochtones en contextes francophones, Musée des Beaux Arts de Montréal, janvier 22. [https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026](https://cieco.co/fr/actualites/rassemblement-entre-nos-archipels-2026)."
 ---
 ### Présentation intervenant.e.s
 

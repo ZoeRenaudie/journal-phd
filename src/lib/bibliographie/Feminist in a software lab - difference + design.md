@@ -16,7 +16,6 @@ theme: Humanités numériques
 bibliography: McPherson, Tara. 2018. _Feminist in a Software Lab Difference + Design_. Metalabprojects. Harvard university press.
 ---
 
----
 ### Présentation auteur.e.s
 
 **Tara McPherson** est professeure a la School of Cinematic Arts de l University of Southern California (USC) et directrice fondatrice du Vectors Lab (2003-2018), un laboratoire pionnier en humanités numériques. Formée en études cinématographiques et théorie culturelle poststructuraliste, elle incarne une figure singulière : celle de la chercheuse en sciences humaines devenue directrice d un laboratoire de développement logiciel. Cette double expertise lui permet d interroger de manière critique et productive les rapports entre théorie culturelle et pratique computationnelle. Au sein du Vectors Lab, elle a dirige deux projets majeurs : Vectors Journal, une revue en ligne explorant de nouvelles formes d argumentation savante multimédia, et Scalar, une plateforme open-source de création et publication permettant aux chercheurs de construire des narrations non-linéaires riches en médias. McPherson montre son engagement envers la théorie critique particulièrement le féminisme et la théorie critique de la race dans un domaine parfois domine par une rhétorique du faire au détriment de la réflexion critique. Son livre Feminist in a Software Lab (2018) a reçu le prix Garfinkel en humanités numériques.

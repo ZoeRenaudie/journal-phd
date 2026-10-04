@@ -4,19 +4,19 @@ type: presentation
 author: Hölling, Hanna B.; Aga, Wielocha; Joséphine, Ellis
 title: Fluxus Fête
 citekey: hollingFluxusSymposium2026
-abstract: |-
-  As our project enters its final phase, momentum is growing toward Fluxus Fête, the concluding events to be held on February 26–28, 2026 – please save the date!
+abstract: 
+ As our project enters its final phase, momentum is growing toward Fluxus Fête, the concluding events to be held on February 26–28, 2026 – please save the date!
 
   Fluxus Fête is a series of events celebrating the radical spirit of Fluxus, while simultaneously marking the conclusion of the research project Activating Fluxus. Over three days and across multiple formats, the Fête brings together artists, scholars, and audiences to explore Fluxus’s playful, experimental, and boundary-pushing practices. The program features lectures, panels, and discussions that interrogate Fluxus’s history, philosophy, ongoing influence, and afterlife, alongside performances that activate scores and reinterpret Fluxus-inspired works.
   DAY ONE
   THURSDAY, FEBRUARY 26, 2026, 6 PM-9 PM
-  The (Im)possibilities of Touch: Ay-O’s Finger Boxes
+  The (Im)possibilities of Touch Ay-O’s Finger Boxes
   A Conservation Study Day
 
   The last of our series of Study Days dedicated to Fluxus is centred on Ay-O’s finger boxes. Co-organized with the Getty Research Institute, this hybrid event will feature contributions by Rachel Rivenc / GRI, Kit Brooks /Princeton University Art Museum, Alessandra Guarascio, Wenting Chen and Hester Chan / M+, Caroline Ugelstad / MUNCH Oslo, formerly Henie Onstad, Hubertus von Amelunxen / Archivio Conz, the Activating Fluxus team, and others. The Study Day will take place online with limited in-person participation at the HKB Bern. This event is by invitation only.
   DAY TWO
   FRIDAY, FEBRUARY 27, 2026, 12-7 PM
-  Activations: A Fluxus Symposium
+  Activations A Fluxus Symposium
   HKB Bern, Auditorium, and online
 
   With speakers from the Fluxus milieu and beyond, including Tim Ingold, Natasha Lushetich, and Judit Bodor, moderators and discussants Natilee Harren, Elke Gruhn, Sally Kawamura, Emilie Parendeau and Stefanie Manthey, as well as presentations of research carried out by the project team members Josephine Ellis, Aga Wielocha and Hanna Hölling. The symposium takes place at HKB Bern, Fellerstrasse 11, and is open to the public. In response to multiple requests, we are currently working to make the event available in a hybrid format via livestream. For the full schedule, follow this link.

@@ -2,8 +2,6 @@
 cssclass: research-note
 type: "bookSection"
 
-
-
 author: "Gopinath, Gayatari"
 
 title: "Archive, Affect, and the Everyday"

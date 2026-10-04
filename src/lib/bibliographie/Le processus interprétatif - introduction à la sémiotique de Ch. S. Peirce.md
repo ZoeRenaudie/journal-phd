@@ -13,7 +13,7 @@ tags:
   - indice
   - signe
 theme: Théorie
-bibliography: '"Everaert-Desmedt, Nicole. 1990. _Le Processus Interprétatif : Introduction à La Sémiotique de Ch. S. Peirce_. Philosophie et Langage. Mardaga."'
+bibliography: 'Everaert-Desmedt, Nicole. 1990. Le Processus Interprétatif : Introduction à La Sémiotique de Ch. S. Peirce. Philosophie et Langage. Mardaga.'
 ---
 
 ### Présentation auteur.e.s

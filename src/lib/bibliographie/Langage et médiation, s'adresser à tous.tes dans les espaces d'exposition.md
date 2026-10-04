@@ -10,7 +10,7 @@ tags:
   - exposition
   - documentation
 theme: queer
-citation: Muñoz, Elena Lespes, Collectif Les Paillettes, et Pascal Lièvre. 2026. « Langage et médiation, s’adresser à tous.tes dans les espaces d’exposition ». Conférence. Cultures Queer. Comment repenser les pratiques d’exposition ?, Gaité Lyrique, mars 27. [https://www.gaite-lyrique.net/agenda/2026/cultures-queer/](https://www.gaite-lyrique.net/agenda/2026/cultures-queer/).
+bibliography: Muñoz, Elena Lespes, Collectif Les Paillettes, et Pascal Lièvre. 2026. « Langage et médiation, s’adresser à tous.tes dans les espaces d’exposition ». Conférence. Cultures Queer. Comment repenser les pratiques d’exposition ?, Gaité Lyrique, mars 27. [https://www.gaite-lyrique.net/agenda/2026/cultures-queer/](https://www.gaite-lyrique.net/agenda/2026/cultures-queer/).
 ---
 ### Présentation intervenant.e.s
 
