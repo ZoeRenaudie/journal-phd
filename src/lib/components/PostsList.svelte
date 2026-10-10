@@ -20,7 +20,7 @@
 
 			</article>
 			<p class="post-date">
-				{new Date(post.date).toLocaleDateString('fr-CA')}
+				{new Date(post.date).toLocaleDateString('fr-CA', { timeZone: 'UTC' })}
 			</p>
 
 			<p>résumé : {post.excerpt}</p>

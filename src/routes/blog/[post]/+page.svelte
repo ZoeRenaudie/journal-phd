@@ -1,12 +1,45 @@
 <!-- This file renders each individual blog post for reading. Be sure to update the svelte:head below -->
 <script>
-	 import { base } from '$app/paths';
+	import { onMount, tick } from 'svelte';
+	import { base } from '$app/paths';
+	import { siteURL } from '$lib/config';
 	 
 	let { data } = $props();
 
-	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories } =
+	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories, slug } =
 		data.meta;
 	const { PostContent } = data;
+	const citationDate = typeof date === 'string' ? date.split('T')[0] : date;
+	const citationUrl = `https://${siteURL}${base}/blog/${slug}`;
+
+	let postContentEl;
+
+	onMount(async () => {
+		await tick();
+		if (!postContentEl) return;
+
+		const blocks = postContentEl.querySelectorAll('code.language-mermaid');
+		if (blocks.length === 0) return;
+
+		const mermaid = (await import('mermaid')).default;
+		mermaid.initialize({ startOnLoad: false, theme: 'neutral' });
+
+		for (const [index, block] of Array.from(blocks).entries()) {
+			const container = block.closest('pre') ?? block;
+			try {
+				const { svg } = await mermaid.render(
+					`mermaid-${index}-${Date.now()}`,
+					block.textContent
+				);
+				const wrapper = document.createElement('div');
+				wrapper.className = 'mermaid-rendered';
+				wrapper.innerHTML = svg;
+				container.replaceWith(wrapper);
+			} catch (error) {
+				console.error('Mermaid render failed:', error);
+			}
+		}
+	});
 </script>
 
 <svelte:head>
@@ -45,7 +78,19 @@
 		{updated}
 	</div>
 
-	<PostContent />
+	<div class="post-content" bind:this={postContentEl}>
+		<PostContent />
+	</div>
+
+	<aside class="citation-box" aria-label="Référence bibliographique">
+		<div class="citation-label">Pour citer</div>
+		<p>
+			<strong>Renaudie, Zoë.</strong>
+			{citationDate || '(date)'}. « {title} ».
+			<em>Journal Ph.D. MuseoLog</em>,
+			<a href={citationUrl}>{citationUrl}</a>.
+		</p>
+	</aside>
 	
 <nav class="post-nav">
   {#if data.previous}
@@ -78,3 +123,34 @@
 		</aside>
 	{/if}
 </article>
+
+<style>
+	.citation-box {
+		margin-top: 2.5rem;
+		padding: 1.5rem 1.25rem;
+		background: #fffbdc;
+		color: #6b6688;
+		border-radius: 0.25rem;
+		box-shadow: 0 5px 16px rgba(90, 72, 146, 0.07);
+	}
+
+	.citation-label {
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		opacity: 0.9;
+		margin-bottom: 0.6rem;
+	}
+
+	.citation-box p {
+		margin: 0;
+		line-height: 1.7;
+		font-size: 0.98rem;
+	}
+
+	.citation-box a {
+		color: #6b6688;
+		word-break: break-all;
+	}
+</style>
