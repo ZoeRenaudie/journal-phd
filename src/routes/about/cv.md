@@ -233,6 +233,9 @@ Stage au département de la restauration de sculpture, sous la direction de Seba
 
 ## Distinctions
 
+**Bourse de rayonnement - Docinter (CA)**  
+Obtention : octobre 2026  
+
 **Bourse de mobilité CRIHN - Université de Montréal (CA)**  
 Obtention : juillet 2026  
 
