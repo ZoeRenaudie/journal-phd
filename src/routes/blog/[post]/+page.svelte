@@ -9,6 +9,7 @@
 	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories, slug } =
 		data.meta;
 	const { PostContent } = data;
+	const citationAuthor = data.meta.author ?? 'Renaudie, Zoë';
 	const citationDate = typeof date === 'string' ? date.split('T')[0] : date;
 	const citationUrl = `https://${siteURL}${base}/blog/${slug}`;
 
@@ -85,7 +86,7 @@
 	<aside class="citation-box" aria-label="Référence bibliographique">
 		<div class="citation-label">Pour citer</div>
 		<p>
-			<strong>Renaudie, Zoë.</strong>
+			<strong>{citationAuthor}.</strong>
 			{citationDate || '(date)'}. « {title} ».
 			<em>Journal Ph.D. MuseoLog</em>,
 			<a href={citationUrl}>{citationUrl}</a>.
