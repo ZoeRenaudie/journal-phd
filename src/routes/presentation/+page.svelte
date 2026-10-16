@@ -1,6 +1,11 @@
 <script>
   const presentations = [
-    {
+    { 
+      titre: "Humanités numériques et patrimoine culturel : enjeux et perspectives",
+      evenement: "Université d'Ottawa",
+      date: "2026-10-16",
+      url: "https://contributions.zoerenaudie.com/2026coursOttawa/"
+    },{
       titre: "Exhibitions as Data : Mapping the Invisible Threads of a Relational and Processual Heritage",
       evenement: "DH2026",
       date: "2026-07-29",
