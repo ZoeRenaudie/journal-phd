@@ -19,7 +19,7 @@ ORCID : 0009-0001-5825-8624
 
 **Chapitres de livre**
 
-**Renaudie, Zoë** (sous presse). Le monde de *Feux pâles*, exposition ou œuvre-réseau. Dans G. Salatko et al. (dir.), *Objet en crise : la conservation à la croisée des mondes*. Villeneuve-d’Ascq, France : Presses Universitaires du Septentrion.
+**Renaudie, Zoë**. 2027. Le monde de *Feux pâles*, exposition ou œuvre-réseau. Dans Gaspard Salatko et al. (dir.), *Objet en crise : la conservation à la croisée des mondes*. Villeneuve-d’Ascq, France : Presses Universitaires du Septentrion.
 
 **Actes de colloque (avec comité de lecture)**
 
@@ -29,9 +29,12 @@ ORCID : 0009-0001-5825-8624
 
 **Articles avec comité de lecture**
 
-Miclo, A.-S., **Renaudie, Zoë**, & Saulnier, G. (sous presse). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique].
+**Renaudie, Zoë**. [accepté]. «Le compost comme troisième temps : décomposition queer et horizon non 
+advenu» “We live without a future. That’s what’s queer.” Penser la finitude et le futur au queer, Revue Post-Scriptum, n° 44, Montréal. 
 
-Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue ? »* Vers la constitution d’une banque de photographies d’expositions Proposition de protocole ». Les Cahiers de muséologie, juillet 6. http://bibli-cloud15.segi.ulg.ac.be/2406-7202/index.php?id=2116.
+Miclo, Anne-Sophie, **Renaudie, Zoë**, & Saulnier, Geneviève (sous presse). Acceptation de l’usure. *Encyclopédie des nouveaux usages des collections* [édition numérique].
+
+Martens, David, et al. (dont **Renaudie, Zoë**)  2026. « « M’as-tu vue ? » Vers la constitution d’une banque de photographies d’expositions - Proposition de protocole ». Les Cahiers de muséologie, juillet 6. http://bibli-cloud15.segi.ulg.ac.be/2406-7202/index.php?id=2116.
 
 **Renaudie, Zoë** (2024). La documentation d’exposition : retour d’expérience. *museonum*. <https://medium.com/museonum/la-documentation-dexposition-retour-d-exp%C3%A9rience-309521484918>
 
@@ -232,6 +235,10 @@ Stage au département de la restauration de sculpture, sous la direction de Seba
 2018 L’oeuvre en mouvement, Odile Michel, Cipac
 
 ## Distinctions
+
+**Bourse Muséodoc - Faculté des arts et des sciences (CA)**  
+Obtention : novembre 2026
+Bourse d'excellence
 
 **Bourse de rayonnement - Docinter (CA)**  
 Obtention : octobre 2026  
